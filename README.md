@@ -13,9 +13,8 @@ Each file contains a specific prompt or tool with instructions. Feel free to use
 
 ## Note
 
-These are personal tools; they may require adjustments for different use cases.
+These are personal tools; they may require adjustments for different use cases. Feedback and suggestions are welcome via issues.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.md](LICENSE.md) file for details.
