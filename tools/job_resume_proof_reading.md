@@ -1,11 +1,38 @@
-# Resume Proof Reading
+# Resume Proofreading
 
 This tool is designed to help job seekers improve their resumes using AI assistance. It provides a comprehensive analysis of your resume, focusing on structure, content, grammar, and overall effectiveness. By using this tool, you can ensure your resume is optimized for your target position and industry.
 
 > [!NOTE]
 > **Pro tip**: This tool works best with AI models that have internet access or up-to-date information. Using a web-enabled model will ensure you get the most current and comprehensive resume advice.
 
+## What It Does
+
+This AI-powered resume proofreading tool performs several key functions:
+
+1. Markdown Conversion: It converts your resume into a markdown format. This step:
+   - Helps standardize the resume structure for easier analysis
+   - Provides you with a clean, formatted version that can be easily updated or shared
+   - Assists the AI in accurately processing the resume content without hallucinating or missing information
+
+2. Comprehensive Review: The tool thoroughly examines your resume, focusing on:
+   - Structure and formatting
+   - Content relevance and impact
+   - Grammar and spelling
+   - Overall effectiveness for your target role
+
+3. Scoring and Error Detection:
+   - Assigns a score from 1 to 100 based on the resume's quality
+   - Critically, it assigns a score of 0 if there are any major errors, red flags, or significant structural issues
+   - This zero-tolerance approach for major errors ensures you're alerted to critical issues that could harm your job prospects
+
+4. Salary Estimation: Based on the resume content, it provides an estimated salary range for the position you're targeting
+
+5. Detailed Feedback: The tool offers explanations for its scoring and provides specific suggestions for improvement
+
+By performing these functions, the tool helps you create a polished, error-free resume that effectively showcases your skills and experience, potentially increasing your chances of landing interviews and job offers.
+
 ## Usage
+
 To use this tool, simply provide your resume either attached or pasted below the prompt. The AI will analyze your resume and provide detailed feedback and suggestions for improvement.
 
 ## Prompt
