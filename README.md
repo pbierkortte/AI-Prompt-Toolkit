@@ -4,6 +4,15 @@ My Personal Collection of AI Prompts, Code Snippets, and Tips & Tricks for Enhan
 
 > [!IMPORTANT]
 > The contents of this repo, including prompts, documentation, and generated outputs, are likely AI-generated or AI-assisted.
+
+## Purpose
+
+This repository serves two main purposes:
+
+1. **Sharing Valuable Prompts**: It's a place to share AI prompts that are too good to keep to myself. By making these prompts publicly available, I hope to contribute to the AI community and help others enhance their AI interactions.
+
+2. **Self-Updating README Challenge**: As a creative challenge, this README is designed to automatically update its Table of Contents (TOC) as new content is added. This demonstrates an interesting application of self-updating documentation.
+
 ## Contents
 
 <!-- TOC START -->
