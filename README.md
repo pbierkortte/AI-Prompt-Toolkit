@@ -22,10 +22,6 @@ This repository serves two main purposes:
 
 Each file contains a specific prompt or tool with instructions. Feel free to use and adapt them for your needs.
 
-## Note
-
-These are personal tools that may require adjustments for different use cases. Feedback, suggestions for improvements, and reports of any issues are welcome via the repository's issue tracker.
-
 ## License
 
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
