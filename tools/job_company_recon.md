@@ -1,4 +1,4 @@
-# Job Company Reconnaissance
+# Company Reconnaissance
 
 This tool is designed to help you gather comprehensive information about a company for job applications and interviews. By following the prompt and guidelines provided, you'll be able to create a detailed company overview that will prepare you for your job search process.
 
