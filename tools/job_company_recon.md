@@ -81,6 +81,7 @@ Role: Software Development Engineer
 
 Output Sample (excerpt):
 
+```
 Amazon, founded in 1994 by Jeff Bezos, has grown from an online bookstore to a global e-commerce and technology giant. Headquartered in Seattle, Washington, the company's mission is to be Earth's most customer-centric company. Amazon's core values include customer obsession, ownership, innovation, and long-term thinking.
 
 As a Software Development Engineer at Amazon, you would be part of a company that places a high value on technological innovation. Amazon Web Services (AWS), the company's cloud computing platform, is a major focus area and revenue driver. The company culture is known for its fast-paced, high-performance environment, with a strong emphasis on data-driven decision-making and continuous improvement.
