@@ -135,4 +135,3 @@ This range is based on the candidate's senior-level experience at top tech compa
 
 5. **Q: How often should I update my resume?**
    A: Review and update your resume regularly, at least every 6-12 months, or whenever you have significant new achievements or skills to add. Always update it before starting a new job search.
-
