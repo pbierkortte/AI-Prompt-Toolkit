@@ -25,7 +25,7 @@ This repository serves two main purposes:
 
 ## Usage
 
-Each file contains a specific prompt or tool with instructions. Feel free to use and adapt them for your needs.
+Each file contains a specific prompt or tool with instructions.
 
 ## License
 
