@@ -9,10 +9,6 @@ My Personal Collection of AI Prompts, Code Snippets, and Tips & Tricks for Enhan
 
 This repository serves two main purposes:
 
-## Purpose
-
-This repository serves two main purposes:
-
 1. **Sharing Valuable Prompts**: It's a place to share AI prompts that are too good to keep to myself. By making these prompts publicly available, I hope to contribute to the AI community and help others enhance their AI interactions.
 
 2. **Demonstrating Self-Updating Documentation**: This README automatically updates its Table of Contents (TOC) as new content is added to the repository. This demonstrates a practical method for maintaining up-to-date documentation with minimal manual effort, potentially saving time and reducing errors in your own projects. Feel free to explore the GitHub Actions workflow to see how you might implement similar functionality in your repositories.
