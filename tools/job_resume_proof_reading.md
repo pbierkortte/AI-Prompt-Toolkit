@@ -2,9 +2,6 @@
 
 This tool is designed to help job seekers improve their resumes using AI assistance. It provides a comprehensive analysis of your resume, focusing on structure, content, grammar, and overall effectiveness. By using this tool, you can ensure your resume is optimized for your target position and industry.
 
-> [!NOTE]
-> **Pro tip**: This tool works best with AI models that have internet access or up-to-date information. Using a web-enabled model will ensure you get the most current and comprehensive resume advice.
-
 ## What It Does
 
 This AI-powered resume proofreading tool performs several key functions, and by performing these functions, the tool helps you create a polished, error-free resume that effectively showcases your skills and experience, potentially increasing your chances of landing interviews and job offers.
