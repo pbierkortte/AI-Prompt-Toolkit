@@ -12,7 +12,7 @@ This AI-powered resume proofreading tool performs several key functions, and by 
 1. **Markdown Conversion**: It converts your resume into a markdown format:
    - Helps standardize the resume structure for easier analysis
    - Provides you with a clean, formatted version that can be easily copied and pasted into other prompts
-   - Assists the AI in accurately processing the resume content without hallucinating or missing information
+   - Assists the AI in accurately to process the resume content reducing the chance of missing information or hallucination 
 
 2. **Comprehensive Review**: The tool thoroughly examines your resume, focusing on:
    - Structure and formatting
