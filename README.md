@@ -13,6 +13,10 @@ This repository serves two main purposes:
 
 2. **Self-Updating TOC**: This README's Table of Contents updates automatically via GitHub Actions, showcasing efficient documentation maintenance. Explore the workflow to implement similar functionality in your own projects.
 
+## Usage
+
+Each file contains a specific prompt or tool with instructions.
+
 ## Contents
 
 <!-- TOC START -->
@@ -22,10 +26,6 @@ This repository serves two main purposes:
 * [Resume Proof Reading](tools/job_resume_proof_reading.md)
 
 <!-- TOC END -->
-
-## Usage
-
-Each file contains a specific prompt or tool with instructions.
 
 ## License
 
