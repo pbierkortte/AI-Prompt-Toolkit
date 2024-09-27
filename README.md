@@ -11,7 +11,7 @@ My personal collection of AI prompts, code snippets, and tips & tricks for enhan
 
 * [Job Company Reconnaissance](tools/job_company_recon.md)
 * [Post-Interview Follow-Up Email Generator](tools/job_interview_follow_up_email.md)
-* [Resume Proof Reading](tools/job_resume_proof_reading.md)
+* [Resume Proofreading](tools/job_resume_proof_reading.md)
 
 <!-- TOC END -->
 
