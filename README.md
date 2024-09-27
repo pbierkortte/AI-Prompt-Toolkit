@@ -2,6 +2,9 @@
 
 My personal collection of AI prompts, code snippets, and tips & tricks for enhancing AI projects too good to keep to myself.
 
+> [!NOTE]
+> **Disclosure**: The contents of this toolkit, including prompts and generated outputs, are likely AI-generated or AI-assisted.
+
 ## Contents
 
 <!-- TOC START -->
