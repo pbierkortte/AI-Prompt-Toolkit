@@ -13,7 +13,7 @@ if ! grep -q "<!-- TOC START -->" README.md || ! grep -q "<!-- TOC END -->" READ
 fi
 
 # Generate the new contents
-CONTENTS="<!-- TOC START -->\n\n## Contents\n\n"
+CONTENTS="<!-- TOC START -->\n\n"
 
 # Find all markdown files in the tools directory
 TOOLS_FILES=$(find tools -type f -name "*.md" | sort)
