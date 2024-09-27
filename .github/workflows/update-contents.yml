@@ -1,0 +1,27 @@
+
+### 3. .github/workflows/update-contents.yml
+
+```yaml
+name: Update Contents
+
+on:
+  push:
+    paths:
+      - 'tools/**'
+  workflow_dispatch:
+
+jobs:
+  update-contents:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update Contents
+        run: |
+          bash .github/workflows/update-contents.sh
+      - name: Commit changes
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add README.md
+          git diff --cached --quiet || git commit -m "Update Contents"
+          git push
