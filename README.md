@@ -5,6 +5,9 @@ My personal collection of AI prompts, code snippets, and tips & tricks for enhan
 ## Contents
 
 <!-- TOC START -->
+
+* [Post-Interview Follow-Up Email Generator](tools/job_interview_follow_up_email.md)
+
 <!-- TOC END -->
 
 ## Usage
