@@ -27,7 +27,7 @@ The goal is to have a naturally formatted company overview that will prepare me 
 This task is broken into 3 parts:
 1. Collection and gathering information (see Research section below)
 2. Collect even more details about the company and its values
-3. Remove Citations, but do not summarize. 
+3. Remove citations, but do not summarize. 
 
 ### Research
 Analyze this company for this role. Cover basics including history, mission, values, products/services, size, revenue, and locations. Describe market position, major competitors, and recent news. Explain culture, work environment, employee satisfaction, and work-life balance. Detail career growth opportunities, training programs, and typical career paths. Outline compensation, including benefits, perks, and salary ranges for relevant positions. Provide information on key executives and management style. Include recent financial performance and projections. Highlight recent innovations and R&D focus. Identify current challenges and growth opportunities. Describe the hiring process, common interview questions, and desired qualifications. Include company ratings and recurring themes in employee reviews. Summarize recent press releases and upcoming events. Be concise but thorough.
