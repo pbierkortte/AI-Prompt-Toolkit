@@ -1,26 +1,41 @@
-name: Update Contents
+#!/bin/bash
 
-on:
-  push:
-    paths:
-      - 'tools/**'
-  workflow_dispatch:
+# Check if README.md exists
+if [ ! -f README.md ]; then
+  echo "README.md not found!"
+  exit 1
+fi
 
-permissions:
-  contents: write
+# Check if TOC markers are present
+if ! grep -q "<!-- TOC START -->" README.md || ! grep -q "<!-- TOC END -->" README.md; then
+  echo "TOC markers not found in README.md!"
+  exit 1
+fi
 
-jobs:
-  update-contents:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - name: Update Contents
-        run: |
-          bash .github/workflows/update-contents.sh
-      - name: Commit changes
-        run: |
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git config --global user.name "github-actions[bot]"
-          git add README.md
-          git diff --cached --quiet || git commit -m "Update Contents"
-          git push
+# Generate the new contents
+CONTENTS="<!-- TOC START -->\n\n"
+
+# Find all markdown files in the tools directory
+TOOLS_FILES=$(find tools -type f -name "*.md" | sort)
+
+# Loop through each file and add it to the Contents section
+for FILE in $TOOLS_FILES; do
+  FILE_PATH="$FILE"
+  # Extract the title from the markdown file's first line
+  TITLE=$(grep '^# ' "$FILE" | head -n 1 | sed 's/^# //')
+  # If no title is found, use the file name
+  if [ -z "$TITLE" ]; then
+    TITLE=$(basename "$FILE" .md)
+  fi
+  CONTENTS+="* [$TITLE]($FILE_PATH)\n"
+done
+
+CONTENTS+="\n<!-- TOC END -->"
+
+# Replace the contents between the TOC markers
+awk -v CONTENTS="$CONTENTS" '
+  BEGIN { in_toc=0 }
+  /^<!-- TOC START -->/ { print CONTENTS; in_toc=1; next }
+  /^<!-- TOC END -->/ { in_toc=0; next }
+  !in_toc { print }
+' README.md > README.tmp && mv README.tmp README.md
