@@ -25,7 +25,7 @@ This AI-powered resume proofreading tool performs several key functions, and by 
    - Critically, it assigns a score of 0 if there are any major errors, red flags, or significant structural issues
    - This zero-tolerance approach for major errors ensures you're alerted to critical issues that could harm your job prospects
 
-4. **Salary Estimation**: Based on the resume content, it provides an estimated salary range for the position you're targeting
+4. **Salary Estimation**: Based on the resume content, it provides an estimated salary range for the positions you're targeting
 
 5. **Detailed Feedback**: The tool offers explanations for its scoring and provides specific suggestions for improvement
 
