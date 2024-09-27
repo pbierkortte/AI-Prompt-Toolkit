@@ -2,8 +2,8 @@
 
 My Personal Collection of AI Prompts, Code Snippets, and Tips & Tricks for Enhancing AI Projects
 
-> [!NOTE]
-> The contents of this repo, including prompts, documentation, and generated outputs, are likely AI-generated or AI-assisted.
+> [!IMPORTANT]
+> The contents of this repo, including prompts, documentation, and generated outputs, are likely AI-generated or AI-assisted. Use at your own risk.
 
 ## Contents
 
