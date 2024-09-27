@@ -72,17 +72,24 @@ As a Software Engineer at Tesla, you would be part of a company at the forefront
 ```
 
 ### FAQ
-1. **Q: How often should I update my company research?**
-   A: It's best to refresh your research before each application or interview, as company information can change quickly. For rapidly evolving companies like those in tech or startups, consider updating your research weekly.
 
-2. **Q: Can I use this tool for multiple companies?**
-   A: Yes, you can use this tool for any company you're interested in. Just provide the specific details for each company in the prompt. This allows you to create comprehensive overviews for multiple companies you're considering.
+1. **Q: How often should I update my research?**
+   A: Before each application or interview. For fast-moving companies, weekly.
 
-3. **Q: What if I can't find all the information requested in the research section?**
-   A: Provide as much information as you can find from reliable sources. If certain details are not available, focus on the information you do have. It's also worth noting in your research that some information isn't publicly available, as this can be a good talking point in interviews.
+2. **Q: Can I use this for multiple companies?**
+   A: Yes. Just input specific details for each company.
 
-4. **Q: How can I verify the accuracy of the information I've gathered?**
-   A: Cross-reference information from multiple sources, prioritize recent and official company communications, and be wary of outdated or unofficial sources. If possible, reach out to current or former employees through professional networks for insights.
+3. **Q: What if I can't find all the requested information?**
+   A: Use what you have. Note any gaps - it could be a good interview question.
 
-5. **Q: Should I include negative information I find about the company?**
-   A: While it's important to have a balanced view, focus on presenting factual information. If you encounter negative press or reviews, consider how recent and relevant they are, and think about how you might tactfully address these topics if they come up in an interview.
+4. **Q: How do I verify information accuracy?**
+   A: Cross-reference multiple sources. Prioritize recent official company statements and reputable financial reports.
+
+5. **Q: Should I include negative information about the company?**
+   A: Include factual information. Be prepared to discuss it objectively if it comes up.
+
+6. **Q: How detailed should my research be?**
+   A: Enough to speak confidently about the company and ask informed questions. Quality over quantity.
+
+7. **Q: Is it worth researching smaller or less-known companies?**
+   A: Absolutely. It often gives you an edge as fewer candidates do thorough research on these.
