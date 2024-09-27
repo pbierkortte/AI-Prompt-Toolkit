@@ -16,6 +16,11 @@ This repository serves two main purposes:
 ## Contents
 
 <!-- TOC START -->
+
+* [Company Reconnaissance](tools/job_company_recon.md)
+* [Post-Interview Follow-Up Email Generator](tools/job_interview_follow_up_email.md)
+* [Resume Proof Reading](tools/job_resume_proof_reading.md)
+
 <!-- TOC END -->
 
 ## Usage
