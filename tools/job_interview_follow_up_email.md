@@ -13,7 +13,14 @@ To use this generator, simply provide the necessary details about your interview
 > 3. Task details (required)
 
 ## Prompt
-Include this entire text, customizing it as needed.
+
+Use the provided template, filling in the placeholders with appropriate content based on the following input:
+
+- Position and company name
+- Interview date
+- Specific topics discussed (if any)
+- Your relevant background/experience
+- Company information (if available)
 
 ```plaintext
 Generate a professional and enthusiastic follow-up email to send after a job interview, adaptable to various levels of input detail.
@@ -26,13 +33,6 @@ Guidelines:
 5. Offer to provide additional information
 6. Maintain a professional and enthusiastic tone
 7. Keep the email concise (150-200 words)
-
-Use the provided template, filling in the placeholders with appropriate content based on the following input:
-- Position and company name
-- Interview date
-- Specific topics discussed (if any)
-- Your relevant background/experience
-- Company information (if available)
 
 Example input:
 Generate a post-interview follow-up email for a software developer position at TechCorp. The interview was yesterday, and we discussed their new AI-driven project. My background includes 5 years of Python development and machine learning experience. TechCorp is known for its innovative approach to cloud computing solutions.
