@@ -13,6 +13,8 @@ To use this generator, simply provide the necessary details about your interview
 > 3. Task details (required)
 
 ## Prompt
+Include this entire text, customizing it as needed.
+
 ```plaintext
 Generate a professional and enthusiastic follow-up email to send after a job interview, adaptable to various levels of input detail.
 
@@ -68,7 +70,7 @@ I look forward to the possibility of contributing to your projects. Please let m
 Thank you again for your time and consideration.
 
 Best regards,
-[Your Name]
+Jane Doe
 ```
 
 ## FAQ
