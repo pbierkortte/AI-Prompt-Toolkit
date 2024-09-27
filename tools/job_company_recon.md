@@ -37,24 +37,29 @@ Adjust formatting, removing citations "[number]" but do not summarize.
 ```
 
 ### Customization
-You can customize your company reconnaissance by providing more detailed information in your prompt. Consider including:
-- Specific aspects of the company you're particularly interested in (e.g., their sustainability initiatives, diversity and inclusion efforts, or technological innovations)
-- Any personal connections or experiences you have with the company (e.g., using their products, attending their events, or following their social media)
-- Industry-specific information that might be relevant to the role (e.g., recent regulatory changes, market trends, or competitive landscape)
+
+Tailor your research by including:
+- Key company projects or technologies you're interested in
+- Your experience with their products or services
+- Recent industry developments affecting the company
+- Specific skills you have that match their current needs
 
 ### Best Practices
-1. Research the company thoroughly before using this tool, using their official website, annual reports, and reputable news sources
-2. Use multiple sources to gather information about the company, including industry publications and professional networking sites
-3. Focus on recent news and developments, especially those relevant to your target role
-4. Pay attention to the company's culture and values, and consider how they align with your own
-5. Consider how your skills and experiences align with the company's needs and current projects
-6. Prepare questions based on the information you gather to demonstrate your genuine interest during interviews
+
+1. Check the company's website and recent financial reports
+2. Look up news articles and industry analyses
+3. Focus on developments relevant to your target role
+4. Understand their main products, services, and competitors
+5. Identify how your skills match their current projects
+6. Prepare specific, informed questions for the interview
 
 ### Limitations
-- The generated overview may not capture very specific or unique aspects of the company that are not widely publicized
-- Information may become outdated quickly, especially for fast-growing or changing companies, so always verify with the most recent sources
-- The tool relies on the quality and accuracy of the input provided, so ensure you're using reliable sources
-- The overview may not reflect internal company dynamics or unpublished future plans
+
+- May miss insider information or very recent developments
+- Accuracy depends on available public information
+- Can't capture internal dynamics or unpublished plans
+- Might not reflect rapid changes in fast-moving companies
+- Quality of output depends on the depth of your input
 
 ### Example Output (excerpt)
 
