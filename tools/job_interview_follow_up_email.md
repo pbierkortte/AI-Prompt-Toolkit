@@ -4,7 +4,6 @@
 This is a prompt for generating a professional post-interview follow-up email. Simply provide the necessary details about your interview, and the AI will create a tailored email for you.
 
 > **Pro tip**: Developers can split the input over 3 user messages for simplicity:
-> 
 > 1. Resume highlights (optional)
 > 2. Company research (optional)
 > 3. Task details (required)
