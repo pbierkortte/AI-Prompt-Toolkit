@@ -1,4 +1,4 @@
-# Post-Interview Follow-Up Email
+# Post-Interview Follow-Up Email Generator
 
 ## Objective
 
