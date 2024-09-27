@@ -11,7 +11,7 @@ This repository serves two main purposes:
 
 1. **Sharing Valuable Prompts**: It's a place to share AI prompts that are too good to keep to myself. By making these prompts publicly available, I hope to contribute to the AI community and help others enhance their AI interactions.
 
-2. **Self-Updating Documentation Demo**: This README's Table of Contents updates automatically via GitHub Actions, showcasing efficient documentation maintenance. Check the workflow to implement in your projects.
+2. **Self-Updating README**: This README's Table of Contents updates automatically via GitHub Actions, showcasing efficient documentation maintenance. Check the workflow to implement in your projects.
 
 ## Contents
 
