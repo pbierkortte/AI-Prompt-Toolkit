@@ -3,7 +3,8 @@
 Following up after a job interview is a crucial step in the hiring process. It demonstrates your continued interest, professionalism, and attention to detail. This Post-Interview Follow-Up Email Generator helps you create a personalized, effective email to send to your interviewer(s) after your job interview.
 
 ## Usage
-To use this generator, simply provide the necessary details about your interview in the prompt below. The AI will create a tailored email based on your input.
+To use this generator, simply provide the necessary details about your interview in the prompt below.
+
 
 > [!NOTE]
 > **Pro tip**: Developers can split the input over 3 user messages without explicit inputs, allowing the model to sort it out:
