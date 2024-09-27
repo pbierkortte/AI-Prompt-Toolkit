@@ -1,8 +1,4 @@
-
-### 3. .github/workflows/update-contents.yml
-
-```yaml
-name: Update Contents
+name: Update TOC
 
 on:
   push:
