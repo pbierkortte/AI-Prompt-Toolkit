@@ -2,8 +2,8 @@
 
 My Personal Collection of AI Prompts, Code Snippets, and Tips & Tricks for Enhancing AI Projects
 
-> [!NOTE]
-> **Disclosure**: The contents of this toolkit, including prompts, documentation, and generated outputs, are likely AI-generated or AI-assisted.
+> [!DISCLOSURE]
+> The contents of this toolkit, including prompts, documentation, and generated outputs, are likely AI-generated or AI-assisted.
 
 ## Contents
 
