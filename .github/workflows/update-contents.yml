@@ -1,4 +1,4 @@
-name: Update TOC
+name: Update Contents
 
 on:
   push:
