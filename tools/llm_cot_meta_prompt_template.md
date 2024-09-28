@@ -117,7 +117,7 @@ Ensure that the final task output is of the highest quality, fulfilling all task
 
 **Q: How do I determine the appropriate scoring criteria in Stage 4?** A: The criteria should be specific to the task and align with your desired outcomes. Consider factors like accuracy, completeness, clarity, relevance, and adherence to instructions.
 
-**Q: How many iterations of refinement (Stage 6) are typically needed?** A: It varies depending on the task complexity and the LLM's initial performance. Start with 2-3 iterations and adjust as needed based on the observed improvements.
+**Q: How many iterations of refinement (Stage 6) are typically needed?** A: It varies depending on the task complexity and the LLM's initial performance and context size. Larger LLMs will delve deeper and work harder.
 
 **Q: Can I use this template with any LLM?** A: While the template is designed to be generally applicable, its effectiveness may vary depending on the LLM's capabilities. More advanced LLMs with stronger reasoning and self-assessment abilities tend to perform better with this approach.
 
