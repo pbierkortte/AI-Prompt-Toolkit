@@ -116,23 +116,13 @@ Ensure that the final task output is of the highest quality, fulfilling all task
 
 ## FAQ
 
-**Q: What types of tasks is the CoT meta-prompt template best suited for?**
+**Q: What types of tasks is the CoT meta-prompt template best suited for?** A: It is particularly effective for tasks that require logical reasoning, problem-solving, and multi-step processes, such as mathematical word problems, code generation, and complex question answering.  
 
-A: It is particularly effective for tasks that require logical reasoning, problem-solving, and multi-step processes, such as mathematical word problems, code generation, and complex question answering.  
+**Q: How do I determine the appropriate scoring criteria in Stage 4?** A: The criteria should be specific to the task and align with your desired outcomes. Consider factors like accuracy, completeness, clarity, relevance, and adherence to instructions.
 
-**Q: How do I determine the appropriate scoring criteria in Stage 4?**
+**Q: How many iterations of refinement (Stage 6) are typically needed?** A: It varies depending on the task complexity and the LLM's initial performance. Start with 2-3 iterations and adjust as needed based on the observed improvements.
 
-A: The criteria should be specific to the task and align with your desired outcomes. Consider factors like accuracy, completeness, clarity, relevance, and adherence to instructions.
+**Q: Can I use this template with any LLM?** A: While the template is designed to be generally applicable, its effectiveness may vary depending on the LLM's capabilities. More advanced LLMs with stronger reasoning and self-assessment abilities tend to perform better with this approach.
 
-**Q: How many iterations of refinement (Stage 6) are typically needed?**
-
-A: It varies depending on the task complexity and the LLM's initial performance. Start with 2-3 iterations and adjust as needed based on the observed improvements.
-
-**Q: Can I use this template with any LLM?**
-
-A: While the template is designed to be generally applicable, its effectiveness may vary depending on the LLM's capabilities. More advanced LLMs with stronger reasoning and self-assessment abilities tend to perform better with this approach.
-
-**Q: What are some signs that the CoT approach is not working effectively?**
-
-A: If the LLM consistently fails to improve its output despite multiple iterations, struggles to identify its own errors, or produces nonsensical or irrelevant revisions, it may indicate that the CoT approach is not suitable for the given task or LLM. 
+**Q: What are some signs that the CoT approach is not working effectively?** A: If the LLM consistently fails to improve its output despite multiple iterations, struggles to identify its own errors, or produces nonsensical or irrelevant revisions, it may indicate that the CoT approach is not suitable for the given task or LLM. 
 
