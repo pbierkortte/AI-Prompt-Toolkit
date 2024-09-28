@@ -8,9 +8,7 @@ This Chain of Thought (CoT) meta-prompt template is designed to guide Large Lang
 > While this template can significantly enhance the quality of your LLM's output by guiding it through a structured reasoning process, it's important to remember that it won't fundamentally change the LLM's underlying capabilities.  It cannot make the LLM inherently smarter or grant it abilities it doesn't already possess. To maximize the effectiveness of this template, it's recommended to utilize powerful web-based LLMs or larger language models that have a greater capacity for reasoning and complex task execution. 
 ## Usage
 
-To use this template, simply replace the placeholder `[Insert Task Input Here]` with the specific instructions or details for the task you want the LLM to perform. The template provides a structured framework that guides the LLM through the following stages: 
-
-*(The detailed explanation of stages 0-9 remains the same as in the original file)*
+To use this template, simply replace the placeholder `[Insert Task Input Here]` with the specific instructions or details for the task you want the LLM to perform.
 
 ## Customization
 
@@ -112,11 +110,6 @@ Ensure that the final task output is of the highest quality, fulfilling all task
 
 [Insert Task Input Here]
 ```
-
-
-## Example Output
-
-*(Provide an example of how the LLM would respond to a task using this template. This could involve showing the LLM's output for each stage of the process)*
 
 ## FAQ
 
