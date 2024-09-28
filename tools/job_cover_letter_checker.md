@@ -101,6 +101,8 @@ These issues indicate a lack of attention to detail and proper customization. To
 Addressing these critical issues will significantly enhance the professionalism and effectiveness of your cover letter.
 ```
 
+Here's the de-duped and combined FAQ list:
+
 ## FAQ
 1. **Q: Why is the date so important in a cover letter?**
    A: An incorrect date can make your application appear outdated or indicate a lack of attention to detail.
@@ -115,55 +117,20 @@ Addressing these critical issues will significantly enhance the professionalism 
    A: Carefully read through your letter multiple times, paying close attention to company names, job titles, and any bracketed text.
 
 5. **Q: Why check for diversity statements?**
-   A: While diversity is important, unsolicited personal statements can be inappropriate in a cover letter. Focus on your qualifications for the role.
-```
+   A: If you are generating your cover letter with AI, models can pick up HR jargon and parrot it back, assuming it was the company's 'values' and such statements are inappropriate.
 
-This is the complete, unabridged markdown file for the Cover Letter Proofreading tool, formatted as requested.- It cannot verify the accuracy of your personal information or experiences
-- Suggestions are based on general best practices and may not account for specific company preferences
-- The tool cannot guarantee an interview invitation or job offer
-- AI may not catch all nuances or context-specific details in your cover letter
-
-## Example Output
-
-```
-Cover Letter Score: 85/100
-
-Explanation:
-This cover letter demonstrates several strengths:
-1. Clear structure with an introduction, body paragraphs, and conclusion
-2. Enthusiasm for the position and company
-3. Highlights relevant skills and experiences
-4. Demonstrates some knowledge of the company
-
-Areas for improvement:
-1. The opening could be more attention-grabbing
-2. Some paragraphs are a bit lengthy and could be more concise
-3. More specific examples of achievements would strengthen the letter
-4. The closing could include a stronger call to action
-
-Suggestions for enhancement:
-1. Begin with a more compelling opening statement that immediately showcases your value
-2. Break up longer paragraphs for better readability
-3. Include 1-2 specific, quantifiable achievements that directly relate to the job requirements
-4. Research the company more thoroughly and incorporate this knowledge into your letter
-5. End with a more assertive call to action, expressing your eagerness for an interview
-
-Overall, this is a solid cover letter that with some refinement could become excellent.
-```
-
-## FAQ
-1. **Q: How long should my cover letter be?**
+6. **Q: How long should my cover letter be?**
    A: Aim for 250-400 words, typically fitting on one page.
 
-2. **Q: Should I use the same cover letter for every job application?**
+7. **Q: Should I use the same cover letter for every job application?**
    A: No, you should tailor each cover letter to the specific job and company.
 
-3. **Q: Is it okay to use AI to write my entire cover letter?**
+8. **Q: Is it okay to use AI to write my entire cover letter?**
    A: While AI can help with improvements and suggestions, your cover letter should reflect your personal voice and experiences. Use AI as a tool for enhancement, not for full authorship.
 
-4. **Q: How can I make my cover letter stand out?**
+9. **Q: How can I make my cover letter stand out?**
    A: Research the company thoroughly, show genuine enthusiasm for the role, provide specific examples of your achievements, and clearly connect your skills to the job requirements.
 
-5. **Q: Should I mention salary expectations in my cover letter?**
-   A: Generally, it's best to avoid mentioning salary in your cover letter unless the job posting specifically requests it.
-```
+10. **Q: Should I mention salary expectations in my cover letter?**
+    A: Generally, it's best to avoid mentioning salary in your cover letter unless the job posting specifically requests it.
+
