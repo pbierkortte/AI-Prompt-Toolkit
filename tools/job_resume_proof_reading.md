@@ -127,8 +127,8 @@ This range is based on the candidate's senior-level experience at top tech compa
 2. **Q: Should I include all my work history?**
    A: Focus on relevant and recent experience. Older jobs can be summarized or omitted, especially if they're not directly related to the position you're applying for.
 
-3. **Q: Is it okay to use AI to write my entire resume?**
-   A: While AI can help with improvements and suggestions, your resume should reflect your personal experiences and voice. Use AI as a tool for enhancement, not for full authorship.
+3. **Q: How accurate is the salary estimation provided by this tool?**
+   A: The salary estimation is based on the information provided in your resume, including your experience level, skills, and industry. While it provides a general range, it may not account for specific factors like location, company size, or unique market conditions. Use it as a starting point for your research, but always cross-reference with other salary resources and consider your specific circumstances.
 
 4. **Q: How can I make my resume stand out?**
    A: Tailor it to the specific job, use strong action verbs, quantify your achievements, ensure perfect formatting and grammar, and focus on your unique contributions and skills that match the job requirements.
