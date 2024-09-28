@@ -25,6 +25,7 @@ Each file contains a specific prompt or tool with instructions.
 * [Cover Letter Checker](tools/job_cover_letter_checker.md)
 * [Post-Interview Follow-Up Email Generator](tools/job_interview_follow_up_email.md)
 * [Resume Proof Reading](tools/job_resume_proof_reading.md)
+* [llm_cot_meta_prompt_template](tools/llm_cot_meta_prompt_template.md)
 
 <!-- TOC END -->
 
