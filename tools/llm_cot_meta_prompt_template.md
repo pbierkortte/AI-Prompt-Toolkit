@@ -1,6 +1,41 @@
 # Chain of Thought Meta-Prompt Template
 
-Prompt
+## What It Does
+
+This Chain of Thought (CoT) meta-prompt template is designed to guide Large Language Models (LLMs) through a structured process for executing complex tasks. It encourages the LLM to reason step-by-step, leading to more accurate and reliable results. By breaking down tasks into smaller stages with clear evaluation and revision steps, this template helps LLMs produce high-quality outputs that meet specific requirements.
+
+> [!NOTE]
+> While this template can significantly enhance the quality of your LLM's output by guiding it through a structured reasoning process, it's important to remember that it won't fundamentally change the LLM's underlying capabilities.  It cannot make the LLM inherently smarter or grant it abilities it doesn't already possess. To maximize the effectiveness of this template, it's recommended to utilize powerful web-based LLMs or larger language models that have a greater capacity for reasoning and complex task execution. 
+## Usage
+
+To use this template, simply replace the placeholder `[Insert Task Input Here]` with the specific instructions or details for the task you want the LLM to perform. The template provides a structured framework that guides the LLM through the following stages: 
+
+*(The detailed explanation of stages 0-9 remains the same as in the original file)*
+
+## Customization
+
+You can customize this template further by:
+- **Modifying the scoring rubrics** in Stage 4 to better align with your specific evaluation criteria.
+- **Adding or removing stages** to adapt the template to different types of tasks or LLM capabilities.
+- **Providing more detailed instructions** within each stage to guide the LLM more precisely.
+
+## Best Practices
+
+When using this template, consider the following best practices:
+- **Clearly define the task requirements** in the input section (Stage 9) to ensure the LLM understands the goals and constraints.
+- **Use specific and measurable criteria** for evaluation in Stage 4 to help the LLM objectively assess its own performance.
+- **Encourage iterative refinement** (Stage 6) to allow the LLM to improve its output through multiple cycles of feedback and revision.
+- **Experiment with different prompt variations** to find what works best for your specific LLM and task.
+
+## Limitations
+
+While this template can significantly improve LLM performance, be aware of its limitations:
+- **LLMs may still produce errors or hallucinate information** despite the structured guidance.
+- **The effectiveness of the template depends on the capabilities of the specific LLM** you are using.
+- **Highly complex or subjective tasks may require more sophisticated prompting techniques** beyond this basic template.
+- **The evaluation and revision stages rely on the LLM's ability to accurately self-assess**, which may not always be perfect.
+
+## Prompt
 
 ```markdown
 Ensure that the final task output is of the highest quality, fulfilling all task requirements and leaving no room for improvement. Follow the below **9 stages** sequentially:
@@ -74,3 +109,30 @@ Ensure that the final task output is of the highest quality, fulfilling all task
 - Refer to the supplied input details below or attached to the task.
 ```
 
+
+## Example Output
+
+*(Provide an example of how the LLM would respond to a task using this template. This could involve showing the LLM's output for each stage of the process)*
+
+## FAQ
+
+**Q: What types of tasks is the CoT meta-prompt template best suited for?**
+
+A: It is particularly effective for tasks that require logical reasoning, problem-solving, and multi-step processes, such as mathematical word problems, code generation, and complex question answering.  
+
+**Q: How do I determine the appropriate scoring criteria in Stage 4?**
+
+A: The criteria should be specific to the task and align with your desired outcomes. Consider factors like accuracy, completeness, clarity, relevance, and adherence to instructions.
+
+**Q: How many iterations of refinement (Stage 6) are typically needed?**
+
+A: It varies depending on the task complexity and the LLM's initial performance. Start with 2-3 iterations and adjust as needed based on the observed improvements.
+
+**Q: Can I use this template with any LLM?**
+
+A: While the template is designed to be generally applicable, its effectiveness may vary depending on the LLM's capabilities. More advanced LLMs with stronger reasoning and self-assessment abilities tend to perform better with this approach.
+
+**Q: What are some signs that the CoT approach is not working effectively?**
+
+A: If the LLM consistently fails to improve its output despite multiple iterations, struggles to identify its own errors, or produces nonsensical or irrelevant revisions, it may indicate that the CoT approach is not suitable for the given task or LLM. 
+```
