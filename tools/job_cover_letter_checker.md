@@ -2,6 +2,9 @@
 
 This tool provides a rigorous analysis of your cover letter, focusing on critical elements that could make or break your job application. By using this tool, you can ensure your cover letter meets professional standards and effectively presents your qualifications.
 
+> [!IMPORTANT]
+> For optimal results, use this tool with AI models that have internet access or up-to-date information. A web-enabled model is crucial for verifying current company addresses and ensuring the most accurate proofreading.
+
 ## What It Does
 
 This AI-powered cover letter proofreading tool performs several key functions:
