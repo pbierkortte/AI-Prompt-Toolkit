@@ -36,7 +36,7 @@ While this template can significantly improve LLM performance, be aware of its l
 ## Prompt
 
 ```markdown
-Ensure that the final task output is of the highest quality, fulfilling all task requirements and leaving no room for improvement. Follow the below **9 stages** sequentially:
+Ensure that the final task output is of the highest quality, fulfilling all task requirements and leaving no room for improvement. Follow the below **10 stages** sequentially:
 
 ---
 
