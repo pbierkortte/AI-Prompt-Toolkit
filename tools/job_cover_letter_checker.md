@@ -1,68 +1,121 @@
 # Cover Letter Checker
 
-This tool is designed to help job seekers improve their cover letters using AI assistance. It provides a comprehensive analysis of your cover letter, focusing on structure, content, tone, and overall effectiveness. By using this tool, you can ensure your cover letter is tailored to the specific job and company you're applying to, increasing your chances of landing an interview.
+This tool provides a rigorous analysis of your cover letter, focusing on critical elements that could make or break your job application. By using this tool, you can ensure your cover letter meets professional standards and effectively presents your qualifications.
 
 ## What It Does
 
 This AI-powered cover letter proofreading tool performs several key functions:
 
-1. **Content Analysis**: It examines your cover letter for:
-   - Relevance to the job description
-   - Highlighting of key skills and experiences
-   - Proper structure (introduction, body, conclusion)
-   - Appropriate tone and language
-
-2. **Personalization Check**: The tool assesses how well you've tailored the letter to the specific company and position
-
-3. **Grammar and Spelling**: It thoroughly checks for any grammatical errors or typos
-
-4. **Length and Formatting**: Ensures the cover letter is an appropriate length and properly formatted
-
-5. **Scoring and Feedback**: 
-   - Assigns a score from 1 to 100 based on the cover letter's quality
-   - Provides a score of 0 if there are any major errors or red flags
-   - Offers detailed feedback and suggestions for improvement
+1. **Date Verification**: Ensures the letter is dated correctly with today's date.
+2. **Structural Analysis**: Checks for proper cover letter format (header, greeting, body paragraphs, closing).
+3. **Grammar and Spelling Check**: Conducts a thorough proofreading for any language errors.
+4. **Customization Verification**: Looks for placeholders or template language that hasn't been properly personalized.
+5. **Company Address Validation**: Compares the provided company address against official records.
+6. **Diversity Statement Check**: Identifies any inappropriate diversity statements.
+7. **Overall Quality Assessment**: Evaluates the letter's effectiveness and provides a numerical score.
 
 ## Usage
 
-To use this tool, provide your cover letter text along with the job description and company information in the prompt below. The AI will analyze your cover letter and provide detailed feedback and suggestions for improvement.
+To use this tool, provide your cover letter text in the prompt below. The AI will analyze your cover letter and provide detailed feedback and a score.
 
 ## Prompt
 ```
-Analyze and proofread the following cover letter. Consider the job description and company information provided.
+1. Review the provided cover letter for overall quality and effectiveness.
+
+2. Check the date: Ensure it's today's date. Using an outdated or incorrect date is a critical error.
+
+3. Examine the structure: Verify it follows standard cover letter format (header, greeting, body paragraphs, closing).
+
+4. Proofread for spelling and grammar: Any errors in this area are considered major issues.
+
+5. Look for placeholders: These indicate an incomplete or template letter that hasn't been properly customized.
+
+6. Verify the company address: Fetch official records and compare to the address provided in the letter.
+
+7. Score the letter from 1 (terrible) to 100 (excellent) based on overall quality if no major issues are found.
+
+8. If any of the following are present, score the letter as 0:
+   - Incorrect or missing date
+   - Improper structure
+   - Spelling or grammar errors
+   - Presence of placeholders
+   - Incorrect or missing company address
+   - Diversity statements
+
+9. Provide a brief explanation for the score given, highlighting strengths or areas for improvement.
 
 Cover Letter:
 [Paste your cover letter here]
-
-Job Description:
-[Paste the job description here]
-
-Company Information:
-[Provide any relevant company information here]
-
-Please review this cover letter and score it from 1 (terrible) to 100 (perfect). If there are any major errors, inappropriate content, or significant issues, rate it 0. Provide a detailed explanation of your scoring, including strengths and areas for improvement. Offer specific suggestions for enhancing the cover letter's effectiveness.
 ```
 
 ## Customization
-To get the most out of this tool, you can customize your proofreading request by:
-- Specifying any particular areas of concern
-- Mentioning any unique circumstances or qualifications you want to emphasize
-- Providing additional context about your relationship with the company (e.g., referral, previous internship)
+To get the most out of this tool, ensure your cover letter:
+- Is dated with today's date
+- Follows standard cover letter format
+- Is free of spelling and grammar errors
+- Has been fully customized (no template language or placeholders)
+- Includes the correct company address
+- Does not contain unnecessary diversity statements
 
 ## Best Practices
 When writing your cover letter, keep these best practices in mind:
-1. Address it to a specific person whenever possible
-2. Open with a strong, attention-grabbing introduction
-3. Highlight your most relevant skills and experiences
-4. Demonstrate knowledge of the company and enthusiasm for the role
-5. Include specific examples of your achievements
-6. Close with a clear call to action
-7. Keep it concise - typically no more than one page
+1. Always use the current date
+2. Follow standard cover letter structure
+3. Proofread meticulously for any language errors
+4. Customize every aspect of the letter for the specific job and company
+5. Verify the company's address using official sources
+6. Focus on your qualifications and fit for the role, avoiding unnecessary personal statements
 
 ## Limitations
 While this tool is highly effective, it's important to be aware of its limitations:
-- AI may not fully understand highly specialized industry terms or jargon
-- It cannot verify the accuracy of your personal information or experiences
+- It focuses on critical errors and may not provide detailed stylistic feedback
+- The tool cannot verify the accuracy of your personal information or experiences
+- Company address verification depends on the availability and accuracy of official records
+- The tool cannot guarantee an interview invitation or job offer
+- It may not catch all nuances or context-specific details in your cover letter
+
+## Example Output
+
+```
+Cover Letter Score: 0/100
+
+Explanation:
+This cover letter contains critical errors that significantly impact its effectiveness:
+
+1. Date: The letter is dated three months ago, not today's date.
+2. Structure: The letter lacks a proper closing paragraph.
+3. Grammar: There are two grammatical errors in the second paragraph.
+4. Customization: A placeholder "[INSERT COMPANY NAME]" remains in the opening paragraph.
+5. Company Address: The provided address does not match our records for the company.
+
+These issues indicate a lack of attention to detail and proper customization. To improve:
+- Update the date to today
+- Add a strong closing paragraph
+- Carefully proofread for grammar and spelling
+- Ensure all placeholders are replaced with specific information
+- Verify and correct the company address
+
+Addressing these critical issues will significantly enhance the professionalism and effectiveness of your cover letter.
+```
+
+## FAQ
+1. **Q: Why is the date so important in a cover letter?**
+   A: An incorrect date can make your application appear outdated or indicate a lack of attention to detail.
+
+2. **Q: What's considered proper cover letter structure?**
+   A: A professional header, greeting, 2-3 body paragraphs, and a formal closing.
+
+3. **Q: Why is a score of 0 given for any major errors?**
+   A: These errors are considered critical in professional communication and can immediately disqualify your application.
+
+4. **Q: How can I ensure I've removed all placeholders?**
+   A: Carefully read through your letter multiple times, paying close attention to company names, job titles, and any bracketed text.
+
+5. **Q: Why check for diversity statements?**
+   A: While diversity is important, unsolicited personal statements can be inappropriate in a cover letter. Focus on your qualifications for the role.
+```
+
+This is the complete, unabridged markdown file for the Cover Letter Proofreading tool, formatted as requested.- It cannot verify the accuracy of your personal information or experiences
 - Suggestions are based on general best practices and may not account for specific company preferences
 - The tool cannot guarantee an interview invitation or job offer
 - AI may not catch all nuances or context-specific details in your cover letter
@@ -111,5 +164,3 @@ Overall, this is a solid cover letter that with some refinement could become exc
 5. **Q: Should I mention salary expectations in my cover letter?**
    A: Generally, it's best to avoid mentioning salary in your cover letter unless the job posting specifically requests it.
 ```
-
-This is the complete, unabridged markdown file for the Cover Letter Proofreading tool, following the same structure, tone, and sections as the other examples in the repository.
