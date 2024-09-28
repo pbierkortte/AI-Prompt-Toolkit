@@ -72,23 +72,17 @@ As a Software Engineer at Tesla, you would be part of a company at the forefront
 
 ### FAQ
 
-1. **Q: How often should I update my research?**
-   A: Before each application or interview. For fast-moving companies, weekly.
+1. **Q: How often should I update my research using this tool?**
+   A: Before each application stage and interview. For fast-moving industries, update weekly.
 
-2. **Q: Can I use this for multiple companies?**
-   A: Yes. Just input specific details for each company.
+2. **Q: Can I use this tool for multiple companies?**
+   A: Yes. Run the prompt separately for each company, changing the company name and role inputs each time. You'll get a unique overview for each company.
 
-3. **Q: What if I can't find all the requested information?**
-   A: Use what you have. Note any gaps - it could be a good interview question.
+3. **Q: How detailed is the research output from this tool?**
+   A: Comprehensive but focused. It provides enough depth to discuss the company confidently and ask informed questions without overwhelming detail.
 
-4. **Q: How do I verify information accuracy?**
-   A: Cross-reference multiple sources. Prioritize recent official company statements and reputable financial reports.
+4. **Q: What if the tool finds limited information about a company?**
+   A: It will focus on available industry trends and competitors. It will also suggest relevant questions to ask about the company's future plans.
 
-5. **Q: Should I include negative information about the company?**
-   A: Include factual information. Be prepared to discuss it objectively if it comes up.
-
-6. **Q: How detailed should my research be?**
-   A: Enough to speak confidently about the company and ask informed questions. Quality over quantity.
-
-7. **Q: Is it worth researching smaller or less-known companies?**
-   A: Absolutely. It often gives you an edge as fewer candidates do thorough research on these.
+5. **Q: How can I verify the information provided by this tool?**
+   A: Cross-check key points with official company sources, recent news, and industry publications. Remember, the tool uses publicly available information, which may have limitations.
