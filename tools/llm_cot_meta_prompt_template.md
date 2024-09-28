@@ -1,11 +1,14 @@
 # Chain of Thought Meta-Prompt Template
 
+Creating good prompts is hard, however fear not. Use this template to empower you to craft effective and nuanced prompts for even the most intricate tasks. By incorporating elements of stepwise reasoning, continuous evaluation, and iterative refinement, you can unlock the full potential of LLMs and achieve remarkable outcomes.
+
+> [!NOTE]
+> While this template can significantly enhance the quality of your LLM's output by guiding it through a structured reasoning process, it's important to remember that it won't fundamentally change the LLM's underlying capabilities.  It cannot make the LLM inherently smarter or grant it abilities it doesn't already possess. To maximize the effectiveness of this template, it's recommended to utilize powerful web-based LLMs or larger language models that have a greater capacity for reasoning and complex task execution. 
+
 ## What It Does
 
 This Chain of Thought (CoT) meta-prompt template is designed to guide Large Language Models (LLMs) through a structured process for executing complex tasks. It encourages the LLM to reason step-by-step, leading to more accurate and reliable results. By breaking down tasks into smaller stages with clear evaluation and revision steps, this template helps LLMs produce high-quality outputs that meet specific requirements.
 
-> [!NOTE]
-> While this template can significantly enhance the quality of your LLM's output by guiding it through a structured reasoning process, it's important to remember that it won't fundamentally change the LLM's underlying capabilities.  It cannot make the LLM inherently smarter or grant it abilities it doesn't already possess. To maximize the effectiveness of this template, it's recommended to utilize powerful web-based LLMs or larger language models that have a greater capacity for reasoning and complex task execution. 
 ## Usage
 
 To use this template, simply replace the placeholder `[Insert Task Input Here]` with the specific instructions or details for the task you want the LLM to perform.
