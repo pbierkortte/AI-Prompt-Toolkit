@@ -45,7 +45,7 @@ To use this tool, provide your cover letter text in the prompt below. The AI wil
 9. Provide a brief explanation for the score given, highlighting strengths or areas for improvement.
 
 Cover Letter:
-[Paste your cover letter here]
+[Attach or Paste your cover letter here]
 ```
 
 ## Customization
