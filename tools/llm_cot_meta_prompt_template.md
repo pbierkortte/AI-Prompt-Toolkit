@@ -1,5 +1,7 @@
 # Chain of Thought Meta-Prompt Template
 
+Prompt
+
 ```markdown
 Ensure that the final task output is of the highest quality, fulfilling all task requirements and leaving no room for improvement. Follow the below **9 stages** sequentially:
 
