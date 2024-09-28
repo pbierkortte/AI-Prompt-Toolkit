@@ -67,7 +67,7 @@ Tesla, Inc., founded in 2003 by a group of engineers including Elon Musk, has re
 
 As a Software Engineer at Tesla, you would be part of a company at the forefront of both automotive and energy technology. Tesla's main products include electric vehicles (Model S, 3, X, and Y), solar panels, and energy storage solutions. The company culture is known for its fast-paced, innovative environment with a strong emphasis on problem-solving and thinking outside the box.
 
-[And the ouptut continues...]
+[And the output continues...]
 ```
 
 ### FAQ
