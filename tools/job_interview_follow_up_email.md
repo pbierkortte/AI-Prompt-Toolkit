@@ -6,8 +6,8 @@ Following up after a job interview is a crucial step in the hiring process. It d
 To use this generator, simply provide the necessary details about your interview in the prompt below.
 
 
-> [!NOTE]
-> **Pro tip**: Developers can split the input over 3 user messages without explicit inputs, allowing the model to sort it out:
+> [!TIP]
+> Developers can split the input over 3 user messages without explicit inputs, allowing the model to sort it out:
 > 1. Resume highlights (optional)
 > 2. Company research (optional)
 > 3. Task details (required)
