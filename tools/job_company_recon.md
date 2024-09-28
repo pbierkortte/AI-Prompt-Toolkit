@@ -2,8 +2,8 @@
 
 This tool is designed to help you gather comprehensive information about a company for job applications and interviews. By following the prompt and guidelines provided, you'll be able to create a detailed company overview that will prepare you for your job search process.
 
-> [!TIP]
-> This tool works best with AI models that have internet access or up-to-date information. Using a web-enabled model will ensure you get the most current and comprehensive company information.
+> [!IMPORTANT]
+> For optimal results, use this tool with AI models that have internet access or up-to-date information. A web-enabled model is crucial for verifying current company addresses and ensuring the most accurate proofreading.
 
 
 ### Usage
