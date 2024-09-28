@@ -107,6 +107,10 @@ Ensure that the final task output is of the highest quality, fulfilling all task
 
 ### Stage 9: Input
 - Refer to the supplied input details below or attached to the task.
+
+---
+
+[Insert Task Input Here]
 ```
 
 
