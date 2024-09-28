@@ -119,18 +119,3 @@ Here's the de-duped and combined FAQ list:
 5. **Q: Why check for diversity statements?**
    A: If you are generating your cover letter with AI, models can pick up HR jargon and parrot it back, assuming it was the company's 'values' and such statements are inappropriate.
 
-6. **Q: How long should my cover letter be?**
-   A: Aim for 250-400 words, typically fitting on one page.
-
-7. **Q: Should I use the same cover letter for every job application?**
-   A: No, you should tailor each cover letter to the specific job and company.
-
-8. **Q: Is it okay to use AI to write my entire cover letter?**
-   A: While AI can help with improvements and suggestions, your cover letter should reflect your personal voice and experiences. Use AI as a tool for enhancement, not for full authorship.
-
-9. **Q: How can I make my cover letter stand out?**
-   A: Research the company thoroughly, show genuine enthusiasm for the role, provide specific examples of your achievements, and clearly connect your skills to the job requirements.
-
-10. **Q: Should I mention salary expectations in my cover letter?**
-    A: Generally, it's best to avoid mentioning salary in your cover letter unless the job posting specifically requests it.
-
