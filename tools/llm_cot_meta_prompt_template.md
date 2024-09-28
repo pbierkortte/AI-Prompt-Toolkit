@@ -111,7 +111,12 @@ Ensure that the final task output is of the highest quality, fulfilling all task
 
 ---
 
-[Insert Task Input Here]
+**Task**: [Insert Task Input Here]
+
+---
+
+[Extra details]
+
 ```
 
 ## FAQ
