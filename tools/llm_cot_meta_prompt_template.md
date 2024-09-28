@@ -1,6 +1,6 @@
 # Chain of Thought Meta-Prompt Template
 
-Creating effective prompts can be challenging, but don't worry! This template empowers the AI Assistant to automatically generate nuanced prompts for you and then execute them.
+Creating effective prompts can be challenging, but don't worry! This template empowers the AI Assistant to automatically generate nuanced prompts for you and iteratively execute them to produce a better output.
 
 > [!NOTE]
 > No, this will not make your LLM self-aware or smarter. While this template can significantly enhance the quality of your LLM's output by guiding it through a structured reasoning process, it's important to remember that it won't fundamentally change the LLM's underlying capabilities.  It cannot make the LLM inherently smarter or grant it abilities it doesn't already possess. To maximize the effectiveness of this template, it's recommended to utilize powerful web-based LLMs or larger language models that have a greater capacity for reasoning and complex task execution. 
