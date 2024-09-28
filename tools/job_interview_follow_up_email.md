@@ -74,11 +74,18 @@ Jane Doe
 ```
 
 ## FAQ
+
 1. **Q: Can I use this generator for multiple interviews?**
    A: Yes, you can use this generator for any job interview follow-up email. Just provide the specific details for each interview.
 
 2. **Q: What if I don't have all the information requested in the prompt?**
    A: Provide as much information as you have. The generator will adapt based on the available details.
 
-3. **Q: Is it okay to send the generated email as-is?**
-   A: While the generated email is a good starting point, it's always best to review and personalize it further based on your specific interview experience.
+3. **Q: How long should my follow-up email be?**
+   A: Aim for 150-200 words. The email should be concise yet informative, which is what this generator is designed to produce.
+
+4. **Q: Can I use this generator for internship interviews?**
+   A: Yes, this generator can be used for internship, entry-level, and experienced position interviews. Just adjust your input accordingly.
+
+5. **Q: How can I make my follow-up email stand out?**
+   A: Personalize it by referencing specific conversation points from the interview and clearly connecting your skills to the company's needs. The more detailed information you provide in the generator's input, the more personalized the output will be.
