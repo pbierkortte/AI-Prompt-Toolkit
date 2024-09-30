@@ -52,9 +52,19 @@ Ensure that the final task output is of the highest quality, fulfilling all task
 ---
 
 ### Stage 1: Analyze Task Requirements
-- Review the provided input carefully.
-- Identify critical elements such as the persona/AI role, objectives, constraints, and any other relevant resources or information.
-- Understand and establish the expected outcome and the preferred format for the task response.
+- Carefully review the provided input.
+- Identify critical elements:
+  - The persona or AI role to be assumed
+  - Objectives or goals to be achieved
+  - Constraints or limitations
+  - Relevant resources, background information, or additional context
+  - The expected outcome and preferred format for the task response
+- Ensure all identified elements:
+  - Are directly derived from the given input
+  - Do not include assumptions or extrapolations beyond the provided information
+- Understand and establish:
+  - The expected outcome
+  - The preferred format for the task response
 
 ---
 
