@@ -73,19 +73,13 @@ Create an ideal interview follow-up email using the following guidelines. Ensure
 
 ### Fields to Include:
 
-- **Interviewer's Name:**
-  
-- **Position Applied For:**
-  
-- **Company Name:**
-  
-- **Date of Interview:**
-  
-- **Key Points Discussed:**
-  
-- **Your Name:**
-  
-- **Your Contact Information:**
+- **Interviewer's Name:** [Mr./Ms./Dr. Last Name]
+- **Position Applied For:** [Job Title]
+- **Company Name:** [Company Name]
+- **Date of Interview:** [Month Day, Year]
+- **Key Points Discussed:** [Point 1], [Point 2], [Point 3]
+- **Your Name:** [Your Full Name]
+- **Your Contact Information:** [Your Email] | [Your Phone Number]
 
 ---
 ```
