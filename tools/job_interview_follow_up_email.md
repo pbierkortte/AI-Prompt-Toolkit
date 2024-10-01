@@ -29,39 +29,65 @@ Use the provided template, filling in the placeholders with appropriate content 
 ```plaintext
 Create an ideal interview follow-up email using the following guidelines. Ensure the email is personalized, engaging, and leaves a positive lasting impression. The tone should be professional yet warm, showing both your qualifications and your genuine interest in the position.
 
-### Guidelines
-1. Timing: Send within 24-48 hours after the interview.
-2. Subject Line: Use a clear, specific format like "Thank you for the [Position] interview on [Date]".
-3. Salutation: Address the interviewer by name, using appropriate title unless invited to use first names.
-4. Opening Paragraph:
-   - Express sincere gratitude for the opportunity
-   - Reiterate strong interest in the position
-   - Briefly mention why you're excited about the role and company
-5. Body Paragraph(s):
-   - Remind the interviewer of 1-2 key qualifications that make you a strong fit
-   - Reference specific concrete points from the interview to show engagement
-   - Address any concerns or expand on answers you wish to improve
-   - Provide any additional requested information or relevant links
-6. Closing Paragraph:
-   - Ask about next steps in the hiring process
-   - Offer to provide any further information they might need
-   - Reiterate your enthusiasm for the position
-7. Professional Closing: Use "Best regards,
-8. Signature: Include your full name and contact information
+---
 
-General Guidelines:
-- Keep the email concise (3-4 short paragraphs) and professional in tone
-- Use a standard font (e.g., Arial, Calibri) and avoid elaborate designs
-- Proofread carefully for grammar and spelling errors
+#### General Guidelines:
 
-Include the following details in your prompt:
-[Interviewer's Name]:
-[Position Applied For]:
-[Company Name]:
-[Date of Interview]:
-[Key Points Discussed]:
-[Your Name]:
-[Your Contact Information]:
+- Keep the email concise (3-4 short paragraphs) and professional in tone.
+- Use a standard font (e.g., Arial, Calibri) and avoid elaborate designs.
+- Proofread carefully for grammar and spelling errors.
+
+---
+
+#### Email Structure:
+
+**Subject Line:**
+- Use a clear, specific format like "Thank you for the [Position] interview on [Date]".
+
+**Salutation:**
+- Address the interviewer by name, using the appropriate title unless invited to use first names.
+
+**Opening Paragraph:**
+- Express sincere gratitude for the opportunity.
+- Reiterate strong interest in the position.
+- Briefly mention why you're excited about the role and the company.
+
+**Body Paragraph(s):**
+- Remind the interviewer of 1-2 key qualifications that make you a strong fit.
+- Reference specific, concrete points from the interview to show engagement.
+- Address any concerns or expand on answers you wish to improve.
+- Provide any additional requested information or relevant links.
+
+**Closing Paragraph:**
+- Ask about the next steps in the hiring process.
+- Offer to provide any further information they might need.
+- Reiterate your enthusiasm for the position.
+
+**Professional Closing:**
+- Use "Best regards,"
+
+**Signature:**
+- Include your full name and contact information.
+
+---
+
+### Fields to Include:
+
+- **Interviewer's Name:**
+  
+- **Position Applied For:**
+  
+- **Company Name:**
+  
+- **Date of Interview:**
+  
+- **Key Points Discussed:**
+  
+- **Your Name:**
+  
+- **Your Contact Information:**
+
+---
 ```
 
 ---
