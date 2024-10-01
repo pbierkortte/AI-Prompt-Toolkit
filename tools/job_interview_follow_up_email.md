@@ -31,7 +31,7 @@ Create an ideal interview follow-up email using the following guidelines. Ensure
 
 ---
 
-#### General Guidelines:
+### General Guidelines:
 
 - Keep the email concise (3-4 short paragraphs) and professional in tone.
 - Use a standard font (e.g., Arial, Calibri) and avoid elaborate designs.
@@ -39,7 +39,7 @@ Create an ideal interview follow-up email using the following guidelines. Ensure
 
 ---
 
-#### Email Structure:
+### Email Structure:
 
 **Subject Line:**
 - Use a clear, specific format like "Thank you for the [Position] interview on [Date]".
