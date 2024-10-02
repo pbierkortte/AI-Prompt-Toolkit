@@ -34,11 +34,11 @@ Each file contains a specific prompt or tool with instructions.
 
 ### Docs
 
-* [Anthropic Prompt Engineering](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
+* [Anthropic's Prompt Engineering](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
 
 ### Library
 
-* [Anthropic Prompt Library](https://docs.anthropic.com/en/prompt-library/library)
+* [Anthropic's Prompt Library](https://docs.anthropic.com/en/prompt-library/library)
 
 ### Tutorial
 
