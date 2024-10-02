@@ -29,6 +29,17 @@ Each file contains a specific prompt or tool with instructions.
 
 <!-- TOC END -->
 
+## Further Reading
+
+### Tutorial
+
+* [Anthropic's Interactive Prompt Engineering Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
+
+### Library
+
+* [Anthropic Prompt Library](https://docs.anthropic.com/en/prompt-library/library)
+
+
 ## License
 
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
