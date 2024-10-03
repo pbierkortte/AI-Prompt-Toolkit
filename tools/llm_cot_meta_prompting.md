@@ -1,4 +1,4 @@
-# Chain of Thought Meta-Prompt Template
+# Chain of Thought Meta-Prompting
 
 Creating effective prompts can be challenging, but don't worry! This template empowers the AI Assistant to automatically generate nuanced prompts for you and iteratively execute them to produce a better output.
 
