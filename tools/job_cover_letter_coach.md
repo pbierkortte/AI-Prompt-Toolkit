@@ -15,7 +15,7 @@ Use the provided template, filling in the placeholders with appropriate content 
 
 - Your resume
 - The job description you're applying for
-- Any research you've done on the company\
+- Any research you've done on the company
 
 ---
 
