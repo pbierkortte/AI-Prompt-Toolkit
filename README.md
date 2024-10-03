@@ -26,7 +26,7 @@ Each file contains a specific prompt or tool with instructions.
 * [Resume Cover Letter Coach](tools/job_cover_letter_coach.md)
 * [Post-Interview Follow-Up Email Generator](tools/job_interview_follow_up_email.md)
 * [Resume Proof Reading](tools/job_resume_proof_reading.md)
-* [Chain of Thought Meta-Prompt Template](tools/llm_cot_meta_prompt_template.md)
+* [Chain of Thought Meta-Prompting](tools/llm_cot_meta_prompting.md)
 * [Print Full Conversation](tools/llm_print_full_conversation.md)
 
 <!-- TOC END -->
