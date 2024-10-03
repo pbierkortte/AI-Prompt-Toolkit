@@ -1,5 +1,7 @@
 # Print Full Conversation
 
+Getting an AI to print back a conversation or thread is getting harder. Many are probably being trained to resist this, because it generates long responses that are likely expensive for them. This helps us easily save our conversation when when exporting this is not feasiable, but assumes you have enought context left, and the bot can see all the previous messages.
+
 ## Prompt
 
 ```plaintext
