@@ -1,5 +1,12 @@
 # Resume Cover Letter Coach
 
+---
+
+> [!NOTE]
+> WORK IN PROGRESS
+
+---
+
 > [!TIP]  
 > This tool works best when you provide detailed input about the job description and your own qualifications. The more specific you are, the more tailored and effective your cover letter will be.
 
