@@ -1,7 +1,5 @@
 # Resume Cover Letter Coach
 
-> [!TIP]  
-> This tool works best when you provide detailed input about the job description and your own qualifications. The more specific you are, the more tailored and effective your cover letter will be.
 
 > [!IMPORTANT]
 > - Always manually verify the date on your cover letter
@@ -33,20 +31,19 @@ Gather the following details before using the tool:
 
 Enter the collected information into the provided prompt. Be as detailed and accurate as possible for the best results.
 
+> [!TIP]  
+> This tool works best when you provide detailed input about the job description and your own qualifications. The more specific you are, the more tailored and effective your cover letter will be. If you include your resume, the job description, and company info the model should be able to infer your details, [specific job title], and [company name]
+
 ### 3. Analyze and Generate
 
 The tool will analyze the information and generate a cover letter based on your input.
 
-
-### Cover Letter
-
-> [!TIP]
-> If you include your resume, the job description, and company info the model should be able to infer your details, [specific job title], and [company name]
+### Prompt
 
 ```
 Write a cover letter for a [specific job title] position at [company name] that includes the following elements:
 
-1. Professional header with the following contact information (if provided, each on a separate line)
+1. Professional header with the following contact information (if provided, each of a separate line)
    a. Job Seeker's Name: Your full name should be prominently displayed
    b. Address: Include your city and state (full address is optional)
    c. Email: Use a professional email address
@@ -77,7 +74,6 @@ Additional guidelines:
 
 Your goal is to create a flawless, highly personalized cover letter that would score 100/100 in a professional evaluation.
 ```
-
 
 ## Best Practices
 
