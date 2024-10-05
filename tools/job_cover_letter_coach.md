@@ -63,63 +63,51 @@ b. Automated assessment and scoring
 c. Targeted improvements based on identified weaknesses
 d. Repeated refinement until a perfect score is achieved
 
-## Prompt Template
+## Prompts
 
-Use the following prompt structure when interacting with the Resume Cover Letter Coach:
-
-```
-This process analyzes a job description, your resume, and company information to assess your likelihood of securing an interview and generate a tailored cover letter.
-
-**Instructions:**
-
-1. **Provide the following information in separate, clearly labeled sections:**
-   - **Today's Date:** [Date]
-   - **Company:** [Company Name]
-   - **Job Title:** [Target Job Title]
-   - **Job Description:** [Paste the full job description here]
-   - **Your Resume:** [Paste your current resume here or attach]
-   - **Company Information (Optional):** [Include any relevant details about the company, its culture, or recent news] 
-
-2. **Follow these steps for a comprehensive analysis:**
-   - **Step 1: Analyze the Requirements Thoroughly:** Carefully review the job description, resume, and company information (if provided) to identify key requirements, necessary skills, and candidate strengths aligning with the role.
-   - **Step 2: Evaluate Candidate Fit & Interview Chance:**  Explain your reasoning step-by-step, then assign a percentage (1-100%) representing the candidate's interview chances based on their qualifications. 
-   - **Step 3: Compose the Cover Letter Flawlessly:** Write a professional cover letter addressing the specific requirements and highlighting the candidate's most relevant skills and experience. Use a code block to present the letter, without additional commentary. 
-   - **Step 4: Assess the Cover Letter with Utmost Scrutiny:** Scrutinize the cover letter and score it from 1 (terrible) to 100 (perfect). If there are any critical flaws or red flags, assign a score of 0. Provide a detailed explanation of the score, including strengths and areas for improvement.
-   - **Step 5: Revise the Cover Letter Meticulously:**  Based on the evaluation in Step 4, make targeted improvements to the cover letter to address any weaknesses. Implement these changes and provide the revised version in a code block.
-   - **Step 6: Iterate until Absolute Perfection:** Repeat Steps 4 and 5 until the cover letter earns a 100% score. For each iteration, reassess, revise, provide the updated text in a code block, and give the new score. Continue until a perfect score is achieved.
-   - **Step 7: Conduct a Flawless Final Review:** Once the cover letter reaches 100%, present the final, unabridged version in a code block. Explain in detail why it meets all criteria perfectly. Confirm the final score of 100/100. 
-
-**Cover Letter Guidelines:**
-
-- Adhere strictly to the provided candidate information. Do not invent or assume qualifications.
-- Begin with a personalized salutation and an engaging opening statement highlighting relevant qualifications.
-- Convey a deep understanding of the company, its mission, values, recent developments, and the role's responsibilities.
-- Align the candidate's skills, experiences, and proficiency levels with job requirements, showcasing quantifiable achievements. 
-- Highlight unique qualifications (technical skills, certifications, projects, contributions).
-- Demonstrate soft skills with concrete examples.
-- Showcase passion for the role, industry, and company.
-- Highlight a commitment to professional development.
-- Tailor the content meticulously to the position and company, using a professional yet personable tone.
-- Maintain a concise and impactful writing style within a one-page limit.
-- Ensure flawless grammar and spelling.
-- End with a strong closing, expressing gratitude and including a clear call to action. 
-- **Note:** Do NOT include mentions of the company's commitment to diversity, equity, and inclusion in the letter.
-
----
+### Assess you chances
 
 ```
+This process analyzes a job description, your resume, and company information to assess your likelihood of securing an interview, scoring on a 1-100% scale
+```
+#### Interview Chance Scoring
 
-## Cover Letter Guidelines
+- 0-79%: Low chance of interview
+- 80-89%: Moderate chance
+- 90%+: Strong chance
 
-Your generated cover letter will adhere to these professional standards:
-- Personalized salutation and engaging opening
-- Clear alignment of your skills with job requirements
-- Highlight of unique qualifications and achievements
-- Demonstration of soft skills with concrete examples
-- Expression of passion for the role and company
-- Professional tone maintained throughout
-- Concise format (one-page limit)
-- Strong closing with a clear call to action
+
+### Cover Letter
+```
+Write a cover letter for a [specific job title] position at [company name] that includes the following elements:
+
+1. Professional header with your contact information
+2. Personalized greeting to the hiring manager (research to find their name)
+3. Strong opening paragraph that hooks the reader and states the position you're applying for
+4. 2-3 body paragraphs that:
+   a. Highlight your most relevant qualifications for the role
+   b. Provide specific, quantifiable achievements that demonstrate your skills
+   c. Show your knowledge of the company and why you're excited about the position
+5. Closing paragraph with a clear call to action
+6. Professional sign-off
+
+Ensure your letter:
+- Is tailored to the job description and company culture
+- Uses concise, compelling language throughout
+- Is free of grammatical and spelling errors
+- Maintains a confident yet humble tone
+- Is no longer than one page
+- Exclude references to diversity, equity, and inclusion commitments
+
+Additional guidelines:
+- Use industry-specific keywords from the job posting
+- Demonstrate how your unique skills will benefit the company
+- Address any potential concerns (e.g., career change, employment gap) positively
+- Format the letter professionally with appropriate margins and font
+
+Your goal is to create a flawless, highly personalized cover letter that would score 100/100 in a professional evaluation.
+```
+
 
 ## Best Practices
 
@@ -134,25 +122,6 @@ Your generated cover letter will adhere to these professional standards:
 - Quality depends on the detail of input provided
 - May not capture all subjective nuances of your experience
 - Consider adding personal anecdotes for a unique touch
-
-## Interview Preparation
-
-The tool provides additional features to help prepare for interviews:
-
-### Interview Chance Scoring
-
-- 0-79%: Low chance of interview
-- 80-89%: Moderate chance
-- 90%+: Strong chance
-
-### Interview Question Assistance
-
-Input anticipated interview questions to receive guidance on formulating strong responses.
-
-### Interview Prep Tasks
-
-- Answering common interview questions
-- Generating insightful questions to ask the interviewer
 
 ## FAQ
 
