@@ -34,9 +34,9 @@ Enter the collected information into the provided prompt. Be as detailed and acc
 > [!TIP]  
 > This tool works best when you provide detailed input about the job description and your own qualifications. The more specific you are, the more tailored and effective your cover letter will be. If you include your resume, the job description, and company info the model should be able to infer your details, [specific job title], and [company name]
 
-### 3. Analyze and Generate
+### 3. Generate
 
-The tool will analyze the information and generate a cover letter based on your input.
+The tool will generate a cover letter based on your input.
 
 ---
 
@@ -75,6 +75,11 @@ Additional guidelines:
 - Format the letter professionally with appropriate margins and font
 
 Your goal is to create a flawless, highly personalized cover letter that would score 100/100 in a professional evaluation.
+
+---
+
+[Your Information here or attached]
+
 ```
 
 ---
