@@ -29,7 +29,7 @@ Gather the following information before using the tool:
 
 ### 2. Input Your Data
 
-Paste the collected information into the provided prompt. Be as detailed and accurate as possible for the best results.
+Paste the collected information into the provided prompt at the bottom or attached. Be as detailed and accurate as possible for the best results.
 
 > [!TIP]  
 > This tool works best when you provide detailed input about the job description and your qualifications. The more specific you are, the more tailored and effective your cover letter will be. Providing your resume, job description, and company information allows the model to infer details like your job title and the company name. 
@@ -75,6 +75,11 @@ Additional guidelines:
 - Format the letter professionally with appropriate margins and font
 
 Your goal is to create a flawless, highly personalized cover letter that would score 100/100 in a professional evaluation.
+
+---
+
+[Input]
+
 ```
 
 ---
