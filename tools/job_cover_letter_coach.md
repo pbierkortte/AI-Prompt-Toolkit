@@ -25,7 +25,7 @@ Gather the following details before using the tool:
 - Company Name
 - Target Job Title
 - Full Job Description
-- Your Current Resume 
+- Your Current Resume
 - Hiring manager (Research to find their name, optional)
 - Company Information (optional)
 
