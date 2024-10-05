@@ -38,7 +38,9 @@ Enter the collected information into the provided prompt. Be as detailed and acc
 
 The tool will analyze the information and generate a cover letter based on your input.
 
-### Prompt
+---
+
+## Prompt
 
 ```
 Write a cover letter for a [specific job title] position at [company name] that includes the following elements:
@@ -74,6 +76,8 @@ Additional guidelines:
 
 Your goal is to create a flawless, highly personalized cover letter that would score 100/100 in a professional evaluation.
 ```
+
+---
 
 ## Best Practices
 
