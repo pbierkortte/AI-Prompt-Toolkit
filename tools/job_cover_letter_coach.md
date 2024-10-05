@@ -45,7 +45,7 @@ The tool will generate a cover letter draft based on your input.
 ```
 Write a cover letter for a [specific job title] position at [company name] that includes the following elements:
 
-1. Professional header with the following contact information (if provided, each of a separate line)
+1. Professional header with the following contact information (if provided, each on a separate line)
    a. Job Seeker's Name: Your full name should be prominently displayed
    b. Address: Include your city and state (full address is optional)
    c. Email: Use a professional email address
