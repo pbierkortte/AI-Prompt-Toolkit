@@ -45,36 +45,36 @@ The tool will generate a cover letter draft based on your input.
 ```
 Write a cover letter for a [specific job title] position at [company name] that includes the following elements:
 
-1. **Professional Header:** Include your contact information (each on a separate line, if provided):
-   a. **Job Seeker's Name:** Your full name 
-   b. **Address:** Your city and state (full address is optional)
-   c. **Email:** A professional email address
-   d. **Phone Number:** A reliable phone number
-2. **Personalized Greeting:**  Address the hiring manager by name if known.
-3. **Strong Opening Paragraph:** Capture the reader's attention and clearly state the position you're applying for.
-4. **2-3 Body Paragraphs:**
-   a. Highlight your most relevant qualifications and skills.
-   b. Provide specific, quantifiable achievements that demonstrate your abilities.
-   c. Show your knowledge of the company and your enthusiasm for the position and its potential contributions. 
-5. **Closing Paragraph:**  Reiterate your interest and include a clear call to action (e.g., requesting an interview).
-6. **Professional Sign-Off:**  Use a formal closing like "Sincerely" or "Best regards."
+1. Professional header with the following contact information (if provided, each of a separate line)
+   a. Job Seeker's Name: Your full name should be prominently displayed
+   b. Address: Include your city and state (full address is optional)
+   c. Email: Use a professional email address
+   d. Phone Number: A reliable phone number where you can be reached
+2. Personalized greeting to the hiring manager (if provided)
+3. Strong opening paragraph that hooks the reader and states the position you're applying for
+4. 2-3 body paragraphs that:
+   a. Highlight your most relevant qualifications for the role
+   b. Provide specific, quantifiable achievements that demonstrate your skills
+   c. Show your knowledge of the company and why you're excited about the position
+5. Closing paragraph with a clear call to action
+6. Professional sign-off
 
 Ensure your letter:
-- Is tailored to the specific job description and company culture.
-- Uses concise, compelling language.
-- Is free of grammatical errors and typos.
-- Maintains a confident and professional tone.
-- Is no longer than one page (240-500 words).
-- **Excludes references to diversity, equity, and inclusion commitments.**
-- **Strictly adheres to the provided information; do not add, invent, or infer any details not explicitly stated.**
+- Is tailored to the job description and company culture
+- Uses concise, compelling language throughout
+- Is free of grammatical and spelling errors
+- Maintains a confident yet humble tone
+- Is no longer than one page (240-500 words)
+- Exclude references to diversity, equity, and inclusion commitments
+- Stick strictly to given information; do not add, invent, or infer any details not supported by the information provided.
 
 Additional guidelines:
-- Use industry-specific keywords from the job posting.
-- Demonstrate how your unique skills will benefit the company.
-- Address any potential concerns (e.g., career change, employment gap) positively and proactively.
-- Format the letter professionally with appropriate margins and a readable font.
+- Use industry-specific keywords from the job posting
+- Demonstrate how your unique skills will benefit the company
+- Address any potential concerns (e.g., career change, employment gap) positively
+- Format the letter professionally with appropriate margins and font
 
-Your goal is to create a polished, highly personalized cover letter that would receive a perfect score in a professional evaluation.
+Your goal is to create a flawless, highly personalized cover letter that would score 100/100 in a professional evaluation.
 
 ---
 
