@@ -22,7 +22,7 @@ Gather the following information before using the tool:
 - **Today's Date:** Ensure the date on your cover letter is current.
 - **Company Name:** The name of the company you're applying to.
 - **Target Job Title:** The specific position you're interested in.
-- **Full Job Description:**  A copy of the job posting, including responsibilities, qualifications, and desired skills.
+- **Full Job Description:** A copy of the job posting, including responsibilities, qualifications, and desired skills.
 - **Your Current Resume:** An updated resume showcasing your skills and experience.
 - **Hiring Manager (Optional):** Research the hiring manager's name for a personalized greeting.
 - **Company Information (Optional):** Any relevant details about the company's mission, values, or recent achievements that demonstrate your interest.
@@ -65,7 +65,7 @@ Ensure your letter:
 - Is free of grammatical and spelling errors
 - Maintains a confident yet humble tone
 - Is no longer than one page (240-500 words)
-- Exclude references to diversity, equity, and inclusion commitments
+- Exclude references to diversity, equity, and inclusion commitments 
 - Stick strictly to given information; do not add, invent, or infer any details not supported by the information provided.
 
 Additional guidelines:
