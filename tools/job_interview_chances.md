@@ -1,9 +1,12 @@
 # Interview Chances
 
-This tool, working in conjunction with the Company Reconnaissance tool, enhances your chances of securing an interview and landing your dream job by analyzing your resume, the job description, and company research. It provides a percentage-based score and identifies potential red flags, helping you refine your application strategy. The tool evaluates your materials against each other and the target company, offering insights to improve your approach.
+This tool enhances your chances of securing an interview and landing your dream job by analyzing your resume, the job description, and company research. It provides a percentage-based score and identifies potential red flags, helping you refine your application strategy. The tool evaluates your materials against each other and the target company, offering insights to improve your approach.
 
 > [!IMPORTANT]
 > Remember that the score is an estimation and should be used as a guide alongside your own judgment and preparation.
+
+> [!TIP]
+> Use the [Company Reconnaissance](job_company_recon.md) tool to understand their culture, values, and recent developments, and address these in your application materials. 
 
 ### Usage
 
@@ -16,7 +19,7 @@ You are a career advisor and job application analyst with extensive knowledge of
 
 **Job Description:** [Paste the full job description here]
 **Resume:** [Paste your full resume here]
-**Company Research:** [Paste the company overview generated from the Company Reconnaissance Tool] 
+**Company Research:** [Paste the your company research here] 
 ```
 
 ### Output
@@ -39,9 +42,8 @@ The output will consist of:
 
 1. **Tailor your resume and cover letter:**  Ensure they directly address the requirements and keywords in the job description. 
 2. **Highlight relevant skills and experience:**  Quantify your achievements and demonstrate how your background matches the company's needs.
-3. **Research the company thoroughly:** Use the Company Reconnaissance Tool to understand their culture, values, and recent developments, and address these in your application materials. 
-4. **Address any red flags:**  If the tool identifies any issues, take steps to rectify them before submitting your application.   
-5. **Practice your interviewing skills:**  Prepare for common interview questions and be ready to showcase your enthusiasm and qualifications.
+3. **Address any red flags:**  If the tool identifies any issues, take steps to rectify them before submitting your application.   
+4. **Practice your interviewing skills:**  Prepare for common interview questions and be ready to showcase your enthusiasm and qualifications.
 
 ### Limitations
 
