@@ -17,7 +17,7 @@ and finds red flags.
 ### Assess you chances
 
 ```
-This process analyzes a job description, your resume, and company information to assess your likelihood of securing an interview, scoring on a 1-100% scale. Lastly, list any major red-flags for the job description or company, if any.
+This process analyzes a job description, your resume, and company information to assess your likelihood of securing an interview, scoring on a 1 to 100% scale. Lastly, list any major red-flags for the job description or company, if any.
 ```
 
 - Resume
