@@ -16,7 +16,7 @@ and assess their interview potential. This guide will walk you through the proce
 ### Assess you chances
 
 ```
-This process analyzes a job description, your resume, and company information to assess your likelihood of securing an interview, scoring on a 1-100% scale
+This process analyzes a job description, your resume, and company information to assess your likelihood of securing an interview, scoring on a 1-100% scale.
 ```
 #### Interview Chance Scoring
 
