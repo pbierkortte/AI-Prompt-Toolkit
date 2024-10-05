@@ -78,6 +78,10 @@ This process analyzes a job description, your resume, and company information to
 
 
 ### Cover Letter
+
+> [!TIP]
+> If you include you resume, the job description, and company info the model should be able to infer your details, [specific job title], and [company name]
+
 ```
 Write a cover letter for a [specific job title] position at [company name] that includes the following elements:
 
@@ -98,6 +102,7 @@ Ensure your letter:
 - Maintains a confident yet humble tone
 - Is no longer than one page
 - Exclude references to diversity, equity, and inclusion commitments
+- Stick strictly to given information; do not add, invent, or infer any details not supported by the information provided.
 
 Additional guidelines:
 - Use industry-specific keywords from the job posting
