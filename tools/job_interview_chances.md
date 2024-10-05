@@ -10,7 +10,7 @@
 
 What are your chances of getting an interview; evaluate fit.
 and assess their interview potential. This guide will walk you through the process of using this powerful tool to maximize your job application success. and provides insights to improve your chances of securing an interview. 
-and finds red flags in jd or company.
+and finds red flags in jd or company or resume.
 
 ## Prompts
 
