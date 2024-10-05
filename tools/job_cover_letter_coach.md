@@ -78,7 +78,7 @@ Your goal is to create a flawless, highly personalized cover letter that would s
 
 ---
 
-[Your Information here or attached]
+[Your information here or attached]
 
 ```
 
