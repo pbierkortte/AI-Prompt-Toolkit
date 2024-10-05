@@ -19,13 +19,13 @@ The Resume Cover Letter Coach analyzes your qualifications and the target job re
 
 Gather the following information before using the tool:
 
+- **Your Current Resume:** An updated resume showcasing your skills and experience.
+- **Full Job Description:** A copy of the job posting, including responsibilities, qualifications, and desired skills.
+- **Company Research (Optional):** Any relevant details about the company's mission, values, or recent achievements that demonstrate your interest.
 - **Today's Date:** Ensure the date on your cover letter is current.
 - **Company Name:** The name of the company you're applying to.
 - **Target Job Title:** The specific position you're interested in.
-- **Full Job Description:** A copy of the job posting, including responsibilities, qualifications, and desired skills.
-- **Your Current Resume:** An updated resume showcasing your skills and experience.
 - **Hiring Manager (Optional):** Research the hiring manager's name for a personalized greeting.
-- **Company Information (Optional):** Any relevant details about the company's mission, values, or recent achievements that demonstrate your interest.
 
 ### 2. Input Your Data
 
@@ -75,11 +75,6 @@ Additional guidelines:
 - Format the letter professionally with appropriate margins and font
 
 Your goal is to create a flawless, highly personalized cover letter that would score 100/100 in a professional evaluation.
-
----
-
-[Your information here or attached]
-
 ```
 
 ---
