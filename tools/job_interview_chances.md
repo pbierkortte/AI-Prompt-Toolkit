@@ -19,6 +19,11 @@ and finds red flags.
 ```
 This process analyzes a job description, your resume, and company information to assess your likelihood of securing an interview, scoring on a 1-100% scale. Lastly, list any major red-flags for the job description or company, if any.
 ```
+
+- Resume
+- jd
+- Research
+
 #### Interview Chance Scoring
 
 - 0-79%: Low chance of interview
