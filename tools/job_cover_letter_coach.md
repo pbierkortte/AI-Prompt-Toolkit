@@ -25,10 +25,9 @@ The Resume Cover Letter Coach analyzes your qualifications against job requireme
 
 ## Features
 
-1. Interview Chance Assessment
-2. Personalized Cover Letter Generation
-3. Iterative Refinement Process
-4. Interview Preparation Assistance
+1.  Personalized Cover Letter Generation
+2.  Iterative Refinement Process (Potentially - if the AI tool has this capability) 
+3.  Interview Preparation Assistance (Potentially -  depending on the scope of the tool)
 
 ## How to Use
 
@@ -40,29 +39,28 @@ Gather the following details before using the tool:
 - Target Job Title
 - Full Job Description
 - Your Current Resume
-- Hiring manager (Research to find their name)
+- Hiring manager (Research to find their name - Optional)
 - Company Information (optional)
 
 ### 2. Input Your Data
 
 Enter the collected information into the provided prompt. Be as detailed and accurate as possible for the best results.
 
-### 3. Analyze and Generate
+### 3. Generate 
 
 The tool will:
-- Analyze job requirements
-- Match your qualifications
-- Evaluate your interview chances
+- Analyze job requirements (presumably)
+- Match your qualifications (presumably)
 - Generate a tailored cover letter
-- Refine the letter through multiple iterations
 
-### 4. Iterative Refinement Process
+### 4. Iterative Refinement Process (Potential Feature)
 
+**IF** the tool has this capability:
 The tool uses a sophisticated algorithm to continuously improve your cover letter:
 a. Initial draft generation
 b. Automated assessment and scoring
 c. Targeted improvements based on identified weaknesses
-d. Repeated refinement until a perfect score is achieved
+d. Repeated refinement until a satisfactory result is achieved 
 
 
 ### Cover Letter
@@ -132,10 +130,10 @@ Your goal is to create a flawless, highly personalized cover letter that would s
    A: It's recommended to use it as a strong foundation and customize it further to perfectly align with your individual strengths and the job requirements.
 
 4. Q: Can this tool help identify areas where I need to improve?
-   A: Yes, by analyzing the job requirements and comparing them to your qualifications, the tool can highlight areas for potential improvement.
+   A: It's uncertain whether the tool explicitly identifies areas for improvement. It depends on the specific features and capabilities implemented within the tool. Some AI tools might offer feedback or suggestions, while others might focus solely on generating the cover letter based on the provided input.
 
 5. Q: How long does the cover letter generation process take?
-   A: The initial draft is generated quickly, but the iterative refinement process may take a few minutes to achieve the perfect letter.
+   A: The initial draft generation time may vary.
 
 6. Q: Can I use this tool for different industries or job levels?
-   A: Yes, the tool is designed to adapt to various industries and job levels based on the input you provide.
+   A: Yes, the tool is designed to adapt to various industries and job levels based on the input you provide. 
