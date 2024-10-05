@@ -63,19 +63,6 @@ b. Automated assessment and scoring
 c. Targeted improvements based on identified weaknesses
 d. Repeated refinement until a perfect score is achieved
 
-## Prompts
-
-### Assess you chances
-
-```
-This process analyzes a job description, your resume, and company information to assess your likelihood of securing an interview, scoring on a 1-100% scale
-```
-#### Interview Chance Scoring
-
-- 0-79%: Low chance of interview
-- 80-89%: Moderate chance
-- 90%+: Strong chance
-
 
 ### Cover Letter
 
