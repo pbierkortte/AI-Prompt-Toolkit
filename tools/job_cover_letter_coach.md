@@ -73,7 +73,11 @@ d. Repeated refinement until a perfect score is achieved
 ```
 Write a cover letter for a [specific job title] position at [company name] that includes the following elements:
 
-1. Professional header with your contact information
+1. Professional header with the following contact information (if provided, each of a separate line)
+   a. Job Seeker's Name: Your full name should be prominently displayed
+   b. Address: Include your city and state (full address is optional)
+   c. Email: Use a professional email address
+   d. Phone Number: A reliable phone number where you can be reached
 2. Personalized greeting to the hiring manager (if provided)
 3. Strong opening paragraph that hooks the reader and states the position you're applying for
 4. 2-3 body paragraphs that:
@@ -88,7 +92,7 @@ Ensure your letter:
 - Uses concise, compelling language throughout
 - Is free of grammatical and spelling errors
 - Maintains a confident yet humble tone
-- Is no longer than one page
+- Is no longer than one page (240-500 words)
 - Exclude references to diversity, equity, and inclusion commitments
 - Stick strictly to given information; do not add, invent, or infer any details not supported by the information provided.
 
