@@ -9,14 +9,15 @@
 
 
 What are your chances of getting an interview; evaluate fit.
-and assess their interview potential. This guide will walk you through the process of using this powerful tool to maximize your job application success. and provides insights to improve your chances of securing an interview.
+and assess their interview potential. This guide will walk you through the process of using this powerful tool to maximize your job application success. and provides insights to improve your chances of securing an interview. 
+and finds red flags.
 
 ## Prompts
 
 ### Assess you chances
 
 ```
-This process analyzes a job description, your resume, and company information to assess your likelihood of securing an interview, scoring on a 1-100% scale.
+This process analyzes a job description, your resume, and company information to assess your likelihood of securing an interview, scoring on a 1-100% scale. Lastly, list any major red-flags for the job description or company, if any.
 ```
 #### Interview Chance Scoring
 
