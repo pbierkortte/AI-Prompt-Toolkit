@@ -1,6 +1,6 @@
 # Interview Chances
 
-This tool enhances your chances of securing an interview and landing your dream job by analyzing your resume, the job description, and company research. It provides a percentage-based score and identifies potential red flags, helping you refine your application strategy. The tool evaluates your materials against each other and the target company, offering insights to improve your approach.
+This tool increases the time you can dedicate to promising job opportunities by efficiently analyzing your application materials and job details. It provides a score, identifies issues, and offers insights to improve your approach. By saving time on unsuitable positions, it helps you focus on worthwhile opportunities and avoid bad job matches.
 
 > [!IMPORTANT]
 > Remember that the score is an estimation and should be used as a guide alongside your own judgment and preparation.
