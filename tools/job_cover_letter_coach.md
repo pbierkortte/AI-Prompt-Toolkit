@@ -40,6 +40,7 @@ Gather the following details before using the tool:
 - Target Job Title
 - Full Job Description
 - Your Current Resume
+- Hiring manager (Research to find their name)
 - Company Information (optional)
 
 ### 2. Input Your Data
@@ -73,7 +74,7 @@ d. Repeated refinement until a perfect score is achieved
 Write a cover letter for a [specific job title] position at [company name] that includes the following elements:
 
 1. Professional header with your contact information
-2. Personalized greeting to the hiring manager (research to find their name)
+2. Personalized greeting to the hiring manager (if provided)
 3. Strong opening paragraph that hooks the reader and states the position you're applying for
 4. 2-3 body paragraphs that:
    a. Highlight your most relevant qualifications for the role
