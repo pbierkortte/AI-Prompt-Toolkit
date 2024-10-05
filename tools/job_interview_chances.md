@@ -1,5 +1,13 @@
 # Interview Chances
 
+---
+
+> [!NOTE]
+> WORK IN PROGRESS
+
+---
+
+
 What are your chances of getting an interview; evaluate fit.
 
 ## Prompts
