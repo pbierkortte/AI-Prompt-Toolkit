@@ -1,11 +1,9 @@
 # Interview Chances
 
-This tool, along with the Company Reconnaissance tool, provides insights to improve your chances of securing an interview and landing your dream job. It analyzes your resume, the job description, and company research, providing a percentage-based score and highlighting potential red flags. Remember that the score is an estimation and should be used as a guide alongside your own judgment and preparation. 
+This tool, working in conjunction with the Company Reconnaissance tool, enhances your chances of securing an interview and landing your dream job by analyzing your resume, the job description, and company research. It provides a percentage-based score and identifies potential red flags, helping you refine your application strategy. The tool evaluates your materials against each other and the target company, offering insights to improve your approach.
 
-
-## Assess Your Chances 
-
-This tool helps you assess your likelihood of getting an interview by evaluating your resume, the job description (JD), and your company research against each other. It provides a percentage-based score and highlights any red flags in your materials or the target company, helping you refine your application strategy.
+> [!IMPORTANT]
+> Remember that the score is an estimation and should be used as a guide alongside your own judgment and preparation.
 
 ### Usage
 
