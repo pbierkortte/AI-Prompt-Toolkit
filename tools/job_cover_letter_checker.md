@@ -43,7 +43,7 @@ To use this tool, provide your cover letter text in the prompt below. The AI wil
    - Spelling or grammar errors
    - Presence of placeholders
    - Incorrect or missing company address
-   - Diversity statements
+   - Diversity rhetoric
 
 9. Provide a brief explanation for the score given, highlighting strengths or areas for improvement.
 
