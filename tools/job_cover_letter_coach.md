@@ -65,7 +65,7 @@ Ensure your letter:
 - Is free of grammatical and spelling errors
 - Maintains a confident yet humble tone
 - Is no longer than one page (240-500 words)
-- Exclude references to diversity, equity, and inclusion commitments
+- Avoids any diversity rhetoric
 - Stick strictly to given information; do not add, invent, or infer any details not supported by the information provided.
 
 Additional guidelines:
