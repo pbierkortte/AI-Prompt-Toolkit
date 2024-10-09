@@ -34,9 +34,9 @@ The output will consist of:
 
 ### Interview Chance Scoring
 
-- **0-79%:** Low chance of interview. Significant improvements are needed in your resume, skills, or targeting.
-- **80-89%:** Moderate chance. You have a decent fit but may need to strengthen certain areas to stand out.
-- **90% +:** Strong chance. Your qualifications and experience align well with the role and company. 
+- **0-84%:** Low chance of interview. Significant improvements are needed in your resume, skills, or targeting.
+- **85-94%:** Moderate chance. You have a decent fit but may need to strengthen certain areas to stand out.
+- **95% +:** Strong chance. Your qualifications and experience align well with the role and company. 
 
 ### Best Practices
 
