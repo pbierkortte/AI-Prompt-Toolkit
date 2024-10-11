@@ -29,6 +29,7 @@ Each file contains a specific prompt or tool with instructions.
 * [Interview Preparation Coach](tools/job_interview_prep_coaching.md)
 * [Resume Proof Reading](tools/job_resume_proof_reading.md)
 * [Chain of Thought Meta-Prompting](tools/llm_cot_meta_prompting.md)
+* [llm_general_tip](tools/llm_general_tip.md)
 * [Print Full Conversation](tools/llm_print_full_conversation.md)
 
 <!-- TOC END -->
