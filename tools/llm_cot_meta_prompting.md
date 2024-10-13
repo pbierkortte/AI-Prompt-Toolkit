@@ -105,7 +105,7 @@ Ensure that the final task output is of the highest quality, fulfilling all task
 ---
 
 ### Stage 7: Output
-- Present the final output using a separate **fenced code block**.
+- Present the final output using a **separate fenced code block**.
 - Ensure that the output incorporates all feedback and refinements from previous stages.
 
 ---
