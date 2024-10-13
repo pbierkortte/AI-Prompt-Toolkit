@@ -1,13 +1,10 @@
-
 # LinkedIn Proof Reader
 
 This tool helps you check your LinkedIn posts before publishing. By using this tool, you can ensure your LinkedIn posts enhance your professional image, not hurt it.
 
-
 ## What It Does
 
 This tool analyzes your LinkedIn post, considering your professional background (if provided), offering specific feedback on several key factors. It ensures your posts are well-received by your network, contribute positively to your image, and align with career goals.
-
 
 1. **Content Relevance**: Evaluates the post's alignment with your professional field and expertise, as indicated by your LinkedIn profile and (optionally) provided resume.
 
@@ -23,23 +20,19 @@ This tool analyzes your LinkedIn post, considering your professional background 
 
 7. **Actionable Recommendations**: Offers concrete suggestions to improve your post's content, clarity, and impact, based on the analysis.
 
-
 ## Usage
-
 
 Provide the following inputs:
 
 1. **The prompt:** See below.
-1. **Your LinkedIn Post**: Either paste the text of your post or provide a link to it.
-2. **Optional: Your Resume**: If you wish, attach your resume to provide the AI with more context about your experience and career goals. You can specify how your post and resume relate within your request.
-
+2. **Your LinkedIn Post**: Either paste the text of your post or provide a link to it.
+3. **Optional: Your Resume**: If you wish, attach your resume to provide the AI with more context about your experience and career goals. You can specify how your post and resume relate within your request.
 
 ## Prompt
 
 ```
 You are a potential hiring manager and expert recruiter, you see this content from a person, on LinkedIn. **Analyze the content**, considering its relevance to the professional platform and the creator's field of expertise. If a resume is provided, compare the content with the individual's professional background. **Evaluate how this content impacts the creator's public image and professional brand. Decide on your next actions**: Would you ignore it, engage with it, or consider it a red flag? **Provide a step-by-step explanation of your thought process**, including your initial impressions, content analysis, assessment of professionalism, and potential implications for the creator's career. Consider how the content aligns with or differs from the information in their resume, if available. **Conclude with a recommendation on how to proceed and an overall assessment of whether the content adds or subtracts value from the person's public image.** Your response should be thorough yet concise, offering valuable insights for both recruiters and LinkedIn users looking to optimize their professional presence on the platform.
 ```
-
 
 ## Best Practices for LinkedIn Posts:
 
@@ -52,7 +45,6 @@ You are a potential hiring manager and expert recruiter, you see this content fr
 4. **Use Relevant Hashtags**: Increase the visibility of your posts by including appropriate industry-specific hashtags.
 
 5. **Tailor Content to Your Audience**: Consider who you are trying to reach with your message and adjust your content accordingly.
-
 
 ## Limitations:
 
@@ -86,4 +78,3 @@ You are a potential hiring manager and expert recruiter, you see this content fr
 
 7. **Q: How does this tool handle different languages or cultural contexts?**
    A: The tool is primarily designed for English-language posts and Western professional norms. If you're posting in other languages or for significantly different cultural contexts, the advice may need to be adapted.
-
