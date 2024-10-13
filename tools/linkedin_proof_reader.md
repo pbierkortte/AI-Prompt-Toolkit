@@ -64,7 +64,26 @@ You are a potential hiring manager and expert recruiter, you see this content fr
 
 - **Inability to Predict Viral Success**: The tool cannot definitively predict how well your post will be received by the broader LinkedIn community or guarantee a specific level of engagement.
 
+## FAQ
 
-## Example Output:
+1. **Q: How accurate is this tool in predicting how my post will be received?**
+   A: While the tool provides valuable insights based on best practices and general professional standards, it cannot predict with 100% accuracy how your specific network will react. Use it as a guide, but also trust your own judgment about your audience.
 
-(See the original prompt input and output provided as an example)
+2. **Q: Can this tool help me create viral content on LinkedIn?**
+   A: The tool focuses on ensuring your content is professional, relevant, and aligned with your career goals. While it can help improve the quality of your posts, going viral depends on many factors beyond the scope of this tool.
+
+3. **Q: Why should I include my resume when using this tool?**
+   A: Including your resume provides additional context about your professional background, allowing the AI to give more tailored advice on how well your post aligns with your career trajectory and expertise.
+
+4. **Q: How often should I use this tool?**
+   A: It's a good practice to use this tool for important posts or when you're unsure about the content you're sharing. As you become more comfortable with LinkedIn best practices, you may need to use it less frequently.
+
+5. **Q: Can this tool help me if I'm in a very niche or specialized field?**
+   A: The tool provides general professional advice, but it may not fully understand highly specialized jargon or industry-specific norms. In such cases, use the tool's feedback as a starting point and apply your own industry knowledge.
+
+6. **Q: Will this tool write my LinkedIn posts for me?**
+   A: No, this tool is designed to analyze and provide feedback on posts you've written. It does not generate content for you.
+
+7. **Q: How does this tool handle different languages or cultural contexts?**
+   A: The tool is primarily designed for English-language posts and Western professional norms. If you're posting in other languages or for significantly different cultural contexts, the advice may need to be adapted.
+
