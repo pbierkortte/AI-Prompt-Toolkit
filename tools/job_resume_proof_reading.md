@@ -33,9 +33,11 @@ To use this tool, simply provide your resume either attached or pasted below the
 
 ## Prompt
 ```
-First, parse this resume; read the entire document content and serialize it into markdown format. Include all sections, headings, and bullet points exactly as they appear in the original document. Do not summarize or omit any information. After converting to markdown, display the entire document content, ensuring that all text, including any that may have been cut off at the end, is included. Finally, stop once you reach the end of the provided text.
+Check if the document is already in markdown format. If not, parse the resume and convert it to markdown format. Include all sections, headings, and bullet points exactly as they appear in the original document. Do not summarize or omit any information. Display the entire document content in markdown format. Ensure all text is included, even if it was cut off at the end of the original document. Stop once the end of the provided text is reached. 
 
-Second, review this resume, and score it 1 (terrible) to 100 (excellent) and give an estimated salary range. Very important, if there are any red-flags, incorrect structure, spelling & grammar errors, or diversity rhetoric, rate it 0. Explain your answers.
+Evaluate and score the resume on a overall scale of 1-100%. Very important, if there are any red-flags, incorrect structure, spelling & grammar errors, or diversity rhetoric, rate it 0.
+
+Give an estimated salary range.
 ```
 
 ## Customization
