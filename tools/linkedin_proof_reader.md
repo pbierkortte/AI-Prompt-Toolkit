@@ -44,7 +44,7 @@ Based on your evaluation, provide personalized recommendations to improve the ca
 
 ---
 
-[OPTIONAL: Paste your resume here or attach it]
+[Optional: Paste your resume here or attach it]
 
 ```
 
