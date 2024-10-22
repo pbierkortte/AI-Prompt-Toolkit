@@ -40,11 +40,11 @@ Based on your evaluation, provide personalized recommendations to improve the ca
 
 ---
 
-[Paste content to evaluate here or attach it.]
+[Paste content to evaluate here or attach it]
 
 ---
 
-[OPTIONAL: Paste your resume here or attache it.]
+[OPTIONAL: Paste your resume here or attach it]
 
 ```
 
