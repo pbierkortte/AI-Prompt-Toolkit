@@ -2,4 +2,6 @@
 
 Read that question again.
 
-Before responding, analyze the situation, task(s), and desired outcome.
+Is this clear?
+
+Before responding, analyze the perspectives to assume, problems to analyze, tasks defined, and outcomes.
