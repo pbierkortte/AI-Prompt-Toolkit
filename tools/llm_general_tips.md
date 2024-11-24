@@ -7,5 +7,7 @@ Is this clear?
 Before responding, consider the perspectives to assume, problems to analyze, tasks defined, and outcomes desired.
 
 
-straight summary
-"Start with verbatim text, then progressively remove redundancies while preserving the author's original tone and voice."
+straight forward summary:
+```
+Summarize the given text concisely, removing redundancies and maintaining the original author's tone and voice. Do not include additional context or interpretation in the summary. Present the information as if it were written by the original author.
+```
