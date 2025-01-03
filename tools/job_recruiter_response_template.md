@@ -44,23 +44,6 @@ Before responding, analyze the situation, the timeline & response timing, task(s
 
 ```
 
-## Best Practices
-
-1. **Be Prompt**: Respond within 24-48 hours when possible
-2. **Stay Professional**: Maintain a courteous and professional tone
-3. **Ask Key Questions**: Request important details like compensation and remote work policy upfront
-4. **Protect Privacy**: Share personal information strategically
-5. **Show Interest**: Demonstrate knowledge of the company/role while remaining neutral
-6. **Proofread**: Check for errors before sending
-7. **Keep Records**: Save important correspondence for future reference
-
-## Limitations
-
-- **Context Sensitivity**: The tool provides general guidance but may not account for industry-specific norms
-- **Personal Style**: You may need to adjust the tone to match your personal brand
-- **Negotiation Complexity**: Complex salary or benefit negotiations may require more nuanced approaches
-- **Cultural Differences**: May need adaptation for different cultural contexts or international recruiters
-
 ## FAQ
 
 1. **Q: How accurate is this tool in crafting appropriate responses?**
