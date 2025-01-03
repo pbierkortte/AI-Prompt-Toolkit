@@ -41,6 +41,7 @@ Before responding, analyze the situation, the timeline & response timing, task(s
 <recruiter_message>
 [Paste recruiter's message here]
 </recruiter_message>
+
 ```
 
 ## Best Practices
