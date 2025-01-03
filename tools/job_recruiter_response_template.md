@@ -28,17 +28,14 @@ Provide the following inputs:
 
 <Task>
 **Analyze the situation, considering:**
-<<<<<<< Updated upstream
    - The context of the recruiter's message
    - The timeline and appropriate response timing
    - Specific tasks or actions requested by the recruiter
-=======
    - The context and nature of the message
    - The sender's relationship/role (recruiter, hiring manager, industry connection)
    - The purpose or intent of the outreach
    - Any implied history or shared context
    - The appropriate level of formality needed
->>>>>>> Stashed changes
    - Your desired outcome from this interaction
 
 **Reflect:**
