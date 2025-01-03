@@ -25,7 +25,9 @@ Provide the following inputs:
 ## Prompt
 
 ```markdown
+
 <Task>
+
 **Analyze the situation, considering:**
    - The context of the recruiter's message
    - The timeline and appropriate response timing
