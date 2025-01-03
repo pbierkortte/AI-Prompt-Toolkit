@@ -38,10 +38,6 @@ Before responding, analyze the situation, the timeline & response timing, task(s
 [Optional: Include your resume or relevant background information]
 </resume>
 
-<recruiter_message>
-[Paste recruiter's message here]
-</recruiter_message>
-
 ```
 
 ## Best Practices
