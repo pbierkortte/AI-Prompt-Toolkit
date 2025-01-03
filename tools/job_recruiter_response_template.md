@@ -19,8 +19,8 @@ Provide the following inputs:
 
 1. **The prompt:** See below
 2. **Recruiter's message**: The message you received
-3. **Optional: Your resume**: To provide context about your experience and goals
-4. **Optional: Job description**: If provided by the recruiter
+3. **Optional - Your resume**: To provide context about your experience and goals
+4. **Optional - Job description**: If provided by the recruiter
 
 ## Prompt
 
