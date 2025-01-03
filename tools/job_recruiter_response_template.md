@@ -28,16 +28,39 @@ Provide the following inputs:
 
 <Task>
 **Analyze the situation, considering:**
+<<<<<<< Updated upstream
    - The context of the recruiter's message
    - The timeline and appropriate response timing
    - Specific tasks or actions requested by the recruiter
+=======
+   - The context and nature of the message
+   - The sender's relationship/role (recruiter, hiring manager, industry connection)
+   - The purpose or intent of the outreach
+   - Any implied history or shared context
+   - The appropriate level of formality needed
+>>>>>>> Stashed changes
    - Your desired outcome from this interaction
 
 **Reflect:**
-Take a moment, really analyze, so you get the details right.
+Take a moment to analyze:
+- Compare against your standard response patterns
+- Notice the tone and context of the message
+- Check for personal or professional connection indicators
+- Review the immediacy and type of response needed
+- Consider the networking vs. opportunity aspect
+- Look for subtle context clues or shared history
+- Examine how this fits into your professional goals
+- Identify if this needs template or personalized response
 
 **Then:**
-Craft a concise, direct reply that maintains a positive tone and preserves future opportunities. Safeguard personal information while strategically choosing words that showcase your value. Avoid any negative statements or overly revealing details. Carefully proofread your response, as even small errors can impact the recruiter's perception. Aim to create the best possible impression while keeping the door open for potential future opportunities. Include a brief statement of interest or qualification related to the position, if appropriate. Reminder to tailor the response to the specific job or company mentioned by the recruiter.
+Craft an appropriate reply that:
+- Matches the tone and context of the original message
+- Maintains professional boundaries while acknowledging any shared history
+- Safeguards personal information appropriately for the relationship level
+- Keeps future opportunities open without over-committing
+- Acknowledges any shared context without revealing new personal details
+- Creates the right impression for the type of professional relationship
+- Remains brief but engaging at the appropriate level
 </Task>
 
 <Today>
@@ -48,10 +71,9 @@ Craft a concise, direct reply that maintains a positive tone and preserves futur
 [Optional: Include your resume or relevant background information]
 </Resume>
 
-<RecruiterMessage>
-[Paste recruiter's message here]
-</RecruiterMessage>
-
+<Message>
+[Paste message here]
+</Message>
 ```
 
 ## FAQ
