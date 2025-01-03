@@ -26,11 +26,11 @@ Provide the following inputs:
 
 ```markdown
 <Task>
-**Before responding:**
-- The situation
-- The timeline & response timing
-- Task(s)
-- Desired outcome
+**Analyze the situation, considering:**
+   - The context of the recruiter's message
+   - The timeline and appropriate response timing
+   - Specific tasks or actions requested by the recruiter
+   - Your desired outcome from this interaction
 
 **Reflect:**
 Take a moment, really analyze, so you get the details right.
