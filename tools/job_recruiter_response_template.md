@@ -25,9 +25,18 @@ Provide the following inputs:
 ## Prompt
 
 ```markdown
-
 <Task>
-Before responding, analyze the situation, the timeline & response timing, task(s), and desired outcome. Craft a concise, direct reply that maintains a positive tone and preserves future opportunities. Safeguard personal information while strategically choosing words that showcase your value. Avoid any negative statements or overly revealing details. Carefully proofread your response, as even small errors can impact the recruiter's perception. Aim to create the best possible impression while keeping the door open for potential future opportunities. Include a brief statement of interest or qualification related to the position, if appropriate. Reminder to tailor the response to the specific job or company mentioned by the recruiter.
+**Before responding:**
+- The situation
+- The timeline & response timing
+- Task(s)
+- Desired outcome
+
+**Reflect:**
+Take a moment, really analyze, so you get the details right.
+
+**Then:**
+Craft a concise, direct reply that maintains a positive tone and preserves future opportunities. Safeguard personal information while strategically choosing words that showcase your value. Avoid any negative statements or overly revealing details. Carefully proofread your response, as even small errors can impact the recruiter's perception. Aim to create the best possible impression while keeping the door open for potential future opportunities. Include a brief statement of interest or qualification related to the position, if appropriate. Reminder to tailor the response to the specific job or company mentioned by the recruiter.
 </Task>
 
 <Today>
@@ -40,7 +49,7 @@ Before responding, analyze the situation, the timeline & response timing, task(s
 
 <RecruiterMessage>
 [Paste recruiter's message here]
-<RecruiterMessage>
+</RecruiterMessage>
 
 ```
 
@@ -56,7 +65,7 @@ Before responding, analyze the situation, the timeline & response timing, task(s
    A: Including your resume provides context that helps the tool generate more relevant and tailored responses that align with your experience and career goals.
 
 4. **Q: What if I need to respond to multiple recruiters with similar roles?**
-   A: While you can use the same prompt template, always create separate responses for each recruiter and customize details to reflect the specific company and role. The tool helps maintain consistency while ensuring each response feels personal.
+   A: While you can use the same prompt template, always create separate responses for each recruiter and customize details to reflect the specific company and role.
 
 5. **Q: How does this tool handle different types of recruiter messages?**
    A: The tool adapts to various scenarios (initial contact, follow-ups, etc.) but may need adjustment for unique situations or cultural contexts.
