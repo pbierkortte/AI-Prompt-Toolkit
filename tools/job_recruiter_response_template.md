@@ -34,9 +34,13 @@ Before responding, analyze the situation, the timeline & response timing, task(s
 [Paste today's date here]
 </Today>
 
-<resume>
+<Resume>
 [Optional: Include your resume or relevant background information]
-</resume>
+</Resume>
+
+<RecruiterMessage>
+[Paste recruiter's message here]
+<RecruiterMessage>
 
 ```
 
