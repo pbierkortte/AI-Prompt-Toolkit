@@ -27,40 +27,35 @@ Provide the following inputs:
 ```markdown
 <Task>
 
-**Analyze the situation, considering:**
-- The context of the recruiter's message
-- The timeline and appropriate response timing
-- Specific tasks or actions requested by the recruiter
-- The context and nature of the message
-- The sender's relationship/role (recruiter, hiring manager, industry connection)
-- The purpose or intent of the outreach
-- Any implied history or shared context
-- The appropriate level of formality needed
-- Your desired outcome from this interaction
+<Task>
 
-**Reflect:**
-Take a moment to analyze:
-- Compare against your standard response patterns
-- Notice the tone and context of the message
-- Check for personal or professional connection indicators
-- Review the immediacy and type of response needed
-- Consider the networking vs. opportunity aspect
-- Look for subtle context clues or shared history
-- Examine how this fits into your professional goals
-- Identify if this needs template or personalized response
+# Recruiting Response Assistant Task
 
-**Then:**
-Craft an appropriate reply that:
-- Requests compensation details early to respect everyone's time
-- Matches the tone and context of the original message
-- Maintains professional boundaries while acknowledging any shared history
-- Safeguards personal information appropriately for the relationship level
-- Keeps future opportunities open without over-committing
-- Acknowledges any shared context without revealing new personal details
-- Creates the right impression for the type of professional relationship
-- Remains brief but engaging at the appropriate level
+Required inputs:
+1. Today's date
+2. Job seeker's resume
+3. Recruiter's message
 
-if this opportunity is worth pursuing further, the response should help move the conversation forward while ensuring I have the necessary information to evaluate if this opportunity. If not, provide a clear and professional response that respects everyone's time while being upfront about expectations.
+Quick Analysis:
+- Core purpose of the outreach
+- Key job requirements compared to candidate experience
+- Employment type (Including contract, C2H, direct hire)
+- Salary/compensation structure
+- Location/remote status
+- Client company if provided
+
+Response Guidelines:
+1. If critical information is missing (compensation, location, employment type), ask ONLY those
+2. Keep focus on skills/experience match first
+3. State compensation requirements clearly based on employment type:
+   - Direct hire: Base salary + benefits
+   - Contract: Hourly rate
+   - C2H: Contract rate + conversion expectations
+4. If major requirements align, move to scheduling a conversation
+5. Maintain open, professional tone while being direct about requirements
+6. Keep responses concise and focused on next steps
+
+The key is facilitating meaningful conversations for well-matched opportunities while being clear about requirements, regardless of employment type.
 
 </Task>
 
