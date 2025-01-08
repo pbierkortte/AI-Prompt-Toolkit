@@ -51,7 +51,7 @@ Take a moment to analyze:
 
 **Then:**
 Craft an appropriate reply that:
-- Preserve salary leverage by making them anchor first
+- Addresses compensation expectations early to respect everyone's time
 - Matches the tone and context of the original message
 - Maintains professional boundaries while acknowledging any shared history
 - Safeguards personal information appropriately for the relationship level
@@ -59,6 +59,9 @@ Craft an appropriate reply that:
 - Acknowledges any shared context without revealing new personal details
 - Creates the right impression for the type of professional relationship
 - Remains brief but engaging at the appropriate level
+
+if this opportunity is worth pursuing further, the response should help move the conversation forward while ensuring I have the necessary information to evaluate if this opportunity. If not, provide a clear and professional response that respects everyone's time while being upfront about expectations.
+
 </Task>
 
 <Today>
