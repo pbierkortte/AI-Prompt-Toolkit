@@ -51,7 +51,7 @@ Take a moment to analyze:
 
 **Then:**
 Craft an appropriate reply that:
-- Maintains strategic flexibility around compensation while prompting disclosure from the other party first
+- Preserve salary leverage by making them anchor first
 - Matches the tone and context of the original message
 - Maintains professional boundaries while acknowledging any shared history
 - Safeguards personal information appropriately for the relationship level
