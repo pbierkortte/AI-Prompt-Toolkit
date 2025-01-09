@@ -100,7 +100,6 @@ Now, follow these steps to create an appropriate response:
    </documentation>
 
 Remember to maintain professionalism and build long-term networking value, regardless of the immediate opportunity outcome. Ensure that you ask about compensation details when appropriate, but do not provide any salary expectations or ranges in your response.
-
 ```
 
 ## FAQ
