@@ -105,16 +105,17 @@ Remember to maintain professionalism and build long-term networking value, regar
 ## FAQ
 
 1. **Q: How accurate is this tool in crafting appropriate responses?**
-   A: While the tool provides guidance based on best practices, individual situations may require adjustments. Use it as a starting point and modify the response based on your specific context.
+   A: The tool generates responses based on best practices and professional standards, but users should review and adjust the output based on their specific situation and preferences.
 
 2. **Q: Can this tool help with complex negotiation scenarios?**
-   A: The tool focuses on initial responses and basic interactions. For complex negotiations, use it to craft the initial response but seek additional guidance for detailed negotiations.
+   A: While the tool provides a solid foundation for initial responses, complex negotiations may require additional expertise and personalized strategies beyond the scope of this template.
 
-3. **Q: Why should I include my resume when using this tool?**
-   A: Including your resume provides context that helps the tool generate more relevant and tailored responses that align with your experience and career goals.
+3. **Q: Why is including my resume recommended?**
+   A: Your resume provides essential context that helps the tool generate more personalized and relevant responses aligned with your experience, skills, and career objectives.
 
-4. **Q: What if I need to respond to multiple recruiters with similar roles?**
-   A: While you can use the same prompt template, always create separate responses for each recruiter and customize details to reflect the specific company and role.
+4. **Q: How should I handle multiple recruiter responses?**
+   A: While the template can be used repeatedly, create unique responses for each recruiter and customize details specific to the company, role, and conversation context.
 
-5. **Q: How does this tool handle different types of recruiter messages?**
-   A: The tool adapts to various scenarios (initial contact, follow-ups, etc.) but may need adjustment for unique situations or cultural contexts.
+5. **Q: How versatile is this tool for different recruiting scenarios?**
+   A: The tool adapts to various recruitment situations but may need modifications for specific industries, cultures, or unique circumstances. Always review and adjust the output accordingly.
+   
