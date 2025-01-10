@@ -1,4 +1,4 @@
-# Job Recruitment Response Generator
+# Job Recruitment Response Template 
 
 This tool helps craft professional responses to job recruiters, ensuring effective communication while maintaining professional boundaries and opportunities.
 
