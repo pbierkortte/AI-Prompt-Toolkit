@@ -27,7 +27,7 @@ Each file contains a specific prompt or tool with instructions.
 * [Interview Chances](tools/job_interview_chances.md)
 * [Post-Interview Follow-Up Email Generator](tools/job_interview_follow_up_email.md)
 * [Interview Preparation Coach](tools/job_interview_prep_coaching.md)
-* [Job Recruiter Response Template](tools/job_recruiter_response_template.md)
+* [Job Recruitment Response Generator](tools/job_recruitment_response_generator.md)
 * [Resume Proof Reading](tools/job_resume_proof_reading.md)
 * [LinkedIn Proof Reader](tools/linkedin_proof_reader.md)
 * [Chain of Thought Meta-Prompting](tools/llm_cot_meta_prompting.md)
