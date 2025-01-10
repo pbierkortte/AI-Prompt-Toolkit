@@ -71,11 +71,11 @@ Now, follow these steps to create an appropriate response:
     - Job seeker's market value (based on experience) vs. offered compensation (based on role & responsibility)
     - Recruiter's ability to provide additional opportunities in the future (It may may sense to entertain the opportunity and make the contact, even if not completely aligned)
 
-3. Decision Making:
+4. Decision Making:
    Wrap you final decision in <decision> tags:
    a) State your final decision as simply "Question",  "Pursue", "Decline", "Ignore"
 
-4. Response Crafting:
+5. Response Crafting:
    Wrap your response in <response> tags. Based on your decision, craft an appropriate response using these guidelines:
 
    If Questioning:
@@ -107,14 +107,14 @@ Now, follow these steps to create an appropriate response:
    If Ignoring:
    - respond simply "ignore"
 
-5. Final Response:
+6. Final Response:
    Unless ignoring, present your final response using this structure (else omit this block):
 
    <response>
    [Your crafted response here, following the appropriate guidelines]
    <response>
 
-6. Documentation:
+7. Documentation:
    Provide documentation using this structure:
 
    <documentation>
