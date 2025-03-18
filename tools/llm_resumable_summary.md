@@ -3,7 +3,7 @@
 A structured conversation summary tool designed to generate concise, progressive summaries of your conversations with AI chatbots, focusing on actionable insights and future steps. Its key purpose is creating summaries that contain sufficient context to continue work without referencing the full conversation. Ideal for complex discussions where remembering key details is crucial for continued progress, it enables smooth resumption of work with all necessary context preserved.
 
 > [!CAUTION]
-> Generally this tool will do well on a diverse range of conversations. It provides the right balance of structure and flexibility for each context. Yet this tool is especially geared toward three tasks common to LLMs: storytelling, research, and programming. Use with caution for other applications.
+> Generally this tool will do well on a diverse range of conversations. It provides the right balance of structure and flexibility for most contexts. Yet this tool is especially geared toward three tasks common to LLMs: storytelling, research, and programming. Use with caution for other applications.
 
 ### Usage
 To use this tool, simply paste the provided prompt at the end of your conversation.
