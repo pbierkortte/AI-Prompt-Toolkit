@@ -92,6 +92,10 @@ The four-part progression (why → past → present → future) naturally adapts
 
 3. **Q: Can I customize the level of detail in the summary?**
    A: While the prompt doesn't directly offer detail control, a more focused and concise conversation will naturally result in a more concise summary.
+You got it! Here's a FAQ #4 that addresses the variability with different LLMs:
 
-4. **Q: Is this tool useful for all types of conversations?**
-   A: It's most effective for conversations with a clear goal and a focus on problem-solving or decision-making. It may be less useful for purely exploratory or brainstorming sessions.
+4. **Q: Will this work with my LLM?**
+   A: While the prompt is designed to be model agnostic, *results will vary* depending on the capabilities of the specific AI model you're using. Some LLMs are better at retaining context and summarizing information than others.
+
+5. **Q: What if I feel critical information is missing?**
+   A: Review carefully. AI sometimes uses "middle-out" techniques, omitting details or whole messages from the middle of the conversation. Try adding those details to the conversation before pasting the prompt; this may not restore the lost memory, but it can improve the overall summary.
