@@ -1,6 +1,6 @@
-# Resumable Summary Generator - A Structured Conversation Summary Tool
+# Resumable Summary Generator
 
-This tool is designed to generate concise, progressive summaries of your conversations with AI chatbots, focusing on actionable insights and future steps. Its key purpose is creating summaries that contain sufficient context to continue work without referencing the full conversation. Ideal for complex discussions where remembering key details is crucial for continued progress, it enables smooth resumption of work with all necessary context preserved.
+A structured conversation summary tool designed to generate concise, progressive summaries of your conversations with AI chatbots, focusing on actionable insights and future steps. Its key purpose is creating summaries that contain sufficient context to continue work without referencing the full conversation. Ideal for complex discussions where remembering key details is crucial for continued progress, it enables smooth resumption of work with all necessary context preserved.
 
 > [!TIP]
 > This tool provides a clear, concise framework for conversation summarization with the right balance of structure and flexibility. It works particularly well with Claude Sonnet, which excels at storytelling, research, and programming tasks.
