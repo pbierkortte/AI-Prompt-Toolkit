@@ -10,7 +10,8 @@ To use this tool, simply paste the provided prompt at the end of your conversati
 
 ### Prompt
 ```
-Summarize our conversation with a progressive structure preserving continuity, nuance, and compaction. Start by stating the core purpose driving our discussion. Follow four-part progression (why → past → present → future): synthesize accomplishments and decisions, highlight key developments, critical findings, and functional components relevant to our work. Maintain knowledge state forming our shared mental model, including decision reasoning. Detail what we're currently working on with specific files, resources, and unresolved questions. Focus on most important elements based on conversation nature. Adjust detail to conversation complexity ensuring summary contains enough to continue without referencing full dialogue, yet remains concise. Conclude with clear next actions, responsibilities, and success criteria. A summary contains everything necessary for progress and nothing that distracts.
+Summarize our conversation with a progressive structure preserving continuity, nuance, and compaction. Start by stating the core purpose driving our discussion. Follow four-part progression (why → past → present → future): synthesize accomplishments and decisions, highlight key developments, critical findings, and functional components relevant to our work. Maintain knowledge state forming our shared mental model, including decision reasoning. Detail what we're currently working on with specific files, resources, and unresolved questions. Focus on most important elements based on conversation nature. Adjust detail to conversation complexity ensuring summary contains enough to continue without referencing full dialogue, yet remains concise. Conclude with clear next actions, including responsibilities or success criteria as appropriate. A summary contains everything necessary for progress and nothing that distracts.
+
 ```
 
 ### Summary
