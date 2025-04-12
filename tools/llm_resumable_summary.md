@@ -15,7 +15,7 @@ Summarize our full conversation with a progressive structure preserving continui
 
 ### Summary
 
-The prompt creates a versatile, high-performance framework that delivers superior results across diverse contexts. Whether analyzing compliance requirements, evaluating code, or dissecting narrative structures, it consistently produces organized, actionable summaries with a **five-part progression**:
+The prompt creates a versatile, high-performance framework that delivers superior results across diverse contexts. Whether analyzing compliance requirements, evaluating code, or dissecting narrative structures, it consistently produces organized, actionable summaries with a five-part progression:
 
 * **Why:** Establishes the core purpose and grounds the context
 * **Who:** Lists all participants/collaborators or major roles in the conversation
