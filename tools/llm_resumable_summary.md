@@ -91,16 +91,16 @@ Future (Next Actions & Success Criteria):
 ### FAQ
 
 1. **Q: Why is this summary different from a simple transcript?**
-   A: This summary is *synthesized* – it doesn't just record what was said, but why it was said, who participated, what was decided, and what needs to happen next.
+   A: This summary is *synthesized* – it doesn't just record *what* was said, but *why* it was said, *who* participated, *what* was decided, and *what* needs to happen next.
 
 2. **Q: What if the AI misses something important?**
-   A: Review the summary carefully and add any missing information. This tool is meant to assist you, not replace your own judgment.
+   A: Review the summary carefully and add any missing information. This tool is meant to *assist* you, not replace your own judgment.
 
 3. **Q: Can I customize the level of detail in the summary?**
    A: While the prompt doesn't directly offer detail control, a more focused and concise conversation will naturally result in a more concise summary.
 
 4. **Q: Will this work with my LLM?**
-   A: While the prompt is designed to be model agnostic, results will vary depending on the capabilities of the specific AI model you're using. Some LLMs are better at retaining context and summarizing information than others.
+   A: While the prompt is designed to be model agnostic, *results will vary* depending on the capabilities of the specific AI model you're using. Some LLMs are better at retaining context and summarizing information than others.
 
 5. **Q: What if I feel critical information is missing?**
    A: Review carefully. Many AIs sometimes use "middle-out" techniques, omitting details or whole messages from the middle of the conversation. Try adding those details to the conversation before pasting the prompt; this may not restore the lost memory, but it can improve the overall summary.
