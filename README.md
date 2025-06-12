@@ -33,6 +33,7 @@ Each file contains a specific prompt or tool with instructions.
 * [Chain of Thought Meta-Prompting](tools/llm_cot_meta_prompting.md)
 * [Print Full Conversation](tools/llm_print_full_conversation.md)
 * [Resumable Summary Generator](tools/llm_resumable_summary.md)
+* [Code Headers Rule](tools/rule_code_header.md)
 * [Slack Communication Analyzer](tools/slack_comm_analyzer.md)
 
 <!-- TOC END -->
