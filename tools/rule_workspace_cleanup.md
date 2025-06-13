@@ -37,4 +37,4 @@ Untracked files:
 A: New files with proper extensions (.py, .js, .cpp, etc.) that contain meaningful code, not temporary outputs or drafts.
 
 **Q: Will this delete my work accidentally?**
-A: No. Git-tracked files are always preserved, and only obvious garbage/temp files are removed.
+A: Maybe, But git-tracked files should be preserved; only obvious garbage/temp files are removed.
