@@ -14,7 +14,7 @@ Add this rule to your AI coding assistant or include it in your project workflow
 ### Template
 
 ```
-Delete any file not tracked by version control, unless it's intentional, meaningful work. Keep git tracked files and any new files you know you want to keep; remove temporary outputs, logs, and drafts.
+Delete any file not tracked by version control, unless it's intentional, meaningful work. Run `git status` to see which files are tracked or untracked. Keep git tracked files and any new files you know you want to keep; remove temporary outputs, logs, and drafts.
 ```
 
 ### Example
