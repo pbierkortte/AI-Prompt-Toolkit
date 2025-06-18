@@ -10,7 +10,7 @@ Builds persistent project context that survives AI session changes, eliminating 
 Update the registry whenever you create, modify, or remove git-tracked files OR files open in your editor tabs. Add this rule to your AI assistant's project context.
 
 ### Rule
-```md
+```markdown
 # Project Registry
 
 **MUST**: Update this file when creating/modifying/removing git-tracked OR open in tabs files.
@@ -22,7 +22,8 @@ Update the registry whenever you create, modify, or remove git-tracked files OR 
 2. Add/update/remove entries as needed.
 
 Use this format for registry entries:
-```
+
+``
 ## File Category
 ### path/filename.ext
 Purpose: [Context]
@@ -30,7 +31,7 @@ Problem: [Obstacle]
 Solution: [Resolution]
 Result: [Effect]
 Note: [Scope]
-```
+`` 
 
 ---
 
