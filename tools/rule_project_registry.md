@@ -23,7 +23,7 @@ Update the registry whenever you create, modify, or remove git-tracked files OR 
 
 Use this format for registry entries:
 
-```
+``
 ## File Category
 ### path/filename.ext
 Purpose: [Context]
@@ -31,7 +31,7 @@ Problem: [Obstacle]
 Solution: [Resolution]
 Result: [Effect]
 Note: [Scope]
-```
+``
 
 ---
 
