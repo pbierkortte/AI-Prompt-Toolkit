@@ -34,6 +34,7 @@ Each file contains a specific prompt or tool with instructions.
 * [Print Full Conversation](tools/llm_print_full_conversation.md)
 * [Resumable Summary Generator](tools/llm_resumable_summary.md)
 * [Code Headers Rule](tools/rule_code_header.md)
+* [Project Registry Rule](tools/rule_project_registry.md)
 * [Workspace Cleanup Rule](tools/rule_workspace_cleanup.md)
 * [Slack Communication Analyzer](tools/slack_comm_analyzer.md)
 
