@@ -4,7 +4,7 @@
 Builds persistent project context that survives AI session changes, eliminating redundant codebase exploration and accelerating development workflows.
 
 > [!NOTE]
-> This system creates compound efficiency gains - each documented file makes future AI interactions faster and more focused. Works for any project size or technology stack.
+> This system creates compound efficiency gains - each documented file makes future AI interactions faster and more focused. Works for most project sizes or technology stacks.
 
 ### Usage
 Update the registry whenever you create, modify, or remove git-tracked files OR files open in your editor tabs. Add this rule to your AI assistant's project context.
