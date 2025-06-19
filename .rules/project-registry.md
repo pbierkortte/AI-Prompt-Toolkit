@@ -3,19 +3,21 @@
 A living documentation system that builds persistent context for AI assistants across development sessions. This registry captures the purpose, problems solved, and relationships of each significant file in your codebase, creating a structured knowledge base that prevents redundant exploration and accelerates decision-making.
 
 ## Always
-Update when creating, modifying, or removing files that are either:
+Update the "File Entries" section below in this file BEFORE creating, modifying, or removing files that are either:
 - Git-tracked in the repository
 - Currently open in your editor tabs
 
 ## Never
-Update for temporary files, cache files, or files not tracked in git and not actively being worked on.
+- Update for temporary files, cache files, or files not tracked in git and not actively being worked on.
+- Skip registry updates when making file changes.
 
 ## Steps
-1. Read the project registry to understand the registry format
-2. Add/update/remove entries as needed
-3. Follow the structured format for all entries
-4. Group files by logical categories
-5. Keep entries current with file changes
+1. Read this project registry to understand the registry format and existing entries
+2. Read each file you're documenting to understand its actual purpose and content
+3. Add/update/remove entries as files change
+4. Follow the structured format for all entries
+5. Group files by logical categories
+6. Keep entries current with file changes
 
 ## Examples
 ✅ Good:
@@ -42,7 +44,7 @@ Solution: Fixed it
 ## File Entries
 
 ### Assistant Rules
-#### .clinerules/project-registry.md
+#### .rules/project-registry.md
 Purpose: Build cumulative project context that persists across AI sessions
 Problem: AI agents repeatedly explore same files without retaining context
 Solution: Living registry that captures file purposes and relationships  
