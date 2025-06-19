@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'tools/**'
+      - '.rules/**'
   workflow_dispatch:
 
 permissions:

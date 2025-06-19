@@ -1,4 +1,4 @@
-# [Rule Name]
+# Rule Template
 [Introductory summary]
 
 ## Always

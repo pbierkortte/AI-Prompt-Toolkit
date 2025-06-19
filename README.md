@@ -1,9 +1,9 @@
 # AI Prompt Toolkit
 
-My Personal Collection of AI Prompts, Code Snippets, and Tips & Tricks for Enhancing AI Projects
+My Personal Collection of AI Prompts, Assistant Rules, Code Snippets, and Tips & Tricks for Enhancing AI Projects
 
 > [!IMPORTANT]
-> The contents of this repository, including prompts, documentation, code, and generated outputs, are likely AI-generated or AI-assisted (this note included 😄).
+> The contents of this repository, including prompts, rules, documentation, code, and generated outputs, are likely AI-generated or AI-assisted (this note included 😄).
 
 ## Purpose
 
@@ -21,6 +21,17 @@ Each file contains a specific prompt or tool with instructions.
 
 <!-- TOC START -->
 
+### Rules
+
+* [Branch Naming](.rules/branch-naming.md)
+* [Code Header](.rules/code-header.md)
+* [Conventional Commits](.rules/conventional-commits.md)
+* [Project Registry](.rules/project-registry.md)
+* [Rule Template](.rules/rule-template.md)
+* [Workspace Cleanup](.rules/workspace-cleanup.md)
+
+### Tools
+
 * [Company Reconnaissance](tools/job_company_recon.md)
 * [Cover Letter Checker](tools/job_cover_letter_checker.md)
 * [Resume Cover Letter Coach](tools/job_cover_letter_coach.md)
@@ -33,9 +44,6 @@ Each file contains a specific prompt or tool with instructions.
 * [Chain of Thought Meta-Prompting](tools/llm_cot_meta_prompting.md)
 * [Print Full Conversation](tools/llm_print_full_conversation.md)
 * [Resumable Summary Generator](tools/llm_resumable_summary.md)
-* [Code Headers Rule](tools/rule_code_header.md)
-* [Project Registry Rule](tools/rule_project_registry.md)
-* [Workspace Cleanup Rule](tools/rule_workspace_cleanup.md)
 * [Slack Communication Analyzer](tools/slack_comm_analyzer.md)
 
 <!-- TOC END -->
