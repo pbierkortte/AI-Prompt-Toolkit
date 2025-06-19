@@ -3,7 +3,7 @@
 A living documentation system that builds persistent context for AI assistants across development sessions. This registry captures the purpose, problems solved, and relationships of each significant file in your codebase, creating a structured knowledge base that prevents redundant exploration and accelerates decision-making.
 
 ## Always
-Update the "File Entries" section below in this file BEFORE creating, modifying, or removing files that are either:
+Update the "File Entries" section below in this file before creating, modifying, or removing files that are either:
 - Git-tracked in the repository
 - Currently open in your editor tabs
 
