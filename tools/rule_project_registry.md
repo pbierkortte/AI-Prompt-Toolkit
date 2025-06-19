@@ -10,7 +10,7 @@ Builds persistent project context that survives AI session changes, eliminating 
 Update the registry whenever you create, modify, or remove git-tracked files OR files open in your editor tabs. Add this rule to your AI assistant's project context.
 
 ### Rule
-```markdown
+````markdown
 # Project Registry
 
 **MUST**: Update this file when creating/modifying/removing git-tracked OR open in tabs files.
@@ -23,7 +23,7 @@ Update the registry whenever you create, modify, or remove git-tracked files OR 
 
 Use this format for registry entries:
 
-``
+```markdown
 ## File Category
 ### path/filename.ext
 Purpose: [Context]
@@ -31,7 +31,7 @@ Problem: [Obstacle]
 Solution: [Resolution]
 Result: [Effect]
 Note: [Scope]
-``
+```
 
 ---
 
@@ -50,7 +50,7 @@ Problem: Context switching between sessions requires re-learning project structu
 Solution: Centralized documentation capturing project goals, architecture, and quick-start guidance
 Result: Reduced onboarding time and consistent project understanding across interactions
 Note: Should include technology stack, key concepts, and common development workflows
-```
+````
 
 ### Why This Works
 **Smart Scope Management:**
