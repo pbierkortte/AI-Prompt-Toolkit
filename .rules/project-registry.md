@@ -3,9 +3,10 @@
 A living documentation system that builds persistent context for AI assistants across development sessions. This registry captures the purpose, problems solved, and relationships of each significant file in your codebase, creating a structured knowledge base that prevents redundant exploration and accelerates decision-making.
 
 ## Always
-Update the "File Entries" section below in this file before creating, modifying, or removing files that are either:
-- Git-tracked in the repository
-- Currently open in your editor tabs
+- Update the Project Registry to reflect changes and then complete the task
+- Update the File Entries section below in this file before creating, modifying, or removing files that are either:
+    - Git-tracked in the repository
+    - Currently open in your editor tabs
 
 ## Never
 - Update for temporary files, cache files, or files not tracked in git and not actively being worked on.
@@ -13,7 +14,7 @@ Update the "File Entries" section below in this file before creating, modifying,
 
 ## Steps
 1. Read this project registry to understand the registry format and existing entries
-2. Read each file you're documenting to understand its actual purpose and content
+2. Read each file you are documenting to understand its actual purpose and content
 3. Add/update/remove entries as files change
 4. Follow the structured format for all entries
 5. Group files by logical categories
