@@ -3,14 +3,12 @@
 A living documentation system that builds persistent context for AI assistants across development sessions. This registry captures the purpose, problems solved, and relationships of each significant file in your codebase, creating a structured knowledge base that prevents redundant exploration and accelerates decision-making.
 
 ## Always
-- Update the Project Registry to reflect changes and then complete the task
-- Update the File Entries section below in this file before creating, modifying, or removing files that are either:
-    - Git-tracked in the repository
-    - Currently open in your editor tabs
+- Registry update requirement: Update the Project Registry to reflect changes and then complete the task
+- File tracking scope: Update the File Entries section below in this file before creating, modifying, or removing files that are either Git-tracked in the repository or currently open in your editor tabs
 
 ## Never
-- Update for temporary files, cache files, or files not tracked in git and not actively being worked on.
-- Skip registry updates when making file changes.
+- Temporary file updates: Update for temporary files, cache files, or files not tracked in git and not actively being worked on
+- Registry update omission: Skip registry updates when making file changes
 
 ## Steps
 1. Read this project registry to understand the registry format and existing entries

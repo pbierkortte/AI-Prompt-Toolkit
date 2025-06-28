@@ -1,16 +1,26 @@
 # Branch Naming
+
 Consistent branch naming enables automated tooling, improves team collaboration, and provides clear context for code changes through standardized JIRA ticket integration.
 
 ## Always
-Use format `[jira-ticket]-[kebab-case-description]`
+- Format compliance: Use `[jira-ticket]-[kebab-case-description]`
+- JIRA ticket inclusion: Include ticket number at start
+- Kebab case usage: Use hyphens between words
+- Character limit: Keep under 50 characters
+- Case consistency: Use lowercase only
 
 ## Never
-Use feature/ prefixes or deviate from format.
+- Feature prefixes: Use feature/ or other prefixes
+- Format deviation: Deviate from the exact format
+- JIRA ticket omission: Skip the ticket number
+- Character limit violation: Exceed 50 characters
+- Case inconsistency: Use uppercase letters
 
 ## Steps
-1. Include JIRA ticket number (TICKET-123)
-2. Use 3-5 words with hyphens describing the change
-3. Keep under 50 characters, lowercase only
+1. Include JIRA ticket number at start
+2. Add hyphen separator after ticket
+3. Use 3-5 words with hyphens describing change
+4. Verify under 50 characters and lowercase format
 
 ## Examples
 

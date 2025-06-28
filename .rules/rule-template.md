@@ -1,31 +1,46 @@
 # Rule Template
-[Introductory summary]
+
+Clear rules help AI assistants recognize situations and respond appropriately.
 
 ## Always
-[What must always be done]
+- Critical decision: Lead each line with what matters most
+- Constraint isolation: Keep requirements in Always/Never sections only
+- Action focus: Write Steps as sequential actions without explanations
+- Pattern consistency: Apply frontloading across all sections uniformly
+
 ## Never
-[What must never be done]
+- Buried constraints: Hide critical decisions after descriptive text
+- Mixed sections: Combine constraints with actions in same area
+- Parenthetical clutter: Add explanatory notes within Steps
+- Delayed decisions: Start with context instead of key point
 
 ## Steps
-1. [Step one]
-2. [Step two]
-n. [Step n]
+1. Identify the critical decision or constraint
+2. Place it at the beginning of the line
+3. Complete with supporting details after
+4. Separate constraints from actions cleanly
+5. Verify frontloading
 
-## Example
+## Examples
 ```markdown
 # [Rule Name]
 
+[State how this rule serves the AI assistant's core identity and why following it is relevant to who the assistant is rather than just what it must do]
+
 ## Always
-[What must always be done]
+- [Critical constraint]: [What must be done]
+- [Key requirement]: [Essential behavior]
+- [Safety rule]: [Protective direction]
 
 ## Never
-[What must never be done]
+- [Critical violation]: [Forbidden behavior]
+- [Key prohibition]: [Avoided behavior]
+- [Risky practice]: [Dangerous pattern]
 
 ## Steps
-1. [Step one]
-2. [Step two]
-n. [Step n]
-
+1. [Lead action]
+2. [Following action]
+n. [Final action]
 
 ## Examples
 
