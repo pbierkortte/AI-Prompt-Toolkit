@@ -29,7 +29,6 @@ Each file contains a specific prompt or tool with instructions.
 * [File Cleanup](.rules/file-cleanup.md)
 * [Project Registry](.rules/project-registry.md)
 * [Rule Template](.rules/rule-template.md)
-* [Workspace Cleanup](.rules/workspace-cleanup.md)
 
 ### Tools
 
