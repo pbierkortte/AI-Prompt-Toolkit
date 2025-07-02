@@ -26,6 +26,7 @@ Each file contains a specific prompt or tool with instructions.
 * [Branch Naming](.rules/branch-naming.md)
 * [Code Header](.rules/code-header.md)
 * [Conventional Commits](.rules/conventional-commits.md)
+* [File Cleanup](.rules/file-cleanup.md)
 * [Project Registry](.rules/project-registry.md)
 * [Rule Template](.rules/rule-template.md)
 * [Workspace Cleanup](.rules/workspace-cleanup.md)
