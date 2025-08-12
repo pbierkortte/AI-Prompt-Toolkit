@@ -41,6 +41,7 @@ Each file contains a specific prompt or tool with instructions.
 * [Job Recruitment Response Template ](tools/job_recruitment_response_template.md)
 * [Resume Proof Reading](tools/job_resume_proof_reading.md)
 * [LinkedIn Proof Reader](tools/linkedin_proof_reader.md)
+* [Context-Preserving Summary](tools/llm_contextual_summary.md)
 * [Chain of Thought Meta-Prompting](tools/llm_cot_meta_prompting.md)
 * [Print Full Conversation](tools/llm_print_full_conversation.md)
 * [Resumable Summary Generator](tools/llm_resumable_summary.md)
