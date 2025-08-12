@@ -1,0 +1,67 @@
+# Context-Preserving Summary
+
+This tool helps you generate a rich, context-aware summary of your entire AI chatbot conversation. Unlike typical summarization prompts, "Deep Think" invites the AI to deeply reflect on the discussion, connect insights, and roll up the conversation into a single, comprehensive message—without worrying about structure, order, or word count.
+
+---
+
+> [!NOTE]
+> For meaningful results, you may want to switch to a larger AI model (if available), even temporarily, when using this prompt. Larger models are better equipped to recall, synthesize, and connect ideas across long or complex conversations.
+
+> [!TIP]
+> Use this tool when you want to checkpoint your conversation, capture the full context for later review, or empower the AI to make creative connections and synthesize insights. It's especially useful after complex or wide-ranging discussions.
+
+### Usage
+
+At any point in your conversation, paste the following prompt to invoke a deep-thinking summary:
+
+```
+I think a deep thinking is in order let your mind wonder, no word limit.
+```
+
+---
+
+### Summary
+
+The purpose of this tool is to create a context-preserving, holistic summary of your conversation. The AI is encouraged to "think out loud," synthesizing ideas, making connections, and surfacing insights that might be missed in a rigid Q&A format. This is ideal for reflection, checkpointing, or simply rolling up a conversation for future reference.
+
+### Tasks
+
+1. **Recall Conversation History:** The AI should process and reflect on all previous messages in the conversation.
+2. **Synthesize & Connect:** Rather than summarizing in linear order, the AI should connect ideas, highlight themes, and make observations that arise from the whole discussion.
+3. **Preserve Context:** The summary should retain key context, nuances, and instructions relevant to the conversation.
+4. **No Word Limit:** The AI is encouraged to elaborate freely, providing depth and breadth as needed.
+5. **Express Insights:** The AI should surface connections and insights—even if they weren’t explicitly stated before.
+
+### Best Practices
+
+1. Use the prompt when you want a holistic, creative, and deep summary—not just a bullet list or Q&A.
+2. If your conversation is long, this tool is a great way to checkpoint or roll up what’s been discussed.
+3. Review the output for unexpected insights or connections—the AI may surprise you!
+4. For best results, ensure the AI still has access to the full conversation history.
+
+### Limitations
+
+- Relies on the AI’s ability to recall and process the entire conversation.
+- May not be effective with models that have limited context windows.
+- Output is intentionally non-linear and may not follow chronological order.
+- Cannot recover deleted or heavily edited messages.
+
+### Example Output (Excerpt)
+
+```
+Reflecting on our conversation, a few key threads emerge. We began exploring quantum computing, touching on the interplay between uncertainty and computation. Later, our discussion on electric vehicles revealed not just technical hurdles but broader implications for infrastructure and policy. Notably, the connection between quantum leaps and paradigm shifts in technology surfaced as a recurring motif. This conversation seemed to circle around the idea of transformation—whether through physics, engineering, or societal adoption. The nuances discussed, including cost barriers and the importance of context in AI memory, all point toward a larger narrative: progress requires both innovation and integration across domains...
+```
+
+### FAQ
+
+1. **Q: How is this different from a standard summary or Q&A export?**
+   A: "Deep Think" is about synthesis, not just summary. It’s designed to capture holistic insights, connections, and context—not just a linear recap.
+
+2. **Q: Can I use this with any AI chatbot?**
+   A: It works best with AI models capable of recalling and reflecting on long, multi-turn conversations.
+
+3. **Q: Is there a word or length limit?**
+   A: No. The AI is instructed to let its mind wander and elaborate as much as needed.
+
+4. **Q: When should I use this tool?**
+   A: After complex discussions, when you want a checkpoint, or when you’re curious about the AI’s broader synthesis of the conversation.
