@@ -21,8 +21,8 @@ A living documentation system that builds persistent context for AI assistants a
 ## Examples
 ✅ Good:
 ```markdown
-## File Category
-### path/filename.ext
+### File Category
+#### path/filename.ext
 Purpose: [Context]
 Problem: [Obstacle]
 Solution: [Resolution]
@@ -32,7 +32,8 @@ Note: [Scope]
 
 ❌ Bad:
 ```markdown
-#### some_file.py
+### Unhelpful (Parenthetical)
+#### (Missing Path) wrong_file_name.exe
 Purpose: Does stuff
 Problem: Not working
 Solution: Fixed it
