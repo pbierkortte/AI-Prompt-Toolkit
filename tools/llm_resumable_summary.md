@@ -10,50 +10,50 @@ To use this tool, simply paste the provided prompt at the end of your conversati
 
 ### Prompt
 ```
-Recap our full conversation with a progressive structure preserving continuity, nuance, and compaction. Follow five-part progression (why → who → past → present → future): Start by stating the core purpose driving our discussion, who is with us on this journey, document key milestones, highlight key developments, notable decisions, critical findings, and functional components relevant to our work. Maintain knowledge state forming our shared mental model, including decision reasoning. Detail what we're currently working on with specific files, resources, and unresolved questions. Focus on most important elements based on conversation nature. Adjust detail to conversation complexity ensuring summary contains enough to continue without referencing full dialogue, yet remains concise. Conclude with clear next actions, including responsibilities or success criteria as appropriate. A succinct summary contains everything necessary for progress and nothing that distracts.
+Recap our full conversation with a progressive structure preserving continuity, nuance, and compaction. Follow five-part progression (who → why → how → what → which): Start by establishing who is involved in this journey and the context we're working within. Identify why we're here - the core obstacle or purpose driving our discussion. Document how we've approached it including key decisions, milestones, and critical findings. Capture what has emerged - the current state, developments, and functional components relevant to our work. Detail which specific next actions, unresolved questions, and success criteria remain. Focus on most important elements based on conversation nature. Adjust detail to conversation complexity ensuring it contains enough to continue without referencing full dialogue, yet remains concise. A succinct essence contains everything necessary for progress and nothing that distracts.
 ```
 
 ### Summary
 
 The prompt creates a versatile, high-performance framework that delivers superior results across diverse contexts. Whether analyzing compliance requirements, evaluating code, or dissecting narrative structures, it consistently produces organized, actionable summaries with a five-part progression:
 
-* **Why:** Establishes the core purpose and grounds the context
-* **Who:** Lists all participants/collaborators or major roles in the conversation
-* **Past:** Preserves historical continuity and captures key milestones, decisions, and foundational components
-* **Present:** Details the current knowledge state, ongoing work, resources/files, and any open questions
-* **Future:** Provides clear next actions, responsibilities, and success criteria
+* **Who:** Establishes participants, collaborators, and working context
+* **Why:** Identifies the core obstacle or purpose driving the discussion
+* **How:** Documents the approach, key decisions, and milestones achieved
+* **What:** Captures current state, developments, and emerged understanding
+* **Which:** Provides specific next actions, responsibilities, and success criteria
 
 This structure creates summaries that contain everything necessary for progress and nothing that distracts.
 
 ### Application Across Contexts
 
-The five-part progression (why → who → past → present → future) naturally adapts to different use cases:
+The five-part progression (who → why → how → what → which) naturally adapts to different use cases:
 
 **For storytelling:**
-* Why = narrative goals and themes
-* Who = central and supporting characters, narrators
-* Past = character development and plot points established
-* Present = current narrative tensions and world-building elements
-* Future = planned plot developments and resolutions
+* Who = characters, narrators, world context
+* Why = narrative conflicts and tensions to resolve
+* How = plot development and storytelling techniques
+* What = story progression and character development achieved
+* Which = specific scenes to write, plot points to develop
 
 **For research:**
-* Why = research questions and hypotheses
-* Who = research team, stakeholders, collaborators
-* Past = literature review and methodological decisions
-* Present = data collection status, preliminary findings, current issues
-* Future = analysis approach, division of tasks, publication timeline
+* Who = research team, stakeholders, data sources
+* Why = research questions and gaps to address
+* How = methodology and analytical approach
+* What = findings discovered and insights gained
+* Which = specific analyses to run, papers to write
 
 **For programming:**
-* Why = technical requirements and system goals
-* Who = developers, code reviewers, stakeholders
-* Past = implemented features, architectural and API design decisions
-* Present = code in progress, current debugging challenges, involved files/resources
-* Future = outstanding features, optimization plans, team responsibilities
+* Who = developers, system components, resources
+* Why = technical problems or requirements to solve
+* How = architectural decisions and implementation approach
+* What = features implemented and improvements achieved
+* Which = specific functions to code, tests to write
 
 ### Tasks
 
-1. **Identify Core Purpose:** Determine the overarching reason for the conversation.
-2. **Five-Part Progression:** Structure the summary following the why → who → past → present → future framework.
+1. **Identify Participants:** Determine who is involved and the working context.
+2. **Five-Part Progression:** Structure the summary following the who → why → how → what → which framework.
 3. **Maintain Knowledge State:** Capture the evolving understanding and reasoning behind decisions.
 4. **Prioritize Information:** Focus on the most important elements based on the conversation's nature.
 5. **Concise & Actionable:** Balance detail with brevity to ensure the summary is useful for continued progress.
@@ -74,24 +74,24 @@ The five-part progression (why → who → past → present → future) naturall
 ### Example Output (excerpt)
 
 ```
-Core Purpose: To develop a marketing strategy for the launch of the "Nova" product line.
+Who: Team includes Taylor (marketing lead), Jordan (product manager), and AI assistant. Working with Nova_Product_Brief.pdf and keyword_research.csv.
 
-Who: Team includes Taylor (marketing lead), Jordan (product manager), and AI assistant.
+Why: Need to develop a marketing strategy for the "Nova" product line launch that resonates with sustainability-conscious consumers.
 
-Past (Accomplishments & Decisions): We identified the target demographic as young professionals (25-35) interested in sustainable technology. We decided to focus on a digital-first marketing approach, prioritizing social media and influencer collaborations. Initial keyword research was completed (see keyword_research.csv).
+How: Decided on digital-first marketing approach, prioritizing social media and influencer collaborations. Identified target demographic as young professionals (25-35) through market analysis. Completed initial keyword research.
 
-Present (Current Status & Unresolved Questions): Currently drafting the social media content calendar. We're exploring potential influencer partnerships. Unresolved: Budget allocation for paid advertising remains to be finalized. Resource: Nova_Product_Brief.pdf contains detailed product specifications.
+What: Draft social media content calendar in progress. Shortlist of potential influencer partnerships created. Budget allocation for paid advertising remains unresolved.
 
-Future (Next Actions & Success Criteria): 
-- Taylor: Finalize budget allocation by EOD Friday.
-- AI: Generate three draft social media posts for Instagram based on the product brief.
-- Success Criteria: Achieve a 10% engagement rate on initial social media posts and secure at least two influencer collaborations within the next week.
+Which: 
+- Taylor: Finalize budget allocation by EOD Friday
+- AI: Generate three draft social media posts for Instagram based on product brief
+- Success Criteria: Achieve 10% engagement rate on initial posts, secure 2+ influencer collaborations within one week
 ```
 
 ### FAQ
 
 1. **Q: Why is this summary different from a simple transcript?**
-   A: This summary is *synthesized* – it doesn't just record *what* was said, but *why* it was said, *who* participated, *what* was decided, and *what* needs to happen next.
+   A: This summary is *synthesized* – it doesn't just record what was said, but captures who participated, why it matters, how it was approached, what resulted, and which actions come next.
 
 2. **Q: What if the AI misses something important?**
    A: Review the summary carefully and add any missing information. This tool is meant to *assist* you, not replace your own judgment.
@@ -104,3 +104,5 @@ Future (Next Actions & Success Criteria):
 
 5. **Q: What if I feel critical information is missing?**
    A: Review carefully. Many AIs sometimes use "middle-out" techniques, omitting details or whole messages from the middle of the conversation. Try adding those details to the conversation before pasting the prompt; this may not restore the lost memory, but it can improve the overall summary.
+
+---
