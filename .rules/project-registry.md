@@ -23,20 +23,22 @@ A living documentation system that builds persistent context for AI assistants a
 ```markdown
 ### File Category
 #### path/filename.ext
-Purpose: [Context]
-Problem: [Obstacle]
-Solution: [Resolution]
-Result: [Effect]
-Note: [Scope]
+Who: [Context]
+Why: [Obstacle]
+How: [Resolution]
+What: [Effect]
+Which: [Specifics]
 ```
 
 ❌ Bad:
 ```markdown
 ### Unhelpful (Parenthetical)
 #### (Missing Path) wrong_file_name.exe
-Purpose: Does stuff
-Problem: Not working
-Solution: Fixed it
+Who: Someone
+Why: Not working
+How: Fixed it
+What: Does stuff
+Which: Some things
 ```
 
 ---
@@ -45,18 +47,18 @@ Solution: Fixed it
 
 ### Assistant Rules
 #### .rules/project-registry.md
-Purpose: Build cumulative project context that persists across AI sessions
-Problem: AI agents repeatedly explore same files without retaining context
-Solution: Living registry that captures file purposes and relationships  
-Result: Faster decision-making and reduced redundant codebase exploration
-Note: Creates compound efficiency gains through persistent mental models
+Who: AI assistants and developers needing persistent project context across sessions
+Why: AI agents repeatedly explore same files without retaining learned context
+How: Living registry captures file purposes, relationships, and evolution over time
+What: Faster decision-making and reduced redundant codebase exploration
+Which: Tracks Git-tracked files and actively edited files
 
 ### Project Documentation
 #### README.md
-Purpose: Provide project overview and setup instructions for new developers and AI assistants
-Problem: Context switching between sessions requires re-learning project structure and purpose
-Solution: Centralized documentation capturing project goals, architecture, and quick-start guidance
-Result: Reduced onboarding time and consistent project understanding across interactions
-Note: Should include technology stack, key concepts, and common development workflows
+Who: New developers and AI assistants requiring project orientation
+Why: Context switching between sessions requires re-learning project structure
+How: Centralized documentation with goals, architecture, and quick-start guidance
+What: Reduced onboarding time and consistent project understanding
+Which: Includes technology stack, key concepts, and common development workflows
 
 ---
