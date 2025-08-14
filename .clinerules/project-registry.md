@@ -33,7 +33,7 @@ Which: [Specifics]
 ❌ Bad:
 ```markdown
 ### Unhelpful (Parenthetical)
-#### (Missing Path) wrong_file_name.exe
+#### *.py (Missing Path, Using Wildcard)
 Who: Someone
 Why: Not working
 How: Fixed it
@@ -46,12 +46,19 @@ Which: Some things
 ## File Entries
 
 ### Assistant Rules
-#### .rules/project-registry.md
+#### .clinerules/project-registry.md
 Who: AI assistants and developers needing persistent project context across sessions
 Why: AI agents repeatedly explore same files without retaining learned context
 How: Living registry captures file purposes, relationships, and evolution over time
 What: Faster decision-making and reduced redundant codebase exploration
 Which: Tracks Git-tracked files and actively edited files
+
+#### .clinerules/code-header.md
+Who: Developers and AI assistants requiring consistent code documentation standards
+Why: Source code files lack essential context for understanding purpose and implementation
+How: Standardized file headers with essential questions format for all source code
+What: Enhanced code maintainability and faster comprehension without deep code analysis
+Which: Uses Who/Why/How/What/Which format in appropriate comment syntax per language
 
 ### Project Documentation
 #### README.md
@@ -60,5 +67,20 @@ Why: Context switching between sessions requires re-learning project structure
 How: Centralized documentation with goals, architecture, and quick-start guidance
 What: Reduced onboarding time and consistent project understanding
 Which: Includes technology stack, key concepts, and common development workflows
+
+### Rule Path Files
+#### .cursor/rules/code-header.md
+Who: Cursor IDE users requiring access to code-header rule
+Why: Cursor IDE expects rules in specific directory structure
+How: Text file containing relative path to canonical .clinerules/code-header.md
+What: Consistent rule access across different IDE configurations
+Which: Points to ../../.clinerules/code-header.md
+
+#### .roo/code-header.md
+Who: Roo tool users requiring access to code-header rule
+Why: Roo tool expects rules in .roo/ directory structure
+How: Text file containing relative path to canonical .clinerules/code-header.md
+What: Unified rule management with single source of truth
+Which: Points to ../.clinerules/code-header.md
 
 ---

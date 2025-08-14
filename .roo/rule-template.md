@@ -1,0 +1,1 @@
+../.clinerules/rule-template.md
