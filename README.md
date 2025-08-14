@@ -21,10 +21,6 @@ Each file contains a specific prompt or tool with instructions.
 
 <!-- TOC START -->
 
-### Rules
-
-* [Code Header](.rules/code-header.md)
-
 ### Tools
 
 * [Company Reconnaissance](tools/job_company_recon.md)
