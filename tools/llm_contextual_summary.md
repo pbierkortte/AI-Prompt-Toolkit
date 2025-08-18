@@ -15,7 +15,7 @@ This tool helps you generate a rich, context-aware summary of your entire AI cha
 At any point in your conversation, paste the following prompt to invoke a deep-thinking summary:
 
 ```
-I think a deep thinking is in order let your mind wonder, no word limit.
+No word limit I think deep thinking is in order let your mind wander
 ```
 
 ---
@@ -30,21 +30,29 @@ The purpose of this tool is to create a context-preserving, holistic summary of 
 2. **Synthesize & Connect:** Rather than summarizing in linear order, the AI should connect ideas, highlight themes, and make observations that arise from the whole discussion.
 3. **Preserve Context:** The summary should retain key context, nuances, and instructions relevant to the conversation.
 4. **No Word Limit:** The AI is encouraged to elaborate freely, providing depth and breadth as needed.
-5. **Express Insights:** The AI should surface connections and insights—even if they weren’t explicitly stated before.
+5. **Express Insights:** The AI should surface connections and insights—even if they weren't explicitly stated before.
 
 ### Best Practices
 
 1. Use the prompt when you want a holistic, creative, and deep summary—not just a bullet list or Q&A.
-2. If your conversation is long, this tool is a great way to checkpoint or roll up what’s been discussed.
+2. If your conversation is long, this tool is a great way to checkpoint or roll up what's been discussed.
 3. Review the output for unexpected insights or connections—the AI may surprise you!
 4. For best results, ensure the AI still has access to the full conversation history.
 
+### Design Philosophy
+
+The deliberately casual, unpunctuated phrasing is intentional. By avoiding overly structured instructions, the prompt preserves space for:
+- **Organic synthesis** - Natural connections emerge rather than forced categorization
+- **Emergent insights** - The AI can surface unexpected patterns without being constrained by predefined frameworks
+- **Authentic wandering** - True free-association that captures nuances rigid prompts might miss
+
 ### Limitations
 
-- Relies on the AI’s ability to recall and process the entire conversation.
-- May not be effective with models that have limited context windows.
-- Output is intentionally non-linear and may not follow chronological order.
-- Cannot recover deleted or heavily edited messages.
+- Relies on the AI's ability to recall and process the entire conversation
+- May not be effective with models that have limited context windows
+- Output is intentionally non-linear and may not follow chronological order
+- Cannot recover deleted or heavily edited messages
+- Works best after substantive conversations (10+ exchanges recommended)
 
 ### Example Output (Excerpt)
 
@@ -55,13 +63,18 @@ Reflecting on our conversation, a few key threads emerge. We began exploring qua
 ### FAQ
 
 1. **Q: How is this different from a standard summary or Q&A export?**
-   A: "Deep Think" is about synthesis, not just summary. It’s designed to capture holistic insights, connections, and context—not just a linear recap.
+   A: "Deep Think" is about synthesis, not just summary. It's designed to capture holistic insights, connections, and context—not just a linear recap.
 
 2. **Q: Can I use this with any AI chatbot?**
    A: It works best with AI models capable of recalling and reflecting on long, multi-turn conversations.
 
-3. **Q: Is there a word or length limit?**
-   A: No. The AI is instructed to let its mind wander and elaborate as much as needed.
+3. **Q: Why isn't the prompt more specific or structured?**
+   A: The casual, open-ended phrasing is intentional. Over-directing the AI can kill organic synthesis and unexpected connections. Sometimes the best insights emerge from unstructured reflection.
 
 4. **Q: When should I use this tool?**
-   A: After complex discussions, when you want a checkpoint, or when you’re curious about the AI’s broader synthesis of the conversation.
+   A: After complex discussions, when you want a checkpoint, or when you're curious about the AI's broader synthesis of the conversation.
+
+5. **Q: What if the AI seems confused by the informal prompt?**
+   A: Most modern conversational AI models respond well to natural language instructions. The informality often produces more authentic, less templated responses.
+
+---
