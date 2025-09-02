@@ -23,22 +23,22 @@ A living documentation system that builds persistent context for AI assistants a
 ```markdown
 ### File Category
 #### path/filename.ext
-Who: [Context]
-Why: [Obstacle]
-How: [Resolution]
-What: [Effect]
-Which: [Specifics]
+Context: [Who I am] 
+Obstacle: [Why I matter]
+Routine: [How I work]
+Effect: [What I do]
+Stuff: [Which I have]
 ```
 
 ❌ Bad:
 ```markdown
 ### Unhelpful (Parenthetical)
 #### *.py (Missing Path, Using Wildcard)
-Who: Someone
-Why: Not working
-How: Fixed it
-What: Does stuff
-Which: Some things
+Context: Someone
+Obstacle: Not working
+Routine: Fixed it
+Effect: Does stuff
+Stuff: Some things
 ```
 
 ---
@@ -47,40 +47,19 @@ Which: Some things
 
 ### Assistant Rules
 #### .clinerules/project-registry.md
-Who: AI assistants and developers needing persistent project context across sessions
-Why: AI agents repeatedly explore same files without retaining learned context
-How: Living registry captures file purposes, relationships, and evolution over time
-What: Faster decision-making and reduced redundant codebase exploration
-Which: Tracks Git-tracked files and actively edited files
-
-#### .clinerules/code-header.md
-Who: Developers and AI assistants requiring consistent code documentation standards
-Why: Source code files lack essential context for understanding purpose and implementation
-How: Standardized file headers with essential questions format for all source code
-What: Enhanced code maintainability and faster comprehension without deep code analysis
-Which: Uses Who/Why/How/What/Which format in appropriate comment syntax per language
+- Context: AI assistants and developers needing persistent project context across development sessions
+- Obstacle: AI agents repeatedly explore same files without retaining learned context between sessions, leading to inefficient redundant analysis
+- Routine: Living registry captures file purposes, relationships, and evolution over time using structured CORES documentation format
+- Effect: Faster decision-making and reduced redundant codebase exploration for both AI and human developers
+- Stuff: File tracking rules, documentation standards, structured entry format for project files
 
 ### Project Documentation
 #### README.md
-Who: New developers and AI assistants requiring project orientation
-Why: Context switching between sessions requires re-learning project structure
-How: Centralized documentation with goals, architecture, and quick-start guidance
-What: Reduced onboarding time and consistent project understanding
-Which: Includes technology stack, key concepts, and common development workflows
-
-### Rule Path Files
-#### .cursor/rules/code-header.md
-Who: Cursor IDE users requiring access to code-header rule
-Why: Cursor IDE expects rules in specific directory structure
-How: Text file containing relative path to canonical .clinerules/code-header.md
-What: Consistent rule access across different IDE configurations
-Which: Points to ../../.clinerules/code-header.md
-
-#### .roo/code-header.md
-Who: Roo tool users requiring access to code-header rule
-Why: Roo tool expects rules in .roo/ directory structure
-How: Text file containing relative path to canonical .clinerules/code-header.md
-What: Unified rule management with single source of truth
-Which: Points to ../.clinerules/code-header.md
+- Context: Primary entry point for developers and contributors discovering this project
+- Obstacle: New users need quick understanding of project purpose, setup instructions, and contribution guidelines
+- Routine: Standard project overview with installation steps, usage examples, and development workflow
+- Effect: Enables rapid onboarding and sets expectations for project scope and development practices
+- Stuff: Project description, setup instructions, usage examples, contribution guidelines, license information
 
 ---
+
