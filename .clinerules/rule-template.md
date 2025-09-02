@@ -44,8 +44,13 @@ n. [Final action]
 
 ## Examples
 
-✅ Good: [Concrete demonstration in practice]
-❌ Bad: [Common pitfall to avoid]
+✅ Good:
+- [Concrete demonstration in practice]
+- [...]
+
+❌ Bad:
+- [Common pitfall to avoid]
+- [...]
 
 ---
 ```
