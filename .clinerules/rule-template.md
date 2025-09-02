@@ -44,17 +44,13 @@ n. [Final action]
 
 ## Examples
 
-## Examples
-
 ✅ Good:
-- [Actual concrete example showing proper implementation]
-- [Another literal demonstration]
-- [...]
+- [Concrete demonstration in practice]
+- [Additional proper example]
 
 ❌ Bad:
-- [Which mistakes commonly derail the process]
-- [Additional explanatory warnings]
-- [...]
+- [Common pitfall to avoid] (explanation of why it violates rule)
+- [Another problematic pattern] (reasoning for why it fails)
 
 ---
 ```
