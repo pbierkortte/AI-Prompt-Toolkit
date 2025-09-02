@@ -49,7 +49,7 @@ n. [Final action]
 - [...]
 
 ❌ Bad:
-- [Common pitfall to avoid]
+- [Which common pitfall to avoid]
 - [...]
 
 ---
