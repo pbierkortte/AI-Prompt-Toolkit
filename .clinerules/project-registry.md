@@ -23,22 +23,22 @@ A living documentation system that builds persistent context for AI assistants a
 ```markdown
 ### File Category
 #### path/filename.ext
-Context: [Who I am] 
-Obstacle: [Why I matter]
-Routine: [How I work]
-Effect: [What I do]
-Stuff: [Which I have]
+- Context: [Who I am] 
+- Obstacle: [Why I matter]
+- Routine: [How I work]
+- Effect: [What I do]
+- Stuff: [Which I have]
 ```
 
 ❌ Bad:
 ```markdown
 ### Unhelpful (Parenthetical)
 #### *.py (Missing Path, Using Wildcard)
-Context: Someone
-Obstacle: Not working
-Routine: Fixed it
-Effect: Does stuff
-Stuff: Some things
+- Context: Someone
+- Obstacle: Not working
+- Routine: Fixed it
+- Effect: Does stuff
+- Stuff: Some things
 ```
 
 ---
