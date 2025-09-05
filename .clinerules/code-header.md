@@ -1,5 +1,5 @@
 # Code Header
-Standardized file headers provide essential context for code maintainability, enabling developers and AI assistants to quickly understand file purpose, problems solved, and implementation approach without deep code analysis.
+Standardized file headers provide essential context for code maintainability, enabling developers and AI assistants to quickly understand file purpose, problems solved, and implementation approach without deep code analysis. Each header is written from the perspective of the file itself.
 
 ## Always
 Add descriptive headers to source code files using appropriate comment syntax.
