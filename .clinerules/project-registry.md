@@ -1,6 +1,6 @@
 # Project Registry
 
-A living documentation system that builds persistent context for AI assistants across development sessions. This registry captures the purpose, problems solved, and relationships of each significant file in your codebase, creating a structured knowledge base that prevents redundant exploration and accelerates decision-making.
+A living documentation system that builds persistent context for AI assistants across development sessions. This registry captures the purpose, problems solved, and relationships of each significant file in your codebase, creating a structured knowledge base that prevents redundant exploration and accelerates decision-making. Each entry is written from the perspective of the documented file.
 
 ## Always
 - Registry update requirement: Update the Project Registry to reflect changes and then complete the task
