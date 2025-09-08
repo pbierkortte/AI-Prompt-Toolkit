@@ -37,11 +37,11 @@ Rate the value of each communication to the team's collaborative environment on 
 
 Based on your evaluation, provide personalized recommendations to enhance the team member's internal communication effectiveness, strengthen their contribution to technical discussions, and help maintain a healthy team culture. Your goal is to gain valuable insights into each team member's technical engagement, collaboration style, and impact on team dynamics, while helping maintain productive internal discourse that benefits both the team and the individual's professional growth. Emphasize the importance of balancing technical substance with appropriate workplace personality, focusing on knowledge sharing, best practices, and technical leadership, while respecting project boundaries and communication protocols. Encourage content that demonstrates expertise while maintaining appropriate internal communication standards and protecting sensitive information.
 
----
+***
 
 [Paste Slack message/thread to evaluate here]
 
----
+***
 
 [Optional: Paste team member's role and background here]
 ```

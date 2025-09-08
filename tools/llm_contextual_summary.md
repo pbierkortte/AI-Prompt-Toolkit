@@ -2,7 +2,7 @@
 
 This tool helps you generate a rich, context-aware summary of your entire AI chatbot conversation. Unlike typical summarization prompts, "Deep Think" invites the AI to deeply reflect on the discussion, connect insights, and roll up the conversation into a single, comprehensive message—without worrying about structure, order, or word count.
 
----
+***
 
 > [!NOTE]
 > For meaningful results, you may want to switch to a larger AI model (if available), even temporarily, when using this prompt. Larger models are better equipped to recall, synthesize, and connect ideas across long or complex conversations.
@@ -18,7 +18,7 @@ At any point in your conversation, paste the following prompt to invoke a deep-t
 No word limit I think deep thinking is in order let your mind wander
 ```
 
----
+***
 
 ### Summary
 

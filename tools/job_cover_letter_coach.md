@@ -38,7 +38,7 @@ Paste the collected information into the provided prompt at the bottom or attach
 
 The tool will generate a cover letter draft based on your input.
 
----
+***
 
 ## Prompt
 
@@ -76,13 +76,13 @@ Additional guidelines:
 
 Your goal is to create a flawless, highly personalized cover letter that would score 100/100 in a professional evaluation.
 
----
+***
 
 [Input]
 
 ```
 
----
+***
 
 ## Best Practices
 

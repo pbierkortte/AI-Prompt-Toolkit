@@ -22,21 +22,21 @@ Use the provided template, filling in the placeholders with appropriate content 
 - Your relevant background/experience
 - Company information (if available)
 
----
+***
 
 ## Example input
 
 ```plaintext
 Create an ideal interview follow-up email using the following guidelines. Ensure the email is personalized, engaging, and leaves a positive lasting impression. The tone should be professional yet warm, showing both your qualifications and your genuine interest in the position.
 
----
+***
 
 ### General Guidelines:
 
 - Keep the email concise (3-4 short paragraphs) and professional in tone.
 - Proofread carefully for grammar and spelling errors.
 
----
+***
 
 ### Email Structure:
 
@@ -68,7 +68,7 @@ Create an ideal interview follow-up email using the following guidelines. Ensure
 **Signature:**
 - Include your full name and contact information.
 
----
+***
 
 ### Fields to Include:
 
@@ -80,10 +80,10 @@ Create an ideal interview follow-up email using the following guidelines. Ensure
 - **Your Name:** [Your Full Name]
 - **Your Contact Information:** [Your Email] | [Your Phone Number]
 
----
+***
 ```
 
----
+***
 
 ## Customization
 You can customize your follow-up email by providing more detailed information in your prompt. Consider including:

@@ -41,7 +41,7 @@ A living documentation system that builds persistent context for AI assistants a
 - Stuff: Some things
 ```
 
----
+***
 
 ## File Entries
 

@@ -37,11 +37,11 @@ Rate the value of each post to the individual's professional brand on a scale of
 
 Based on your evaluation, provide personalized recommendations to improve the candidate's online presence, increase their visibility and credibility with potential employers, and help them stay competitive in their industry. Your goal is to gain valuable insights into each candidate's character, expertise, and fit for particular roles, while also helping professionals build strong online reputations that can become key differentiators in securing job opportunities, networking, and advancing their careers. Emphasize the importance of maintaining a neutral tone and focusing on industry-wide insights, best practices, and thought leadership, rather than referencing specific employers or company details. Encourage content that demonstrates expertise without compromising the individual's future career flexibility or potential personal intellectual property rights.
 
----
+***
 
 [Paste content to evaluate here or attach it]
 
----
+***
 
 [Optional: Paste your resume here or attach it]
 
