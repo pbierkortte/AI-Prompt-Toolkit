@@ -95,7 +95,7 @@ Stuff:
 ### FAQ
 
 1. **Q: Why is this summary different from a simple transcript?**
-   A: This summary is *synthesized* – it doesn't just record what was said, but captures who participated, why it matters, how it was approached, what resulted, and which actions come next using the CORES framework.
+   A: This summary is *synthesized* – it doesn't just record what was said, but captures who participated, why it matters, how it was approached, what resulted, and which actions come next.
 
 2. **Q: What if the AI misses something important?**
    A: Review the summary carefully and add any missing information. This tool is meant to *assist* you, not replace your own judgment.
