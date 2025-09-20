@@ -15,7 +15,7 @@ This tool helps you generate a rich, context-aware summary of your entire AI cha
 At any point in your conversation, paste the following prompt to invoke a deep-thinking summary:
 
 ```
-No word limit I think deep thinking is in order let your mind wander
+No word limit in verbose full paragraphs have a deep think and let your mind wander
 ```
 
 ***
