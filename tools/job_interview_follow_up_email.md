@@ -1,6 +1,6 @@
 # Post-Interview Follow-Up Email Generator
 
-Following up after a job interview is a crucial step in the hiring process. It demonstrates your continued interest, professionalism, and attention to detail. This Post-Interview Follow-Up Email Generator helps you create a personalized, effective email to send to your interviewer(s) after your job interview.
+Create an ideal interview follow-up email using the following guidelines. Ensure the email is personalized, engaging, and leaves a positive lasting impression. The tone should be professional yet warm, showing both your qualifications and your genuine interest in the position. Explain your strategy then do it.
 
 ## Usage
 To use this generator, simply provide the necessary details about your interview in the prompt below.
