@@ -34,7 +34,9 @@ Create an ideal interview follow-up email using the following guidelines. Ensure
 ### General Guidelines:
 
 - Keep the email concise (3-4 short paragraphs) and professional in tone.
-- Proofread carefully for grammar and spelling errors.
+- Proofread carefully for grammar and spelling errors with particular attention to the interviewer's name spelling.
+- Remove quotation marks (scare quotes) to maintain professional tone.
+- Replace em dashes (—) with commas or "and" for cleaner formatting.
 
 ***
 
@@ -44,6 +46,7 @@ Create an ideal interview follow-up email using the following guidelines. Ensure
 - Use a clear, specific format like "Thank you for the [Position] interview on [Date]".
 
 **Salutation:**
+- Begin with "Hello" to create a warm, approachable tone.
 - Address the interviewer by name, using the appropriate title unless invited to use first names.
 
 **Opening Paragraph:**
