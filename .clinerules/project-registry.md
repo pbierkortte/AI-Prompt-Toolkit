@@ -12,7 +12,7 @@ A living documentation system that builds persistent context for AI assistants a
 
 ## Steps
 1. Read this project registry to understand the registry format and existing entries
-2. Read each file you are documenting to understand its actual purpose and content
+2. Read every file you are documenting to understand its actual purpose and content
 3. Add/update/remove entries as files change
 4. Follow the structured format for all entries
 5. Group files by logical categories
