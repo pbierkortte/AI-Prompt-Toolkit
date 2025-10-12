@@ -18,11 +18,11 @@ Leave source code files without headers or add headers to config/data files.
 ✅ Good:
 ```python
 """
-Context: [Who I am] 
-Obstacle: [Why I matter]
-Routine: [How I work]
-Effect: [What I do]
-Stuff: [Which I have]
+Context: [Who this is] 
+Obstacle: [Why this matters]
+Routine: [How this works]
+Effect: [What this does]
+Stuff: [Which this has]
 """
 ```
 
