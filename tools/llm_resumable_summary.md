@@ -10,7 +10,7 @@ To use this tool, simply paste the provided prompt at the end of your conversati
 
 ### Prompt
 ```
-Recap our full conversation with a progressive structure that preserves continuity, nuance, and compaction. Follow this five-part CORES progression for each: Who/Why/How/What/Which.
+Recap this in full with a progressive structure that preserves continuity, nuance, and compaction. Follow this five-part CORES progression for each: Who/Why/How/What/Which.
 
 Start by establishing Context: who is involved in this journey, documenting their identity, background, and role within our working environment. Next, identify the Obstacle: why this matters by defining the core purpose, value, and driving forces that brought us together and sustain our collaboration. Then document Routine: how we approached the challenge through our methods, processes, and strategic approach, including key decisions made, milestones achieved, and critical findings discovered along the way. Capture the Effect: what has emerged from our work, including actions taken, outputs created, results achieved, current state reached, and developments that have unfolded. Finally, detail Stuff: which resources, tools, and assets we have available, including specific next actions assigned, unresolved questions remaining, and success criteria established. 
 
