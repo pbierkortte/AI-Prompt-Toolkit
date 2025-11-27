@@ -1,4 +1,4 @@
-# Conventional Commits
+# Commit Conventionally
 
 The Conventional Commits format with JIRA ticket integration enables automated changelog generation, efficient code history review, and seamless integration with project management tools.
 

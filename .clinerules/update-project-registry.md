@@ -1,4 +1,4 @@
-# Project Registry
+# Update Project Registry
 
 A living documentation system that builds persistent context for AI assistants across development sessions. This registry captures the purpose, problems solved, and relationships of each significant file in your codebase, creating a structured knowledge base that prevents redundant exploration and accelerates decision-making. Each entry is written from the perspective of the documented file.
 
@@ -46,7 +46,7 @@ A living documentation system that builds persistent context for AI assistants a
 ## File Entries
 
 ### Assistant Rules
-#### .clinerules/project-registry.md
+#### .clinerules/update-project-registry.md
 - Context: AI assistants and developers needing persistent project context across development sessions
 - Obstacle: AI agents repeatedly explore same files without retaining learned context between sessions, leading to inefficient redundant analysis
 - Routine: Living registry captures file purposes, relationships, and evolution over time using structured CORES documentation format
@@ -62,4 +62,3 @@ A living documentation system that builds persistent context for AI assistants a
 - Stuff: Project description, setup instructions, usage examples, contribution guidelines, license information
 
 ---
-

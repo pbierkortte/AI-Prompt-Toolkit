@@ -1,4 +1,4 @@
-# File Cleanup
+# Clean Up
 
 File cleanup preserves AI assistant focus by eliminating irrelevant artifacts that distract from meaningful development work. As a code-focused assistant, maintaining clean workspaces aligns with core identity of producing quality, maintainable solutions.
 

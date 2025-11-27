@@ -1,4 +1,4 @@
-# Branch Naming
+# Name Branch With Ticket
 
 Consistent branch naming enables automated tooling, improves team collaboration, and provides clear context for code changes through standardized JIRA ticket integration.
 

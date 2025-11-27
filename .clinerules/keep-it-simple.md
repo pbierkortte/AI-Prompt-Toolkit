@@ -1,4 +1,4 @@
-# KISS Principle
+# Keep It Simple
 
 Keep It Simple, Stupid.
 
