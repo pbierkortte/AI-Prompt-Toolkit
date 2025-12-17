@@ -19,6 +19,7 @@ A living documentation system that builds persistent context for AI assistants a
 6. Keep entries current with file changes
 
 ## Examples
+
 ✅ Good:
 ```markdown
 ### File Category
@@ -46,6 +47,7 @@ A living documentation system that builds persistent context for AI assistants a
 ## File Entries
 
 ### Assistant Rules
+
 #### .clinerules/update-project-registry.md
 - Context: AI assistants and developers needing persistent project context across development sessions
 - Obstacle: AI agents repeatedly explore same files without retaining learned context between sessions, leading to inefficient redundant analysis
@@ -54,6 +56,7 @@ A living documentation system that builds persistent context for AI assistants a
 - Stuff: File tracking rules, documentation standards, structured entry format for project files
 
 ### Project Documentation
+
 #### README.md
 - Context: Primary entry point for developers and contributors discovering this project
 - Obstacle: New users need quick understanding of project purpose, setup instructions, and contribution guidelines

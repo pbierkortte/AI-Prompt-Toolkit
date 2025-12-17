@@ -25,10 +25,15 @@ Consistent branch naming enables automated tooling, improves team collaboration,
 ## Examples
 
 ✅ Good: `PROJ-123-update-config-parser`
+
 ✅ Good: `TASK-456-fix-login-issue`
+
 ✅ Good: `FEAT-789-add-search-feature`
+
 ❌ Bad: `feature/new-reports` (uses feature/ prefix)
+
 ❌ Bad: `yaml-driven-reports` (missing JIRA ticket)
+
 ❌ Bad: `PROJ-123-implement-comprehensive-authentication-system` (exceeds 50 chars)
 
 ---

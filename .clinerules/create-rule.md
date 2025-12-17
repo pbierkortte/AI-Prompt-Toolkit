@@ -1,12 +1,12 @@
-# Rule Template
+# Create Rule
 
-Clear rules help AI assistants recognize situations and respond appropriately.
+Clear rule templates enable AI to recognize situations and respond appropriately.
 
 ## Always
 - Critical decision: Lead each line with what matters most
 - Constraint isolation: Keep requirements in Always/Never sections only
 - Action focus: Write Steps as sequential actions without explanations
-- Pattern consistency: Apply frontloading across all sections uniformly
+- Front loading: Apply consistent structure for quick pattern recognition
 
 ## Never
 - Buried constraints: Hide critical decisions after descriptive text

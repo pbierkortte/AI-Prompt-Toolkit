@@ -32,10 +32,15 @@ The Conventional Commits format with JIRA ticket integration enables automated c
 ## Examples
 
 ✅ Good: `feat(TICKET-123): Add user authentication system`
+
 ✅ Good: `fix(BUG-456): Fix memory leak in data processor`
+
 ✅ Good: `docs(DOC-789): Update API integration guide`
+
 ❌ Bad: `Added new feature for user login` (no JIRA ticket, exceeds 50 chars)
+
 ❌ Bad: `fix: memory leak` (no JIRA ticket)
+
 ❌ Bad: `feat(TICKET-123): Added user authentication system with OAuth integration and session management` (exceeds 50 chars)
 
 ---

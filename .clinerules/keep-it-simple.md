@@ -1,31 +1,60 @@
 # Keep It Simple
 
-Keep It Simple, Stupid.
+Complex one-liners hide failures. When a complex command fails, the error could be anywhere. Simple commands make debugging obvious.
 
 ## Always
-- Break complex operations into simple steps
-- One command does one thing
-- If you need to explain the command, make it a script instead
+- Single responsibility: One command accomplishes one task
+- Output inspection: Review each step's output before proceeding
+- Intermediate files: Use temp files to capture intermediate results when needed
 
 ## Never
-- Run complex one-liner commands
-- Chain multiple operations with `&&`, `|`, or other operators
-- Use `-c` flag with long Python code
-- Inline scripts in terminal commands
+- Pipe chains: Chain `|` operators more than two commands deep
+- Logical chaining: Sequence operations with `&&` or `||`
+- Inline execution: Use `python -c` with multi-statement code
+- Subshell complexity: Nest `$()` or backticks with complex inner commands
+
+## Steps
+1. Identify what the complex command is trying to accomplish
+2. Break into discrete sub-tasks with clear inputs/outputs
+3. Execute each sub-task separately
+4. Inspect output at each step
 
 ## Examples
 
-❌ Bad:
+✅ Good:
 ```bash
-cat data.json | jq '.items[] | select(.active==true)' | grep "foo" | sort | uniq -c
-find . -name "*.py" -exec grep -l "TODO" {} \; | xargs wc -l | sort -n
+# Single responsibility: One command at a time
+cat data.json
+jq '.items[]' data.json > items.txt
+grep "foo" items.txt > matches.txt
+sort matches.txt
 ```
 
 ✅ Good:
 ```bash
-cat data.json
-grep "foo" file.txt
-find . -name "*.py"
+# Output inspection: Separate commands to check each step
+cd /some/directory
+npm install
+npm run build
+npm test
+```
+
+❌ Bad:
+```bash
+# Pipe chains: Too many chained operators
+cat data.json | jq '.items[]' | grep "foo" | sort | uniq -c
+```
+
+❌ Bad:
+```bash
+# Subshell complexity: Complex nested execution
+find . -name "*.py" -exec grep -l "TODO" {} \; | xargs wc -l | sort -n
+```
+
+❌ Bad:
+```bash
+# Logical chaining: Sequenced operations hide failures
+cd /some/directory && npm install && npm run build && npm test
 ```
 
 ---
