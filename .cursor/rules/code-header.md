@@ -1,1 +1,0 @@
-../../.clinerules/code-header.md

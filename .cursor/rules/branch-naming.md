@@ -1,1 +1,0 @@
-../../.clinerules/branch-naming.md

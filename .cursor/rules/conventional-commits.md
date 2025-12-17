@@ -1,1 +1,0 @@
-../../.clinerules/conventional-commits.md

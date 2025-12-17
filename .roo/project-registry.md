@@ -1,1 +1,0 @@
-../.clinerules/project-registry.md
