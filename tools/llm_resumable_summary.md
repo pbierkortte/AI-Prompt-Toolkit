@@ -6,61 +6,80 @@ A structured conversation summary tool designed to generate concise, context-ric
 > Generally this tool will do well on a diverse range of conversations. It provides the right balance of structure and flexibility for most contexts. Yet this tool is especially geared toward three tasks common to LLMs: storytelling, research, and programming. Use with caution for other applications.
 
 ### Usage
+
 To use this tool, simply paste the provided prompt at the end of your conversation.
 
 ### Prompt
+
 ```
-Recap this in full with a progressive structure that preserves continuity, nuance, and compaction. Follow this five-part CORES progression for each: Who/Why/How/What/Which.
+Recap this in full with a progressive structure that preserves continuity, nuance, and compaction. Create a succinct essence containing everything necessary for progress and nothing that distracts. Focus on the most important elements based on our conversation's nature, adjusting detail level to match complexity while ensuring enough context to continue without referencing the full dialogue. Follow this CORES (Context/Obstacle/Routine/Effect/Stuff) five-part progression:
 
-Start by establishing Context: who is involved in this journey, documenting their identity, background, and role within our working environment. Next, identify the Obstacle: why this matters by defining the core purpose, value, and driving forces that brought us together and sustain our collaboration. Then document Routine: how we approached the challenge through our methods, processes, and strategic approach, including key decisions made, milestones achieved, and critical findings discovered along the way. Capture the Effect: what has emerged from our work, including actions taken, outputs created, results achieved, current state reached, and developments that have unfolded. Finally, detail Stuff: which resources, tools, and assets we have available, including specific next actions assigned, unresolved questions remaining, and success criteria established. 
+Who is involved in this journey, documenting their identity, background, and role within our working environment?
 
-Focus on the most important elements based on our conversation's nature, adjusting detail level to match complexity while ensuring enough context to continue without referencing the full dialogue. Create a succinct essence containing everything necessary for progress and nothing that distracts.
+Why this matters by defining the core purpose, value, and driving forces that brought us together and sustain our collaboration?
+
+How we approached the challenge through our methods, processes, and strategic approach, including key decisions made, milestones achieved, and critical findings discovered along the way?
+
+What has emerged from our work, including actions taken, outputs created, results achieved, current state reached, and developments that have unfolded?
+
+Which resources, tools, and assets we have available, including specific next actions assigned, unresolved questions remaining, and success criteria established?
 ```
 
 ### Summary
 
 The prompt creates a versatile, high-performance framework that delivers superior results across diverse contexts. Whether analyzing compliance requirements, evaluating code, or dissecting narrative structures, it consistently produces organized, actionable summaries using the integrated CORES framework:
 
-* **Context:** Establishes participants, collaborators, and working environment
-* **Obstacle:** Identifies core purpose, value, and driving forces behind the discussion
-* **Routine:** Documents approach, methods, key decisions, and milestones achieved
-* **Effect:** Captures current state, developments, and functional components that emerged
-* **Stuff:** Details specific resources, next actions, and success criteria
+| CORES | Question | Focus |
+|-------|----------|-------|
+| **Context** | Who? | Establishes participants, collaborators, and working environment |
+| **Obstacle** | Why? | Identifies core purpose, value, and driving forces behind the discussion |
+| **Routine** | How? | Documents approach, methods, key decisions, and milestones achieved |
+| **Effect** | What? | Captures current state, developments, and functional components that emerged |
+| **Stuff** | Which? | Details specific resources, next actions, and success criteria |
 
 This structure creates summaries that contain everything necessary for progress and nothing that distracts.
 
 ### Application Across Contexts
 
-The five-part CORES progression (who → why → how → what → which) naturally adapts to different use cases:
+The five-part CORES progression (Who → Why → How → What → Which) naturally adapts to different use cases:
 
 **For storytelling:**
-* **Who** = characters, narrators, world-building elements
-* **Why** = narrative conflicts, tensions, and story purpose
-* **How** = plot development and storytelling techniques employed
-* **What** = story progression and character development achieved
-* **Which** = specific scenes to write, plot points to develop
+
+| Question | CORES | Focus |
+|----------|-------|-------|
+| Who? | Context | Characters, narrators, world-building elements |
+| Why? | Obstacle | Narrative conflicts, tensions, and story purpose |
+| How? | Routine | Plot development and storytelling techniques employed |
+| What? | Effect | Story progression and character development achieved |
+| Which? | Stuff | Specific scenes to write, plot points to develop |
 
 **For research:**
-* **Who** = research team, stakeholders, data sources, domain
-* **Why** = research questions, knowledge gaps, and project value
-* **How** = methodology and analytical approach taken
-* **What** = findings discovered and insights gained
-* **Which** = specific analyses to run, papers to write
+
+| Question | CORES | Focus |
+|----------|-------|-------|
+| Who? | Context | Research team, stakeholders, data sources, domain |
+| Why? | Obstacle | Research questions, knowledge gaps, and project value |
+| How? | Routine | Methodology and analytical approach taken |
+| What? | Effect | Findings discovered and insights gained |
+| Which? | Stuff | Specific analyses to run, papers to write |
 
 **For programming:**
-* **Who** = developers, system components, technical environment
-* **Why** = technical problems, requirements, and project purpose
-* **How** = architectural decisions and implementation approach
-* **What** = features implemented and improvements achieved
-* **Which** = specific functions to code, tests to write
+
+| Question | CORES | Focus |
+|----------|-------|-------|
+| Who? | Context | Developers, system components, technical environment |
+| Why? | Obstacle | Technical problems, requirements, and project purpose |
+| How? | Routine | Architectural decisions and implementation approach |
+| What? | Effect | Features implemented and improvements achieved |
+| Which? | Stuff | Specific functions to code, tests to write |
 
 ### Tasks
 
-1. **Establish Context:** Determine who is involved and the working environment.
-2. **CORES Framework:** Structure the summary following the five-part progression.
-3. **Maintain Knowledge State:** Capture the evolving understanding and reasoning behind decisions.
-4. **Prioritize Information:** Focus on the most important elements based on the conversation's nature.
-5. **Concise & Actionable:** Balance detail with brevity to ensure the summary is useful for continued progress.
+1. **Context (Who?):** Determine who is involved and the working environment.
+2. **Obstacle (Why?):** Identify the core purpose and driving forces.
+3. **Routine (How?):** Document the approach and key decisions made.
+4. **Effect (What?):** Capture the current state and developments.
+5. **Stuff (Which?):** Detail resources, next actions, and success criteria.
 
 ### Best Practices
 
@@ -78,15 +97,15 @@ The five-part CORES progression (who → why → how → what → which) natural
 ### Example Output
 
 ```
-Context: Team includes Taylor (marketing lead), Jordan (product manager), and AI assistant. Working with Nova_Product_Brief.pdf and keyword_research.csv within Q4 product launch timeline.
+Context (Who?): Team includes Taylor (marketing lead), Jordan (product manager), and AI assistant. Working with Nova_Product_Brief.pdf and keyword_research.csv within Q4 product launch timeline.
 
-Obstacle: Need to develop a marketing strategy for the "Nova" product line launch that resonates with sustainability-conscious consumers, driven by company values and market opportunity to achieve 15% market penetration in first quarter.
+Obstacle (Why?): Need to develop a marketing strategy for the "Nova" product line launch that resonates with sustainability-conscious consumers, driven by company values and market opportunity to achieve 15% market penetration in first quarter.
 
-Routine: Decided on digital-first marketing approach, prioritizing social media and influencer collaborations. Identified target demographic as young professionals (25-35) through market analysis. Completed initial keyword research and competitive landscape review.
+Routine (How?): Decided on digital-first marketing approach, prioritizing social media and influencer collaborations. Identified target demographic as young professionals (25-35) through market analysis. Completed initial keyword research and competitive landscape review.
 
-Effect: Draft social media content calendar in progress. Shortlist of potential influencer partnerships created. Budget allocation framework established but specific numbers remain unresolved.
+Effect (What?): Draft social media content calendar in progress. Shortlist of potential influencer partnerships created. Budget allocation framework established but specific numbers remain unresolved.
 
-Stuff: 
+Stuff (Which?): 
 - Taylor: Finalize budget allocation by EOD Friday
 - AI: Generate three draft social media posts for Instagram based on product brief
 - Success Criteria: Achieve 10% engagement rate on initial posts, secure 2+ influencer collaborations within one week
