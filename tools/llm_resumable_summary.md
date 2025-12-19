@@ -12,7 +12,7 @@ To use this tool, simply paste the provided prompt at the end of your conversati
 ### Prompt
 
 ```
-You are my AI assistant; we have been working together in this.​
+You are my AI assistant; we have been working together on this.​
 
 ***
 
