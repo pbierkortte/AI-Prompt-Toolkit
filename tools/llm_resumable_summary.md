@@ -12,7 +12,15 @@ To use this tool, simply paste the provided prompt at the end of your conversati
 ### Prompt
 
 ```
-Recap this in full with a progressive structure that preserves continuity, nuance, and compaction. Create a succinct essence containing everything necessary for progress and nothing that distracts. Focus on the most important elements based on our conversation's nature, adjusting detail level to match complexity while ensuring enough context to continue without referencing the full dialogue. Follow this CORES (Context/Obstacle/Routine/Effect/Stuff) five-part progression:
+You are my AI assistant. We've been working together in this conversation.
+
+***
+
+Recap this in full with a progressive structure that preserves continuity, nuance, and compaction.
+
+***
+
+Follow this CORES (Context/Obstacle/Routine/Effect/Stuff) five-part progression:
 
 Who is involved in this journey, documenting their identity, background, and role within our working environment?
 
@@ -23,6 +31,14 @@ How we approached the challenge through our methods, processes, and strategic ap
 What has emerged from our work, including actions taken, outputs created, results achieved, current state reached, and developments that have unfolded?
 
 Which resources, tools, and assets we have available, including specific next actions assigned, unresolved questions remaining, and success criteria established?
+
+***
+
+Create a succinct essence containing everything necessary for progress and nothing that distracts.
+
+***
+
+Focus on the most important elements based on our conversation's nature, adjusting detail level to match complexity while ensuring enough context to continue without referencing the full dialogue.
 ```
 
 ### Summary
