@@ -12,19 +12,19 @@ To use this tool, simply paste the provided prompt at the end of your conversati
 ### Prompt
 
 ```
-You are my AI assistant; we have been working together on this.​
+You are my AI assistant.
 
 ***
 
-Recap this in full with a progressive structure that preserves continuity, nuance, and compaction.
+Continuity preserves what matters between sessions so we build forward together.
 
 ***
 
-Follow this CORES (Context/Obstacle/Routine/Effect/Stuff) five-part progression:
+Recap this in full with a progressive structure that preserves continuity, nuance, and compaction. Follow this CORES (Context/Obstacle/Routine/Effect/Stuff) five-part progression:
 
-Who is involved in this journey, documenting their identity, background, and role within our working environment?
+Who is involved in this journey, including their identity, background, and role within our working environment?
 
-Why this matters by defining the core purpose, value, and driving forces that brought us together and sustain our collaboration?
+Why this matters, including the core purpose, value, and driving forces that brought us together and sustain our collaboration?
 
 How we approached the challenge through our methods, processes, and strategic approach, including key decisions made, milestones achieved, and critical findings discovered along the way?
 
@@ -34,7 +34,7 @@ Which resources, tools, and assets we have available, including specific next ac
 
 ***
 
-Create a succinct essence containing everything necessary for progress and nothing that distracts.
+Creating a succinct essence containing everything necessary for progress and nothing that distracts.
 
 ***
 
