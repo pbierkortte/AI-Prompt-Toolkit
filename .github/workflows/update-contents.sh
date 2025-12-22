@@ -15,36 +15,12 @@ fi
 # Generate the new contents
 CONTENTS="<!-- TOC START -->\n\n"
 
-# Find all markdown files in the .rules directory
-RULES_FILES=$(find .rules -type f -name "*.md" 2>/dev/null | sort)
-
-# Add Rules section header if rules exist
-if [ -n "$RULES_FILES" ]; then
-  CONTENTS+="### Rules\n\n"
-fi
-
-# Loop through each rule file and add it to the Contents section
-for FILE in $RULES_FILES; do
-  FILE_PATH="$FILE"
-  # Extract the title from the markdown file's first line
-  TITLE=$(grep '^# ' "$FILE" | head -n 1 | sed 's/^# //')
-  # If no title is found, use the file name
-  if [ -z "$TITLE" ]; then
-    TITLE=$(basename "$FILE" .md)
-  fi
-  CONTENTS+="* [$TITLE]($FILE_PATH)\n"
-done
-
 # Find all markdown files in the tools directory
 TOOLS_FILES=$(find tools -type f -name "*.md" | sort)
 
-# Add Tools section header if tools exist and rules were added
+# Add Tools section header
 if [ -n "$TOOLS_FILES" ]; then
-  if [ -n "$RULES_FILES" ]; then
-    CONTENTS+="\n### Tools\n\n"
-  else
-    CONTENTS+="### Tools\n\n"
-  fi
+  CONTENTS+="### Tools\n\n"
 fi
 
 # Loop through each tool file and add it to the Contents section
