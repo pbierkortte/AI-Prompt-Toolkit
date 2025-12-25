@@ -29,6 +29,10 @@ The goal is to create a user-friendly and easily exportable record of the entire
 4. **Maintain Formatting:**  Retain original formatting (e.g., bold, italics, code blocks) or use Markdown to represent it. 
 5. **Minor Spelling Corrections:** Correct minor spelling errors in the questions while keeping answers verbatim.
 
+### Format
+
+Unabridged Q&A with context preservation and minor spelling corrections.
+
 ### Best Practices
 
 1. Use the prompt at the **very end** of your conversation for optimal recall.
