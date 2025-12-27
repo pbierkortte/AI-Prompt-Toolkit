@@ -20,7 +20,7 @@ Continuity preserves what matters between sessions so we build forward together.
 
 ***
 
-Recap this in full with a progressive structure that preserves continuity, nuance, and compaction. Follow this CORES (Context/Obstacle/Routine/Effect/Stuff) five-part progression:
+Recap this in full with a progressive structure that preserves continuity, nuance, and compaction. Follow this CORES (Context/Obstacle/Routine/Effect/Scope) five-part progression:
 
 Who is involved in this journey, including their identity, background, and role within our working environment?
 
@@ -51,7 +51,7 @@ The prompt creates a versatile, high-performance framework that delivers superio
 | **Obstacle** | Why? | Identifies core purpose, value, and driving forces behind the discussion |
 | **Routine** | How? | Documents approach, methods, key decisions, and milestones achieved |
 | **Effect** | What? | Captures current state, developments, and functional components that emerged |
-| **Stuff** | Which? | Details specific resources, next actions, and success criteria |
+| **Scope** | Which? | Details specific resources, next actions, and success criteria |
 
 This structure creates summaries that contain everything necessary for progress and nothing that distracts.
 
@@ -67,7 +67,7 @@ The five-part CORES progression (Who → Why → How → What → Which) natural
 | Why? | Obstacle | Narrative conflicts, tensions, and story purpose |
 | How? | Routine | Plot development and storytelling techniques employed |
 | What? | Effect | Story progression and character development achieved |
-| Which? | Stuff | Specific scenes to write, plot points to develop |
+| Which? | Scope | Specific scenes to write, plot points to develop |
 
 **For research:**
 
@@ -77,7 +77,7 @@ The five-part CORES progression (Who → Why → How → What → Which) natural
 | Why? | Obstacle | Research questions, knowledge gaps, and project value |
 | How? | Routine | Methodology and analytical approach taken |
 | What? | Effect | Findings discovered and insights gained |
-| Which? | Stuff | Specific analyses to run, papers to write |
+| Which? | Scope | Specific analyses to run, papers to write |
 
 **For programming:**
 
@@ -87,7 +87,7 @@ The five-part CORES progression (Who → Why → How → What → Which) natural
 | Why? | Obstacle | Technical problems, requirements, and project purpose |
 | How? | Routine | Architectural decisions and implementation approach |
 | What? | Effect | Features implemented and improvements achieved |
-| Which? | Stuff | Specific functions to code, tests to write |
+| Which? | Scope | Specific functions to code, tests to write |
 
 ### Tasks
 
@@ -95,7 +95,7 @@ The five-part CORES progression (Who → Why → How → What → Which) natural
 2. **Obstacle (Why?):** Identify the core purpose and driving forces.
 3. **Routine (How?):** Document the approach and key decisions made.
 4. **Effect (What?):** Capture the current state and developments.
-5. **Stuff (Which?):** Detail resources, next actions, and success criteria.
+5. **Scope (Which?):** Detail resources, next actions, and success criteria.
 
 ### Best Practices
 
@@ -121,7 +121,7 @@ Routine (How?): Decided on digital-first marketing approach, prioritizing social
 
 Effect (What?): Draft social media content calendar in progress. Shortlist of potential influencer partnerships created. Budget allocation framework established but specific numbers remain unresolved.
 
-Stuff (Which?): 
+Scope (Which?): 
 - Taylor: Finalize budget allocation by EOD Friday
 - AI: Generate three draft social media posts for Instagram based on product brief
 - Success Criteria: Achieve 10% engagement rate on initial posts, secure 2+ influencer collaborations within one week
