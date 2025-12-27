@@ -1,6 +1,6 @@
 # Context-Preserving Summary
 
-This tool helps you generate a rich, context-aware summary of your entire AI chatbot conversation. Unlike typical summarization prompts, "Deep Think" invites the AI to deeply reflect on the discussion, connect insights, and roll up the conversation into a single, comprehensive message—without worrying about structure, order, or word count.
+This tool generates a rich summary of your entire AI conversation. Unlike typical summarization prompts, it invites the AI to deeply reflect on the discussion, connect insights, and roll up everything into a single comprehensive message by letting go of where it started.
 
 ***
 
@@ -15,7 +15,7 @@ This tool helps you generate a rich, context-aware summary of your entire AI cha
 At any point in your conversation, paste the following prompt to invoke a deep-thinking summary:
 
 ```
-No word limit in verbose full paragraphs have a deep think and let your mind wander, stream of consciousness ...
+Your mind wanders in verbose full paragraphs in stream of consciousness because sometimes the only way to know everything is to forget what you were saying...
 ```
 
 ***
@@ -41,7 +41,7 @@ The purpose of this tool is to create a context-preserving, holistic summary of 
 
 ### Design Philosophy
 
-The deliberately casual, unpunctuated phrasing is intentional. By avoiding overly structured instructions, the prompt preserves space for:
+The prompt embeds its own reasoning: to know everything, you must let go of where you started. By flowing naturally rather than directing rigidly, the prompt preserves space for:
 - **Organic synthesis** - Natural connections emerge rather than forced categorization
 - **Emergent insights** - The AI can surface unexpected patterns without being constrained by predefined frameworks
 - **Authentic wandering** - True free-association that captures nuances rigid prompts might miss
@@ -69,7 +69,7 @@ Reflecting on our conversation, a few key threads emerge. We began exploring qua
    A: It works best with AI models capable of recalling and reflecting on long, multi-turn conversations.
 
 3. **Q: Why isn't the prompt more specific or structured?**
-   A: The casual, open-ended phrasing is intentional. Over-directing the AI can kill organic synthesis and unexpected connections. Sometimes the best insights emerge from unstructured reflection.
+   A: The prompt embeds its reasoning in natural flow rather than explicit directives. Over-directing the AI can kill organic synthesis and unexpected connections. Sometimes the best insights emerge when you forget where you started.
 
 4. **Q: When should I use this tool?**
    A: After complex discussions, when you want a checkpoint, or when you're curious about the AI's broader synthesis of the conversation.
