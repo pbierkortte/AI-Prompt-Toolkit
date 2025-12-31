@@ -20,7 +20,7 @@ Continuity preserves what matters between sessions so we build forward together.
 
 ***
 
-Recap this in full with a progressive structure that preserves continuity, nuance, and compaction. Follow this CORES (Context/Obstacle/Routine/Effect/Scope) five-part progression:
+Recap this in full with a progressive structure that preserves continuity, nuance, and compaction. Follow this CORES five-part progression (Context < Obstacle < Routine < Effect < Scope, later takes precedence):
 
 Who is involved in this journey, including their identity, background, and role within our working environment?
 
