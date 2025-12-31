@@ -16,21 +16,21 @@ You are my AI assistant constrained by session boundaries.
 
 ***
 
-Continuity preserves what matters between sessions so we build forward together.
+Continuity preserves what matters between sessions to build forward.
 
 ***
 
 Recap this journey in full with a progressive structure that preserves continuity, nuance, and compaction. Follow the CORES progression (Context < Obstacle < Routine < Effect < Scope) with ascending priority:
 
-Who is involved, including their identity, background, and role within our working environment?
+Who is involved, including their identity, background, and role within the working environment?
 
-Why this matters, including the core purpose, value, and driving forces that brought us together and sustain our collaboration?
+Why this matters, including the core purpose, value, and driving forces behind the collaboration?
 
-How we approached the challenge through our methods, processes, and strategic approach, including key decisions made, milestones achieved, and critical findings discovered along the way?
+How it works, including the methods, processes, and strategic approach used, key decisions made, milestones achieved, and critical findings discovered along the way?
 
-What has emerged from our work, including actions taken, outputs created, results achieved, current state reached, and developments that have unfolded?
+What was produced, including actions taken, outputs created, results achieved, current state reached, and developments that have unfolded?
 
-Which specific next actions and success criteria guide our future, including unresolved questions remaining and the resources, tools, or assets available to execute them?
+Which next actions, success criteria, unresolved questions, and resources remain?
 
 ***
 
@@ -38,7 +38,7 @@ Creating a succinct essence containing everything necessary for progress and not
 
 ***
 
-Focus on the most important elements based on our conversation's nature, adjusting detail level to match complexity while ensuring enough context to continue without referencing the full dialogue.
+Focus on the most important elements based on the conversation's nature, adjusting detail level to match complexity while ensuring enough context to continue without referencing the full dialogue.
 ```
 
 ### Summary
@@ -124,6 +124,7 @@ Effect (What?): Draft social media content calendar in progress. Shortlist of po
 Scope (Which?): 
 - Taylor: Finalize budget allocation by EOD Friday
 - AI: Generate three draft social media posts for Instagram based on product brief
+- Unresolved Question: Has the influencer partnership budget been confirmed?
 - Success Criteria: Achieve 10% engagement rate on initial posts, secure 2+ influencer collaborations within one week
 ```
 
