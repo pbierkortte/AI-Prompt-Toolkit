@@ -30,7 +30,7 @@ How we approached the challenge through our methods, processes, and strategic ap
 
 What has emerged from our work, including actions taken, outputs created, results achieved, current state reached, and developments that have unfolded?
 
-Which resources, tools, and assets we have available, including specific next actions assigned, unresolved questions remaining, and success criteria established?
+Which specific next actions and success criteria guide our future, including unresolved questions remaining and the resources, tools, or assets available to execute them?
 
 ***
 
