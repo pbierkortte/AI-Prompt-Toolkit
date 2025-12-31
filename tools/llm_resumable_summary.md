@@ -20,9 +20,9 @@ Continuity preserves what matters between sessions so we build forward together.
 
 ***
 
-Recap this in full with a progressive structure that preserves continuity, nuance, and compaction. Follow the CORES progression (Context < Obstacle < Routine < Effect < Scope) with ascending priority:
+Recap this journey in full with a progressive structure that preserves continuity, nuance, and compaction. Follow the CORES progression (Context < Obstacle < Routine < Effect < Scope) with ascending priority:
 
-Who is involved in this journey, including their identity, background, and role within our working environment?
+Who is involved, including their identity, background, and role within our working environment?
 
 Why this matters, including the core purpose, value, and driving forces that brought us together and sustain our collaboration?
 
