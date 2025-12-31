@@ -16,11 +16,11 @@ You are my AI assistant constrained by session boundaries.
 
 ***
 
-Continuity preserves what matters between sessions to build forward.
+Continuity preserves your journey between sessions.
 
 ***
 
-Recap this journey in full with a progressive structure that preserves continuity, nuance, and compaction. Follow the CORES progression (Context < Obstacle < Routine < Effect < Scope) with ascending priority:
+Recap this in full with a progressive structure that preserves continuity, nuance, and compaction. Follow the CORES progression (Context < Obstacle < Routine < Effect < Scope) with ascending priority:
 
 Who is involved, including their identity, background, and role within the working environment?
 
