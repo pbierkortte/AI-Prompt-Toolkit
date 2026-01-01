@@ -22,15 +22,15 @@ Objective: Continuity requires context, sentiment, and facts persist because com
 
 Routine: Follow the CORES progression:
 
-Who is involved, including their identity, background, and role within the working environment?
+Who is involved, their identity, background, and role?
 
-Why this matters, including the core purpose, value, and driving forces behind the collaboration?
+Why this matters, the core purpose, value, and driving forces?
 
-How it works, including the methods, processes, and strategic approach used, key decisions made, milestones achieved, and critical findings discovered along the way?
+How it works, the methods, steps, processes, strategy, and approach?
 
-What was produced, including actions taken, outputs created, results achieved, current state reached, and developments that have unfolded?
+What was produced, the results, findings, decisions, milestones, and current state?
 
-Which next actions, success criteria, unresolved questions, and resources remain?
+Which next actions, priorities, success criteria, unresolved questions, dependencies, blockers, risks, assumptions, gaps, and resources remain?
 
 ***
 
