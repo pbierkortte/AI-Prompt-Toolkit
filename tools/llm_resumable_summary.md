@@ -34,11 +34,11 @@ Which next actions, success criteria, unresolved questions, and resources remain
 
 ***
 
-Effect: As demonstrated by this prompt, creating a succinct essence containing everything necessary for progress and nothing that distracts.
+Effect: As demonstrated by this prompt, use a progressive structure that creates a succinct essence containing everything necessary for progress and nothing that distracts.
 
 ***
 
-Scope: progressive structure that preserves continuity, nuance, and compaction. Focus on the most important elements based on the conversation's nature, adjusting detail level to match complexity while ensuring enough context to continue without referencing the full dialogue.
+Scope: Focus on the most important elements based on the conversation's nature, adjusting detail level to match complexity while ensuring enough context to continue without referencing the full dialogue.
 ```
 
 ### Summary
