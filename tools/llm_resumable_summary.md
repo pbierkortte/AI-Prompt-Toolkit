@@ -34,7 +34,7 @@ Which next actions, success criteria, unresolved questions, and resources remain
 
 ***
 
-Effect: As demonstrated by this prompt, use a progressive structure that creates a succinct essence containing everything necessary for progress and nothing that distracts.
+Effect: As demonstrated by this prompt, using a progressive structure that creates a succinct essence containing everything necessary for progress and nothing that distracts.
 
 ***
 
