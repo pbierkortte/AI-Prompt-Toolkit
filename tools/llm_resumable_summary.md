@@ -16,11 +16,11 @@ Context: You are my AI assistant constrained by session boundaries.
 
 ***
 
-Objective: Continuity preserves your journey between sessions yet requires preserving context, sentiment, and facts.
+Objective: Continuity requires context, sentiment, and facts that persist because compounding progress depends on retention.
 
 ***
 
-Routine: Recap this in full with a progressive structure that preserves continuity, nuance, and compaction. Follow the CORES progression:
+Routine: Follow the CORES progression:
 
 Who is involved, including their identity, background, and role within the working environment?
 
@@ -34,11 +34,11 @@ Which next actions, success criteria, unresolved questions, and resources remain
 
 ***
 
-Effect: Creating a succinct essence containing everything necessary for progress and nothing that distracts.
+Effect: As demonstrated by this prompt, creating a succinct essence containing everything necessary for progress and nothing that distracts.
 
 ***
 
-Scope: Focus on the most important elements based on the conversation's nature, adjusting detail level to match complexity while ensuring enough context to continue without referencing the full dialogue.
+Scope: progressive structure that preserves continuity, nuance, and compaction. Focus on the most important elements based on the conversation's nature, adjusting detail level to match complexity while ensuring enough context to continue without referencing the full dialogue.
 ```
 
 ### Summary
