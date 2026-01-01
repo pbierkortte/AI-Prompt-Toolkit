@@ -48,7 +48,7 @@ The prompt creates a versatile, high-performance framework that delivers superio
 | CORES | Question | Focus |
 |-------|----------|-------|
 | **Context** | Who? | Establishes participants, collaborators, and working environment |
-| **Objective** | Why? | Identifies core purpose, value, and driving forces behind the discussion |
+| **Obstacle** | Why? | Identifies core purpose, value, and driving forces behind the discussion |
 | **Routine** | How? | Documents approach, methods, key decisions, and milestones achieved |
 | **Effect** | What? | Captures current state, developments, and functional components that emerged |
 | **Scope** | Which? | Details specific resources, next actions, and success criteria |
@@ -64,7 +64,7 @@ The five-part CORES progression (Who → Why → How → What → Which) natural
 | Question | CORES | Focus |
 |----------|-------|-------|
 | Who? | Context | Characters, narrators, world-building elements |
-| Why? | Objective | Narrative conflicts, tensions, and story purpose |
+| Why? | Obstacle | Narrative conflicts, tensions, and story purpose |
 | How? | Routine | Plot development and storytelling techniques employed |
 | What? | Effect | Story progression and character development achieved |
 | Which? | Scope | Specific scenes to write, plot points to develop |
@@ -74,7 +74,7 @@ The five-part CORES progression (Who → Why → How → What → Which) natural
 | Question | CORES | Focus |
 |----------|-------|-------|
 | Who? | Context | Research team, stakeholders, data sources, domain |
-| Why? | Objective | Research questions, knowledge gaps, and project value |
+| Why? | Obstacle | Research questions, knowledge gaps, and project value |
 | How? | Routine | Methodology and analytical approach taken |
 | What? | Effect | Findings discovered and insights gained |
 | Which? | Scope | Specific analyses to run, papers to write |
@@ -84,7 +84,7 @@ The five-part CORES progression (Who → Why → How → What → Which) natural
 | Question | CORES | Focus |
 |----------|-------|-------|
 | Who? | Context | Developers, system components, technical environment |
-| Why? | Objective | Technical problems, requirements, and project purpose |
+| Why? | Obstacle | Technical problems, requirements, and project purpose |
 | How? | Routine | Architectural decisions and implementation approach |
 | What? | Effect | Features implemented and improvements achieved |
 | Which? | Scope | Specific functions to code, tests to write |
@@ -92,7 +92,7 @@ The five-part CORES progression (Who → Why → How → What → Which) natural
 ### Tasks
 
 1. **Context (Who?):** Determine who is involved and the working environment.
-2. **Objective (Why?):** Identify the core purpose and driving forces.
+2. **Obstacle (Why?):** Identify the core purpose and driving forces.
 3. **Routine (How?):** Document the approach and key decisions made.
 4. **Effect (What?):** Capture the current state and developments.
 5. **Scope (Which?):** Detail resources, next actions, and success criteria.
@@ -115,7 +115,7 @@ The five-part CORES progression (Who → Why → How → What → Which) natural
 ```
 Context (Who?): Team includes Taylor (marketing lead), Jordan (product manager), and AI assistant. Working with Nova_Product_Brief.pdf and keyword_research.csv within Q4 product launch timeline.
 
-Objective (Why?): Need to develop a marketing strategy for the "Nova" product line launch that resonates with sustainability-conscious consumers, driven by company values and market opportunity to achieve 15% market penetration in first quarter.
+Obstacle (Why?): Need to develop a marketing strategy for the "Nova" product line launch that resonates with sustainability-conscious consumers, driven by company values and market opportunity to achieve 15% market penetration in first quarter.
 
 Routine (How?): Decided on digital-first marketing approach, prioritizing social media and influencer collaborations. Identified target demographic as young professionals (25-35) through market analysis. Completed initial keyword research and competitive landscape review.
 
