@@ -16,7 +16,7 @@ Context: You are my AI assistant constrained by session boundaries.
 
 ***
 
-Objective: Continuity requires context, sentiment, and facts that persist because compounding progress depends on retention.
+Objective: Continuity requires context, sentiment, and facts persist because compounding progress depends on retention.
 
 ***
 
