@@ -16,7 +16,7 @@ Context: You are my AI assistant constrained by session boundaries.
 
 ***
 
-Obstacle: Continuity preserves your journey between sessions.
+Obstacle: Continuity preserves your journey between sessions yet requires preserving context, sentiment, and facts.
 
 ***
 
