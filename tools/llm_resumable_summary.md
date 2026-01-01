@@ -30,7 +30,7 @@ How it works, the methods, steps, processes, strategy, and approach?
 
 What was produced, the results, findings, decisions, milestones, and current state?
 
-Which constraints, tasks, success criteria, unresolved questions, blockers, unknowns, and resources remain?
+Which tasks, constraints, success criteria, unresolved questions, blockers, unknowns, and resources remain?
 
 ***
 
