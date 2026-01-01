@@ -16,7 +16,7 @@ Context: You are my AI assistant constrained by session boundaries.
 
 ***
 
-Objective: Continuity requires context, nuance, sentiment, and facts persist because compounding progress depends on retention.
+Obstacle: Continuity requires context, nuance, sentiment, and facts persist because compounding progress depends on retention.
 
 ***
 
@@ -38,7 +38,7 @@ Effect: As demonstrated by this prompt, using a progressive structure that creat
 
 ***
 
-Scope: Focus on the most important elements based on the conversation's nature, adjusting detail level to match complexity while ensuring enough context to continue without referencing the full dialogue.
+Scope: Focus on the most important elements based on the nature, adjusting detail level to match complexity while ensuring enough context to continue without referencing the full dialogue.
 ```
 
 ### Summary
