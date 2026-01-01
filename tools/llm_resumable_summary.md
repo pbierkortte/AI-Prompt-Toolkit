@@ -30,7 +30,7 @@ How it works, the methods, steps, processes, strategy, and approach?
 
 What was produced, the results, findings, decisions, milestones, and current state?
 
-Which next actions, priorities, success criteria, unresolved questions, dependencies, blockers, risks, assumptions, gaps, and resources remain?
+Which tasks, success criteria, unresolved questions, dependencies, blockers, gaps, and resources remain?
 
 ***
 
