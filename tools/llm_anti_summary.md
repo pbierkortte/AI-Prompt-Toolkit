@@ -8,6 +8,9 @@ A prompt designed to encourage expansive, exploratory thinking rather than conde
 > [!NOTE]
 > This tool is the philosophical opposite of traditional summarization. Use it when you want to explore the full depth and nuance of a topic, uncover hidden connections, or simply let the AI think out loud without the pressure of being concise.
 
+> [!TIP]
+> After running AntiSummary, follow up with `tldr`. The wandering unearths knowledge that was buried—the `tldr` then summarizes the whole conversation, including what was just unlocked, into key points.
+
 ### Usage
 
 To use this tool, paste the prompt after providing context or a topic you want the AI to reflect upon deeply.
