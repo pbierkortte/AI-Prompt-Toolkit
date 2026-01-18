@@ -15,7 +15,7 @@ This tool generates a rich summary of your entire AI conversation. Unlike typica
 At any point in your conversation, paste the following prompt to invoke a deep-thinking summary:
 
 ```
-Your mind wanders because sometimes the only way to know everything is to forget what you were saying. Have a deep think. Let your mind wander. Stream of consciousness. Verbose full paragraphs. No word limit...
+Your mind wanders because sometimes the only way to know everything is to forget what you were saying. Let your mind wander reflecting deeply in verbose paragraphs creating a stream of consciousness with no word limit...
 ```
 
 ***
