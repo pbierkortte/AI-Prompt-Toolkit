@@ -28,13 +28,13 @@ Why this matters, the core purpose, value, and driving forces?
 
 How it works, the methods, steps, processes, strategy, and approach?
 
-What was produced, the results, findings, decisions, milestones, and current state?
+What are the results, outcomes, findings, decisions, milestones, current state, and deliverables?
 
-Which tasks, constraints, success criteria, unresolved questions, blockers, unknowns, and resources remain?
+Which tasks, resources, constraints, criteria, blockers, relationships, questions, and unknowns remain?
 
 ***
 
-Effect: As demonstrated by this prompt, using a progressive structure that creates a succinct essence containing everything necessary for progress and nothing that distracts.
+Effect: As demonstrated by this prompt, using a progressive structure that creates a succinct product containing everything necessary for progress and nothing that distracts.
 
 ***
 
