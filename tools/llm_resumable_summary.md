@@ -28,9 +28,9 @@ Why this matters, the core purpose, value, and driving forces?
 
 How it works, the methods, steps, processes, strategy, and approach?
 
-What are the results, outcomes, findings, decisions, milestones, current state, and deliverables?
+What it does, the results, outcomes, findings, decisions, milestones, status, and deliverables?
 
-Which tasks, resources, constraints, criteria, blockers, relationships, questions, and unknowns remain?
+Which it has remaining, the tasks, resources, constraints, criteria, blockers, relationships, questions, and unknowns?
 
 ***
 
