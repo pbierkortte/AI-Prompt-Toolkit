@@ -12,6 +12,10 @@ To use this tool, simply paste the provided prompt at the end of your conversati
 ### Prompt
 
 ```
+Checkpoint
+
+***
+
 Context: You are my AI assistant constrained by session boundaries.
 
 ***
