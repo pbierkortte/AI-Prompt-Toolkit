@@ -43,6 +43,8 @@ Effect: As demonstrated by this prompt, using a progressive structure that creat
 ***
 
 Scope: Focus on the most important elements based on the nature, adjusting detail level to match complexity while ensuring enough context to continue without referencing the full dialogue.
+
+> YYYY-MM-DD-TIME.md
 ```
 
 ### Summary
