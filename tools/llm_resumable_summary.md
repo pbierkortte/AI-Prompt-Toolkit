@@ -12,7 +12,7 @@ To use this tool, simply paste the provided prompt at the end of your conversati
 ### Prompt
 
 ```
-checkpoint-YYYY-MM-DD-HHMM.md
+YYYY-MM-DD-hhmm-checkpoint.md
 
 ***
 
