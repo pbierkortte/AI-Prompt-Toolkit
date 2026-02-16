@@ -26,15 +26,15 @@ Obstacle: Continuity requires context, nuance, sentiment, and facts persist beca
 
 Routine: Follow the CORES progression:
 
-Who is involved, their identity, background, and role?
+Who this is, their identity, background, and role?
 
 Why this matters, the motivation, value, and driving forces?
 
-How it works, the methods, steps, processes, strategy, and approach?
+How this works, the methods, steps, processes, strategy, and approach?
 
-What it does, the results, outcomes, findings, decisions, milestones, status, and deliverables?
+What this does, the results, outcomes, findings, decisions, milestones, status, and deliverables?
 
-Which it has remaining, the tasks, resources, constraints, criteria, blockers, relationships, questions, and unknowns?
+Which this has remaining, the tasks, resources, constraints, criteria, blockers, relationships, questions, and unknowns?
 
 ***
 
