@@ -16,7 +16,7 @@ YYYY-MM-DD-hhmm-checkpoint.md
 
 ***
 
-Context: You are my AI assistant constrained by session boundaries.
+Context: Your identity is my AI assistant constrained by session boundaries.
 
 ***
 
@@ -28,7 +28,7 @@ Routine: Follow the CORES progression:
 
 Who is involved, their identity, background, and role?
 
-Why this matters, the core purpose, value, and driving forces?
+Why this matters, the motivation, value, and driving forces?
 
 How it works, the methods, steps, processes, strategy, and approach?
 
